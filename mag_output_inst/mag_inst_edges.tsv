@@ -1,0 +1,2389 @@
+chalmers university of technology	university of tokyo	2	trans-continental
+chalmers university of technology	aalto university	2	international
+chalmers university of technology	university of gothenburg	3	domestic
+chalmers university of technology	stockholm environment institute	2	Unknown
+sichuan university	peking university	7	domestic
+sichuan university	unicef	2	trans-continental
+sichuan university	university of london	4	trans-continental
+sichuan university	university of washington	2	trans-continental
+sichuan university	chinese center for disease control and prevention	2	Unknown
+sichuan university	johns hopkins university	2	trans-continental
+sichuan university	kathmandu	2	international
+university of california berkeley	university of california san diego	2	domestic
+university of california berkeley	lawrence berkeley national laboratory	3	domestic
+university of california berkeley	plymouth state university	2	domestic
+university of california berkeley	federal university of rio de janeiro	2	Unknown
+university of california berkeley	national autonomous university of mexico	2	international
+university of california berkeley	university of massachusetts amherst	2	domestic
+university of california berkeley	unicef	3	trans-continental
+university of california berkeley	university of california davis	3	domestic
+university of california berkeley	world health organization	8	trans-continental
+university of california berkeley	world bank	2	trans-continental
+university of california berkeley	university of pennsylvania	3	domestic
+university of california berkeley	university of toronto	2	international
+university of california berkeley	university of maryland baltimore	2	domestic
+university of california berkeley	emory university	2	domestic
+university of california berkeley	massachusetts institute of technology	2	domestic
+university of california berkeley	carnegie mellon university	2	domestic
+university of california berkeley	university of michigan	3	domestic
+university of california berkeley	international institute for environment and development	2	trans-continental
+university of california berkeley	university of london	2	trans-continental
+university of california berkeley	arizona state university	3	domestic
+university of california berkeley	university of colorado boulder	2	domestic
+university of california berkeley	imperial college london	2	trans-continental
+university of california berkeley	harvard university	9	domestic
+university of california berkeley	united states department of agriculture	2	domestic
+university of california berkeley	cornell university	2	domestic
+university of california berkeley	duke university	2	domestic
+university of california berkeley	columbia university	3	domestic
+university of california berkeley	university of arizona	2	domestic
+university of california berkeley	johns hopkins university	2	domestic
+university of california berkeley	stanford university	2	domestic
+university of california berkeley	mathematica policy research	2	Unknown
+university of california berkeley	brigham and women s hospital	2	Unknown
+university of california berkeley	yale university	2	domestic
+university of california berkeley	aga khan university	2	trans-continental
+stockholm university	university of lisbon	2	international
+stockholm university	columbia university	3	trans-continental
+stockholm university	university of melbourne	2	trans-continental
+stockholm university	australian national university	6	trans-continental
+stockholm university	swedish university of agricultural sciences	4	domestic
+stockholm university	mid sweden university	2	domestic
+stockholm university	karolinska institutet	3	domestic
+stockholm university	university of oxford	2	international
+stockholm university	university of gothenburg	4	domestic
+stockholm university	royal swedish academy of sciences	3	Unknown
+stockholm university	arizona state university	4	trans-continental
+stockholm university	monash university	2	trans-continental
+stockholm university	united nations	2	international
+stockholm university	commonwealth scientific and industrial research organisation	4	trans-continental
+stockholm university	royal institute of technology	3	domestic
+stockholm university	stockholm environment institute	2	Unknown
+stockholm university	stanford university	3	trans-continental
+stockholm university	university of minnesota	3	trans-continental
+stockholm university	utrecht university	2	international
+stockholm university	keio university	2	trans-continental
+stockholm university	bioversity international	3	international
+stockholm university	international water management institute	2	trans-continental
+stockholm university	university of illinois at urbana champaign	2	trans-continental
+stockholm university	wageningen university and research centre	2	international
+stockholm university	european commission	2	international
+stockholm university	university of twente	2	international
+stockholm university	international food policy research institute	2	trans-continental
+university of london	european observatory on health systems and policies	2	Unknown
+university of london	medical research council	10	trans-continental
+university of london	karolinska institutet	5	international
+university of london	university of zambia	3	trans-continental
+university of london	ministry of health and social welfare	3	trans-continental
+university of london	ifakara health institute	2	trans-continental
+university of london	university of the western cape	4	trans-continental
+university of london	save the children	24	trans-continental
+university of london	world health organization	39	international
+university of london	unicef	15	international
+university of london	university of queensland	3	trans-continental
+university of london	imperial college london	9	international
+university of london	aga khan university	17	trans-continental
+university of london	university of the witwatersrand	11	trans-continental
+university of london	national and kapodistrian university of athens	2	international
+university of london	johns hopkins university	36	trans-continental
+university of london	harvard university	17	trans-continental
+university of london	university of warwick	2	international
+university of london	world bank	7	trans-continental
+university of london	university college london	17	international
+university of london	mahidol university	2	trans-continental
+university of london	lund university	2	international
+university of london	united nations population fund	4	trans-continental
+university of london	university of oxford	11	international
+university of london	queen mary university of london	3	international
+university of london	stanford university	3	trans-continental
+university of london	peking university	7	trans-continental
+university of london	royal veterinary college	2	international
+university of london	university of edinburgh	7	international
+university of london	state university of campinas	2	Unknown
+university of london	universidade federal de pelotas	5	trans-continental
+university of london	bill melinda gates foundation	5	trans-continental
+university of london	cornell university	2	trans-continental
+university of london	makerere university	3	trans-continental
+university of london	international centre for diarrhoeal disease research bangladesh	2	Unknown
+university of london	graduate institute of international and development studies	2	Unknown
+university of london	pan american health organization	4	trans-continental
+university of london	medecins sans frontieres	4	international
+university of london	international union against tuberculosis and lung disease	5	Unknown
+university of london	university of cambridge	2	international
+university of london	university of washington	5	trans-continental
+university of london	university of aberdeen	7	international
+university of london	vanderbilt university	2	trans-continental
+university of london	college of health sciences bahrain	2	trans-continental
+university of london	university of oslo	2	international
+university of london	university of york	2	international
+university of london	university of toronto	10	trans-continental
+university of london	australian national university	2	trans-continental
+university of london	university of north carolina at chapel hill	8	trans-continental
+university of london	max planck society	2	international
+university of london	university of melbourne	5	trans-continental
+university of london	royal children s hospital	2	international
+university of london	cayetano heredia university	3	trans-continental
+university of london	university of bristol	4	international
+university of london	international institute for applied systems analysis	3	international
+university of london	south african medical research council	4	trans-continental
+university of london	united nations	4	international
+university of london	university of cape town	10	trans-continental
+university of london	university of auckland	5	trans-continental
+university of london	umea university	4	international
+university of london	university of california san francisco	7	trans-continental
+university of london	government of south africa	2	trans-continental
+university of london	ministry of health and family welfare	2	trans-continental
+university of london	united states agency for international development	2	international
+university of london	university of liverpool	3	international
+university of london	university of east anglia	4	international
+university of london	king s college london	8	trans-continental
+university of london	public health foundation of india	2	Unknown
+university of london	institute of tropical medicine antwerp	5	Unknown
+university of london	march of dimes	2	trans-continental
+university of london	columbia university	5	trans-continental
+university of london	national institute for medical research	2	trans-continental
+university of london	university of copenhagen	2	international
+university of london	university of california davis	3	trans-continental
+university of london	university of otago	2	trans-continental
+university of london	national institutes of health	4	trans-continental
+university of london	university of the philippines	2	trans-continental
+university of london	boston children s hospital	3	Unknown
+university of london	overseas development institute	2	international
+university of london	ucl institute of child health	2	Unknown
+university of london	ghent university	3	international
+university of london	brigham and women s hospital	3	Unknown
+university of london	brac university	2	trans-continental
+university of london	university of maryland baltimore	2	trans-continental
+university of london	swiss tropical and public health institute	2	international
+university of london	university of manchester	2	international
+university of london	university of nairobi	2	trans-continental
+university of london	centers for disease control and prevention	2	trans-continental
+university of london	marie stopes international	2	trans-continental
+university of london	tufts university	2	trans-continental
+university of london	liverpool school of tropical medicine	2	international
+university of london	wellcome trust	3	international
+university of london	norwegian institute of public health	2	international
+university of london	rti international	2	trans-continental
+university of london	university of malawi	5	trans-continental
+university of london	world bank group	2	trans-continental
+university of london	university of utah	2	trans-continental
+university of london	rockefeller foundation	2	Unknown
+university of london	university of british columbia	3	trans-continental
+university of london	northwestern university	2	trans-continental
+university of london	duke university	5	trans-continental
+university of london	the george institute for global health	2	international
+university of london	university of geneva	2	international
+university of london	university of southampton	3	trans-continental
+university of london	university of michigan	2	trans-continental
+university of london	international livestock research institute	3	trans-continental
+university of london	university of reading	2	international
+university of london	heidelberg university	2	trans-continental
+university of london	emory university	3	trans-continental
+university of london	stockholm environment institute	2	Unknown
+university of london	federal ministry of health	2	international
+university of london	tshwane university of technology	2	trans-continental
+university of london	university of leeds	2	international
+university of london	university of buea	2	trans-continental
+university of london	international organization for migration	2	trans-continental
+makerere university	rti international	2	trans-continental
+makerere university	unicef	3	trans-continental
+makerere university	world health organization	2	trans-continental
+makerere university	johns hopkins university	7	trans-continental
+makerere university	karolinska institutet	5	trans-continental
+makerere university	swiss tropical and public health institute	2	trans-continental
+makerere university	uganda christian university	2	domestic
+makerere university	columbia university	2	trans-continental
+makerere university	world bank	2	trans-continental
+makerere university	bill melinda gates foundation	2	trans-continental
+makerere university	cornell university	2	trans-continental
+makerere university	institute of tropical medicine antwerp	2	Unknown
+makerere university	save the children	4	trans-continental
+makerere university	harvard university	3	trans-continental
+makerere university	university of leeds	2	trans-continental
+makerere university	liverpool school of tropical medicine	3	trans-continental
+makerere university	johns hopkins university school of medicine	2	Unknown
+makerere university	university of california san francisco	2	trans-continental
+rti international	centers for disease control and prevention	2	domestic
+rti international	johns hopkins university	2	domestic
+rti international	national institutes of health	4	domestic
+rti international	drexel university	2	domestic
+rti international	university of maryland baltimore	2	domestic
+rti international	world health organization	3	trans-continental
+rti international	university college london	2	trans-continental
+rti international	harvard university	2	domestic
+rti international	the george institute for global health	2	trans-continental
+university of wisconsin madison	university of maryland college park	4	domestic
+university of wisconsin madison	university of alaska fairbanks	2	domestic
+university of wisconsin madison	united states geological survey	2	domestic
+university of wisconsin madison	the nature conservancy	2	domestic
+university of wisconsin madison	utah state university	2	domestic
+university of wisconsin madison	hampton university	2	domestic
+university of wisconsin madison	university of washington	2	domestic
+university of wisconsin madison	ohio state university	2	domestic
+stanford university	university of california	2	domestic
+stanford university	university of arizona	2	domestic
+stanford university	university of colorado boulder	2	domestic
+stanford university	university of utah	2	domestic
+stanford university	university of tokyo	2	trans-continental
+stanford university	chinese academy of sciences	3	trans-continental
+stanford university	world health organization	2	trans-continental
+stanford university	king s college london	3	trans-continental
+stanford university	university of oxford	2	trans-continental
+stanford university	queen mary university of london	2	trans-continental
+stanford university	yale university	3	domestic
+stanford university	harvard university	9	domestic
+stanford university	international food policy research institute	3	trans-continental
+stanford university	university of california davis	3	domestic
+stanford university	university of navarra	2	Unknown
+stanford university	emory university	2	domestic
+stanford university	cornell university	3	domestic
+stanford university	australian national university	6	trans-continental
+stanford university	university of washington	3	domestic
+stanford university	columbia university	3	domestic
+stanford university	bioversity international	4	trans-continental
+stanford university	arizona state university	3	domestic
+stanford university	university of alaska fairbanks	3	domestic
+stanford university	university of minnesota	3	domestic
+stanford university	united states department of agriculture	2	domestic
+stanford university	university of sydney	2	trans-continental
+stanford university	duke university	3	domestic
+stanford university	national oceanic and atmospheric administration	2	Unknown
+stanford university	university of british columbia	2	international
+stanford university	rutgers university	2	domestic
+stanford university	conservation international	2	trans-continental
+stanford university	james cook university	2	trans-continental
+stanford university	university of rhode island	2	domestic
+stanford university	san diego state university	2	domestic
+stanford university	northumbria university	2	trans-continental
+stanford university	northwest university	2	domestic
+stanford university	university of the witwatersrand	2	trans-continental
+stanford university	aga khan university	2	trans-continental
+stanford university	cgiar	2	trans-continental
+stanford university	international water management institute	2	trans-continental
+stanford university	international center for agricultural research in the dry areas	2	trans-continental
+stanford university	stockholm resilience centre	2	trans-continental
+stanford university	brigham and women s hospital	2	Unknown
+stanford university	university of florida	3	domestic
+stanford university	michigan state university	2	domestic
+stanford university	international center for tropical agriculture	2	international
+stanford university	university of twente	2	trans-continental
+stanford university	washington state university	2	domestic
+university of california	harvard university	3	domestic
+university of california	university of nottingham	2	trans-continental
+university of california	world health organization	2	trans-continental
+university of california	charles sturt university	2	trans-continental
+portland state university	oregon state university	2	domestic
+portland state university	university of colorado boulder	2	domestic
+oregon state university	columbia university	2	domestic
+oregon state university	wageningen university and research centre	2	trans-continental
+oregon state university	university of florida	2	domestic
+ghent university	free university of brussels	3	Unknown
+ghent university	university of liege	2	Unknown
+ghent university	katholieke universiteit leuven	2	Unknown
+ghent university	universite catholique de louvain	2	domestic
+ghent university	czech university of life sciences prague	2	international
+ghent university	johns hopkins university	2	trans-continental
+ghent university	harvard university	2	trans-continental
+ghent university	university of copenhagen	2	international
+ghent university	university of the witwatersrand	2	trans-continental
+ghent university	world health organization	2	international
+ghent university	university of antwerp	2	domestic
+umm al qura university	birla institute of technology and science	2	Unknown
+teri university	international institute for applied systems analysis	2	trans-continental
+utrecht university	nyenrode business university	3	domestic
+utrecht university	netherlands environmental assessment agency	11	Unknown
+utrecht university	wageningen university and research centre	8	domestic
+utrecht university	potsdam institute for climate impact research	7	Unknown
+utrecht university	national center for atmospheric research	3	trans-continental
+utrecht university	joint global change research institute	2	trans-continental
+utrecht university	world bank	2	trans-continental
+utrecht university	university of amsterdam	5	domestic
+utrecht university	delft university of technology	2	domestic
+utrecht university	university of washington	2	trans-continental
+utrecht university	university of reading	2	international
+utrecht university	keio university	2	trans-continental
+utrecht university	international institute for applied systems analysis	7	international
+utrecht university	commonwealth scientific and industrial research organisation	2	trans-continental
+utrecht university	chinese academy of sciences	2	trans-continental
+utrecht university	national institute for environmental studies	3	trans-continental
+utrecht university	university college london	2	international
+utrecht university	columbia university	2	trans-continental
+utrecht university	bocconi university	2	international
+utrecht university	national university of singapore	2	trans-continental
+kyung hee university	university of belgrade	2	trans-continental
+purdue university	university of tennessee	3	domestic
+purdue university	chinese academy of sciences	4	trans-continental
+purdue university	massachusetts institute of technology	2	domestic
+purdue university	pennsylvania state university	2	domestic
+indian agricultural research institute	indian council of agricultural research	2	Unknown
+university of victoria	vancouver island university	2	domestic
+university of victoria	world health organization	2	trans-continental
+university of victoria	university of ontario institute of technology	2	domestic
+university of victoria	international institute for applied systems analysis	2	trans-continental
+university of victoria	university of tennessee	2	international
+university of victoria	laval university	2	trans-continental
+university of victoria	university of science and technology beijing	2	Unknown
+george mason university	wageningen university and research centre	4	trans-continental
+george mason university	virginia tech	2	domestic
+george mason university	university of illinois at urbana champaign	2	domestic
+george mason university	university of southern california	2	domestic
+george mason university	university of toronto	2	international
+george mason university	university of oxford	2	trans-continental
+george mason university	arizona state university	2	domestic
+wageningen university and research centre	university of twente	5	domestic
+wageningen university and research centre	columbia university	4	trans-continental
+wageningen university and research centre	international livestock research institute	3	trans-continental
+wageningen university and research centre	swedish university of agricultural sciences	3	international
+wageningen university and research centre	chinese academy of sciences	5	trans-continental
+wageningen university and research centre	united nations environment programme	2	trans-continental
+wageningen university and research centre	institut national de la recherche agronomique	6	international
+wageningen university and research centre	aarhus university	4	international
+wageningen university and research centre	bayer	2	international
+wageningen university and research centre	tilburg university	3	domestic
+wageningen university and research centre	netherlands environmental assessment agency	6	Unknown
+wageningen university and research centre	international rice research institute	2	trans-continental
+wageningen university and research centre	helmholtz centre for environmental research ufz	2	Unknown
+wageningen university and research centre	agricultural research service	3	trans-continental
+wageningen university and research centre	dalle molle institute for artificial intelligence research	2	Unknown
+wageningen university and research centre	united states department of agriculture	4	trans-continental
+wageningen university and research centre	potsdam institute for climate impact research	3	Unknown
+wageningen university and research centre	research institute of organic agriculture	2	Unknown
+wageningen university and research centre	university of leeds	4	international
+wageningen university and research centre	lund university	2	international
+wageningen university and research centre	unesco ihe institute for water education	2	Unknown
+wageningen university and research centre	lancaster university	2	international
+wageningen university and research centre	university of nottingham	2	international
+wageningen university and research centre	rothamsted research	4	international
+wageningen university and research centre	food and agriculture organization	2	trans-continental
+wageningen university and research centre	international food policy research institute	3	trans-continental
+wageningen university and research centre	university of vermont	2	trans-continental
+wageningen university and research centre	washington state university	2	trans-continental
+wageningen university and research centre	university of copenhagen	2	international
+wageningen university and research centre	cgiar	2	international
+wageningen university and research centre	center for international forestry research	5	trans-continental
+wageningen university and research centre	international institute for applied systems analysis	3	international
+wageningen university and research centre	commonwealth scientific and industrial research organisation	2	trans-continental
+wageningen university and research centre	vu university amsterdam	2	domestic
+wageningen university and research centre	international center for tropical agriculture	2	trans-continental
+wageningen university and research centre	national autonomous university of mexico	2	trans-continental
+wageningen university and research centre	bioversity international	3	international
+wageningen university and research centre	international water management institute	2	trans-continental
+wageningen university and research centre	university of valencia	2	trans-continental
+wageningen university and research centre	university of amsterdam	2	domestic
+wageningen university and research centre	michigan state university	2	trans-continental
+wageningen university and research centre	world agroforestry centre	3	trans-continental
+wageningen university and research centre	world resources institute	2	trans-continental
+wageningen university and research centre	humboldt university of berlin	2	international
+wageningen university and research centre	international fertilizer development center	2	Unknown
+wageningen university and research centre	university of kassel	2	international
+wageningen university and research centre	cranfield university	2	international
+wageningen university and research centre	university of oxford	3	international
+wageningen university and research centre	university of reading	2	international
+agricultural research service	university of california davis	2	domestic
+agricultural research service	united states department of agriculture	3	domestic
+university of california davis	international food policy research institute	2	trans-continental
+university of california davis	the nature conservancy	2	domestic
+university of california davis	world wide fund for nature	2	trans-continental
+university of california davis	university of copenhagen	2	trans-continental
+university of california davis	colorado state university	2	domestic
+university of california davis	washington state university	2	domestic
+university of california davis	united states department of agriculture	3	domestic
+university of california davis	university of auckland	2	trans-continental
+university of california davis	university of toronto	2	international
+university of california davis	university of edinburgh	2	trans-continental
+university of california davis	johns hopkins university	2	domestic
+university of california davis	university of the philippines	2	trans-continental
+university of california davis	australian national university	2	trans-continental
+unicef	tufts university	2	trans-continental
+unicef	university of queensland	2	trans-continental
+unicef	university of the western cape	3	trans-continental
+unicef	save the children	14	trans-continental
+unicef	world health organization	24	international
+unicef	united nations development programme	3	international
+unicef	university of the witwatersrand	2	trans-continental
+unicef	university college london	5	domestic
+unicef	bill melinda gates foundation	3	trans-continental
+unicef	university of auckland	2	trans-continental
+unicef	john snow inc	2	Unknown
+unicef	johns hopkins university	28	trans-continental
+unicef	aga khan university	12	trans-continental
+unicef	harvard university	7	trans-continental
+unicef	university of massachusetts amherst	3	trans-continental
+unicef	united nations	4	international
+unicef	united nations population fund	4	trans-continental
+unicef	university of toronto	2	trans-continental
+unicef	university of maryland baltimore	2	trans-continental
+unicef	world bank	11	trans-continental
+unicef	emory university	2	trans-continental
+unicef	public health foundation of india	3	Unknown
+unicef	kathmandu	2	trans-continental
+unicef	national university of singapore	2	trans-continental
+unicef	fhi 360	2	trans-continental
+unicef	the new school	2	trans-continental
+unicef	peking university	4	trans-continental
+unicef	ministry of health and family welfare	2	trans-continental
+unicef	centers for disease control and prevention	7	trans-continental
+unicef	national institutes of health	3	trans-continental
+unicef	joint united nations programme on hiv aids	2	Unknown
+unicef	columbia university	6	trans-continental
+unicef	university of north carolina at chapel hill	4	trans-continental
+unicef	university of washington	2	trans-continental
+unicef	international food policy research institute	2	trans-continental
+unicef	institute of tropical medicine antwerp	2	Unknown
+unicef	university of southampton	4	trans-continental
+unicef	duke university	2	trans-continental
+unicef	university of edinburgh	3	domestic
+unicef	south african medical research council	2	trans-continental
+unicef	university of kwazulu natal	2	trans-continental
+unicef	pan american health organization	2	trans-continental
+unicef	university of melbourne	2	trans-continental
+university of bergen	college of health sciences bahrain	2	trans-continental
+university of bergen	university of california san francisco	2	domestic
+university of bergen	university of washington	2	domestic
+university of bergen	university of queensland	4	trans-continental
+university of bergen	georgetown university	2	domestic
+university of bergen	university of toronto	2	international
+university of bergen	norwegian institute of public health	3	trans-continental
+university of bergen	millennium institute	2	trans-continental
+university of arizona	university of colorado boulder	2	domestic
+university of arizona	national autonomous university of mexico	2	international
+university of arizona	university of minnesota	2	domestic
+university of arizona	imperial college london	2	trans-continental
+university of arizona	max planck society	2	trans-continental
+university of arizona	columbia university	2	domestic
+university of arizona	arizona state university	2	domestic
+university of arizona	university of twente	2	trans-continental
+university of colorado boulder	university of utah	2	domestic
+university of colorado boulder	university of british columbia	2	international
+university of colorado boulder	colorado state university	3	domestic
+university of colorado boulder	university of michigan	2	domestic
+university of colorado boulder	vanderbilt university	2	domestic
+university of colorado boulder	columbia university	2	domestic
+university of colorado boulder	boston children s hospital	2	Unknown
+university of colorado boulder	massachusetts eye and ear infirmary	2	domestic
+university of colorado boulder	harvard university	3	domestic
+university of colorado boulder	lund university	2	trans-continental
+university of colorado boulder	university of connecticut	2	domestic
+university of colorado boulder	cornell university	3	domestic
+university of colorado boulder	duke university	2	domestic
+university of colorado boulder	university of leeds	2	trans-continental
+university of colorado boulder	max planck society	2	trans-continental
+university of colorado boulder	national museum of natural history	2	domestic
+university of colorado boulder	national ecological observatory network	2	domestic
+university of colorado boulder	centre national de la recherche scientifique	2	trans-continental
+university of colorado boulder	national oceanic and atmospheric administration	2	Unknown
+university of utah	vanderbilt university	2	domestic
+university of utah	university of california san francisco	3	domestic
+university of utah	addis ababa university	2	trans-continental
+university of utah	pacific northwest university of health sciences	2	domestic
+university of tokyo	tohoku university	2	domestic
+university of tokyo	teikyo university	2	trans-continental
+university of tokyo	university of dhaka	2	international
+university of tokyo	national institute for environmental studies	2	domestic
+university of tokyo	united nations	2	trans-continental
+university of tokyo	university of rajshahi	3	international
+university of tokyo	united nations university	2	trans-continental
+university of tokyo	chinese academy of sciences	3	international
+university of birmingham	university of nairobi	2	trans-continental
+university of brasilia	humboldt university of berlin	2	trans-continental
+university of brasilia	university of toronto	2	trans-continental
+romanian academy	national defence college india	2	Unknown
+mekelle university	federal ministry of health	2	trans-continental
+mekelle university	norwegian university of life sciences	2	trans-continental
+griffith university	princess alexandra hospital	2	trans-continental
+griffith university	university of canberra	2	domestic
+griffith university	university of queensland	7	domestic
+griffith university	australian museum	2	domestic
+griffith university	university of new south wales	2	domestic
+griffith university	australian national university	2	domestic
+griffith university	university college london	2	trans-continental
+griffith university	united states forest service	2	trans-continental
+griffith university	university of melbourne	2	domestic
+griffith university	university of washington	2	trans-continental
+griffith university	imperial college london	2	trans-continental
+griffith university	world wide fund for nature	2	trans-continental
+griffith university	the nature conservancy	3	trans-continental
+griffith university	city college of new york	2	trans-continental
+commonwealth scientific and industrial research organisation	australian national university	13	domestic
+commonwealth scientific and industrial research organisation	university of new south wales	3	domestic
+commonwealth scientific and industrial research organisation	university of sydney	3	domestic
+commonwealth scientific and industrial research organisation	hobart corporation	3	trans-continental
+commonwealth scientific and industrial research organisation	university of british columbia	2	trans-continental
+commonwealth scientific and industrial research organisation	institut de recherche pour le developpement	2	trans-continental
+commonwealth scientific and industrial research organisation	la trobe university	3	domestic
+commonwealth scientific and industrial research organisation	university of melbourne	6	domestic
+commonwealth scientific and industrial research organisation	swedish university of agricultural sciences	3	trans-continental
+commonwealth scientific and industrial research organisation	arizona state university	3	trans-continental
+commonwealth scientific and industrial research organisation	university of the witwatersrand	2	trans-continental
+commonwealth scientific and industrial research organisation	international center for tropical agriculture	2	trans-continental
+commonwealth scientific and industrial research organisation	james cook university	5	domestic
+commonwealth scientific and industrial research organisation	monash university	3	domestic
+commonwealth scientific and industrial research organisation	united nations	2	trans-continental
+commonwealth scientific and industrial research organisation	university of queensland	4	domestic
+commonwealth scientific and industrial research organisation	university of mataram	2	trans-continental
+commonwealth scientific and industrial research organisation	international institute for applied systems analysis	3	trans-continental
+commonwealth scientific and industrial research organisation	university of alaska fairbanks	2	trans-continental
+commonwealth scientific and industrial research organisation	flinders university	2	domestic
+commonwealth scientific and industrial research organisation	university of twente	3	trans-continental
+commonwealth scientific and industrial research organisation	centre national de la recherche scientifique	2	trans-continental
+commonwealth scientific and industrial research organisation	concordia university	2	trans-continental
+commonwealth scientific and industrial research organisation	stellenbosch university	3	trans-continental
+commonwealth scientific and industrial research organisation	university of california santa barbara	2	trans-continental
+commonwealth scientific and industrial research organisation	netherlands environmental assessment agency	2	Unknown
+commonwealth scientific and industrial research organisation	chinese academy of sciences	3	trans-continental
+commonwealth scientific and industrial research organisation	university of oxford	2	trans-continental
+commonwealth scientific and industrial research organisation	university of reading	2	trans-continental
+commonwealth scientific and industrial research organisation	university of florida	2	trans-continental
+commonwealth scientific and industrial research organisation	columbia university	2	trans-continental
+commonwealth scientific and industrial research organisation	stockholm resilience centre	2	trans-continental
+commonwealth scientific and industrial research organisation	university of cape town	2	trans-continental
+commonwealth scientific and industrial research organisation	queensland university of technology	2	domestic
+commonwealth scientific and industrial research organisation	university of tasmania	3	domestic
+commonwealth scientific and industrial research organisation	zoological society of london	2	trans-continental
+commonwealth scientific and industrial research organisation	spanish national research council	2	Unknown
+commonwealth scientific and industrial research organisation	university of eastern finland	2	trans-continental
+commonwealth scientific and industrial research organisation	national oceanic and atmospheric administration	2	Unknown
+commonwealth scientific and industrial research organisation	conservation international	2	trans-continental
+commonwealth scientific and industrial research organisation	yale university	2	trans-continental
+commonwealth scientific and industrial research organisation	nagoya university	3	trans-continental
+commonwealth scientific and industrial research organisation	woodrow wilson international center for scholars	2	trans-continental
+commonwealth scientific and industrial research organisation	martin luther university of halle wittenberg	3	Unknown
+commonwealth scientific and industrial research organisation	university of amsterdam	2	trans-continental
+commonwealth scientific and industrial research organisation	university of alcala	2	trans-continental
+commonwealth scientific and industrial research organisation	global biodiversity information facility	2	trans-continental
+commonwealth scientific and industrial research organisation	florida museum of natural history	2	trans-continental
+commonwealth scientific and industrial research organisation	beijing normal university	2	trans-continental
+commonwealth scientific and industrial research organisation	university of warwick	2	trans-continental
+oak ridge national laboratory	idaho national laboratory	3	domestic
+oak ridge national laboratory	pacific northwest national laboratory	2	Unknown
+oak ridge national laboratory	university of tennessee	5	domestic
+oak ridge national laboratory	university of sao paulo	2	trans-continental
+oak ridge national laboratory	michigan technological university	2	domestic
+oak ridge national laboratory	conservation international	2	trans-continental
+oak ridge national laboratory	university of florida	2	domestic
+university of the witwatersrand	johns hopkins university	5	trans-continental
+university of the witwatersrand	council of scientific and industrial research	2	Unknown
+university of the witwatersrand	university college london	6	trans-continental
+university of the witwatersrand	bill melinda gates foundation	2	trans-continental
+university of the witwatersrand	aga khan university	4	international
+university of the witwatersrand	university of cape town	15	domestic
+university of the witwatersrand	save the children	4	trans-continental
+university of the witwatersrand	columbia university	4	trans-continental
+university of the witwatersrand	centre for the aids programme of research in south africa	2	Unknown
+university of the witwatersrand	medical research council	3	international
+university of the witwatersrand	university of south africa	2	domestic
+university of the witwatersrand	university of kwazulu natal	12	domestic
+university of the witwatersrand	university of ghana	3	international
+university of the witwatersrand	umea university	2	trans-continental
+university of the witwatersrand	university of melbourne	2	trans-continental
+university of the witwatersrand	royal children s hospital	2	trans-continental
+university of the witwatersrand	university of california san francisco	2	trans-continental
+university of the witwatersrand	world health organization	6	trans-continental
+university of the witwatersrand	university of the western cape	4	domestic
+university of the witwatersrand	boston children s hospital	2	Unknown
+university of the witwatersrand	imperial college london	3	trans-continental
+university of the witwatersrand	king s college london	3	trans-continental
+university of the witwatersrand	harvard university	5	trans-continental
+university of the witwatersrand	universidade federal de pelotas	2	trans-continental
+university of the witwatersrand	university of north carolina at chapel hill	4	trans-continental
+university of the witwatersrand	brigham and women s hospital	3	Unknown
+university of the witwatersrand	umea centre for global health research	2	Unknown
+university of the witwatersrand	heidelberg university	2	trans-continental
+university of the witwatersrand	university of nairobi	2	international
+university of the witwatersrand	university of edinburgh	2	trans-continental
+university of the witwatersrand	university of western australia	2	trans-continental
+university of the witwatersrand	emory university	2	trans-continental
+university of the witwatersrand	university of southampton	2	trans-continental
+university of the witwatersrand	stellenbosch university	3	domestic
+university of the witwatersrand	university of pennsylvania	2	trans-continental
+university of the witwatersrand	erasmus university rotterdam	2	trans-continental
+university of the witwatersrand	university of oxford	2	trans-continental
+amity university	liverpool john moores university	2	trans-continental
+university of miami	south florida water management district	2	domestic
+university of miami	duke university	2	domestic
+united states forest service	australian national university	2	trans-continental
+united states forest service	conservation international	2	trans-continental
+pontifical catholic university of chile	eth zurich	2	Unknown
+massachusetts institute of technology	united nations university	2	trans-continental
+massachusetts institute of technology	united nations	3	trans-continental
+massachusetts institute of technology	arizona state university	2	domestic
+massachusetts institute of technology	virginia tech	2	domestic
+massachusetts institute of technology	masdar institute of science and technology	2	Unknown
+massachusetts institute of technology	kyushu university	2	trans-continental
+massachusetts institute of technology	indian institute of technology bombay	2	trans-continental
+massachusetts institute of technology	harvard university	2	domestic
+university of helsinki	finnish environment institute	3	Unknown
+united nations university	united nations	2	domestic
+united nations university	world institute for development economics research	2	Unknown
+united nations university	university of waterloo	2	trans-continental
+united nations university	university of bonn	2	domestic
+united nations university	university of minho	2	Unknown
+university of lisbon	instituto superior tecnico	3	domestic
+university of lisbon	universidade nova de lisboa	2	domestic
+university of lisbon	university of aveiro	3	domestic
+columbia university	australian national university	2	trans-continental
+columbia university	university of oslo	2	trans-continental
+columbia university	harvard university	7	domestic
+columbia university	addis ababa university	2	trans-continental
+columbia university	united nations	3	trans-continental
+columbia university	university of cape town	2	trans-continental
+columbia university	save the children	2	trans-continental
+columbia university	centre for the aids programme of research in south africa	2	Unknown
+columbia university	medical research council	2	trans-continental
+columbia university	university of kwazulu natal	2	trans-continental
+columbia university	university of malawi	3	trans-continental
+columbia university	ifakara health institute	3	trans-continental
+columbia university	united nations office on drugs and crime	2	trans-continental
+columbia university	university of michigan	4	domestic
+columbia university	arizona state university	2	domestic
+columbia university	university of washington	5	domestic
+columbia university	university of toronto	4	international
+columbia university	max planck society	3	trans-continental
+columbia university	federal reserve bank of new york	2	domestic
+columbia university	partners in health	3	trans-continental
+columbia university	brac university	2	trans-continental
+columbia university	boston university	2	domestic
+columbia university	university of zambia	2	trans-continental
+columbia university	yale university	4	domestic
+columbia university	goddard institute for space studies	2	Unknown
+columbia university	university college london	4	trans-continental
+columbia university	university of cambridge	2	trans-continental
+columbia university	aga khan university	3	trans-continental
+columbia university	international food policy research institute	4	trans-continental
+columbia university	university of ghana	2	trans-continental
+columbia university	federal university of rio de janeiro	2	Unknown
+columbia university	imperial college london	2	trans-continental
+columbia university	university of the western cape	3	trans-continental
+columbia university	research triangle park	2	domestic
+columbia university	university of manchester	2	trans-continental
+columbia university	world health organization	4	trans-continental
+columbia university	king s college london	3	trans-continental
+columbia university	national autonomous university of mexico	3	international
+columbia university	bioversity international	6	trans-continental
+columbia university	stockholm resilience centre	2	trans-continental
+columbia university	international institute for applied systems analysis	4	trans-continental
+columbia university	potsdam institute for climate impact research	3	Unknown
+columbia university	university of oxford	2	trans-continental
+columbia university	rutgers university	2	domestic
+columbia university	world food programme	2	trans-continental
+columbia university	johns hopkins university	9	domestic
+columbia university	rothamsted research	2	trans-continental
+columbia university	michigan state university	2	domestic
+columbia university	university of minnesota	2	domestic
+columbia university	new york university	4	domestic
+columbia university	university of southampton	2	trans-continental
+columbia university	university of florida	4	domestic
+columbia university	university of reading	2	trans-continental
+columbia university	royal institute of technology	2	trans-continental
+columbia university	netherlands environmental assessment agency	2	Unknown
+columbia university	international center for tropical agriculture	2	international
+columbia university	university of twente	2	trans-continental
+columbia university	washington state university	2	domestic
+universidade nova de lisboa	university of coimbra	2	domestic
+universidade nova de lisboa	universidade aberta	2	domestic
+universidade nova de lisboa	instituto superior tecnico	3	domestic
+universidade nova de lisboa	university of cape town	2	trans-continental
+universidade nova de lisboa	university of the algarve	4	Unknown
+universidade nova de lisboa	university of sao paulo	2	trans-continental
+universidade nova de lisboa	university of strathclyde	2	international
+universidade nova de lisboa	university of aveiro	2	domestic
+deutsche gesellschaft fur internationale zusammenarbeit	jacobs university bremen	2	domestic
+australian national university	university of oslo	2	trans-continental
+australian national university	university of sydney	5	domestic
+australian national university	university of leeds	2	trans-continental
+australian national university	international water management institute	3	trans-continental
+australian national university	edith cowan university	2	domestic
+australian national university	depaul university	2	trans-continental
+australian national university	united nations	2	trans-continental
+australian national university	university college london	3	trans-continental
+australian national university	world health organization	3	trans-continental
+australian national university	university of york	2	trans-continental
+australian national university	university of southern california	2	trans-continental
+australian national university	helmholtz centre for environmental research ufz	4	Unknown
+australian national university	university of twente	3	trans-continental
+australian national university	monash university	2	domestic
+australian national university	university of california santa barbara	2	trans-continental
+australian national university	cornell university	2	trans-continental
+australian national university	harvard university	3	trans-continental
+australian national university	the nature conservancy	2	trans-continental
+australian national university	world wide fund for nature	2	trans-continental
+australian national university	university of queensland	5	domestic
+australian national university	arizona state university	2	trans-continental
+australian national university	university of minnesota	2	trans-continental
+australian national university	university of denver	2	trans-continental
+australian national university	university of melbourne	4	domestic
+australian national university	pace university	2	trans-continental
+australian national university	environment agency	3	trans-continental
+australian national university	free university of berlin	2	Unknown
+australian national university	stockholm resilience centre	3	trans-continental
+australian national university	duke university	2	trans-continental
+australian national university	international union for conservation of nature and natural resources	2	Unknown
+australian national university	state university of campinas	2	Unknown
+australian national university	royal institute of technology	2	trans-continental
+australian national university	king s college london	2	trans-continental
+australian national university	chinese academy of sciences	4	trans-continental
+australian national university	national university of singapore	3	trans-continental
+australian national university	queensland university of technology	2	domestic
+australian national university	hanoi medical university	2	trans-continental
+australian national university	hanoi university	2	trans-continental
+harvard university	university of sao paulo	2	trans-continental
+harvard university	university of illinois at urbana champaign	2	domestic
+harvard university	northwestern university	5	domestic
+harvard university	university of southern california	2	domestic
+harvard university	beth israel deaconess medical center	3	Unknown
+harvard university	brigham and women s hospital	9	Unknown
+harvard university	world health organization	18	trans-continental
+harvard university	johns hopkins university	14	domestic
+harvard university	aga khan university	8	trans-continental
+harvard university	stellenbosch university	2	trans-continental
+harvard university	wellcome trust	2	trans-continental
+harvard university	world bank	6	trans-continental
+harvard university	eduardo mondlane university	2	Unknown
+harvard university	mcgill university	3	international
+harvard university	king s college london	7	trans-continental
+harvard university	georgetown university	3	domestic
+harvard university	save the children	4	trans-continental
+harvard university	university college london	6	trans-continental
+harvard university	karolinska institutet	3	trans-continental
+harvard university	university of oxford	2	trans-continental
+harvard university	university of washington	10	domestic
+harvard university	university of zambia	2	trans-continental
+harvard university	university of auckland	2	trans-continental
+harvard university	university of queensland	6	trans-continental
+harvard university	tufts university	4	domestic
+harvard university	university of california san francisco	5	domestic
+harvard university	yale university	5	domestic
+harvard university	mahidol university	2	trans-continental
+harvard university	national university of rwanda	3	trans-continental
+harvard university	university of virginia	2	domestic
+harvard university	partners in health	6	trans-continental
+harvard university	eth zurich	2	trans-continental
+harvard university	dartmouth college	2	domestic
+harvard university	international centre for diarrhoeal disease research bangladesh	2	Unknown
+harvard university	university of north carolina at chapel hill	3	domestic
+harvard university	queen mary university of london	2	trans-continental
+harvard university	public health foundation of india	2	Unknown
+harvard university	international development research centre	2	Unknown
+harvard university	peking university	4	trans-continental
+harvard university	university of melbourne	3	trans-continental
+harvard university	university of edinburgh	2	trans-continental
+harvard university	the chinese university of hong kong	2	trans-continental
+harvard university	university of indonesia	2	trans-continental
+harvard university	national institutes of health	3	domestic
+harvard university	emory university	3	domestic
+harvard university	cornell university	3	domestic
+harvard university	icahn school of medicine at mount sinai	3	Unknown
+harvard university	imperial college london	7	trans-continental
+harvard university	john snow inc	2	Unknown
+harvard university	university of connecticut	3	domestic
+harvard university	university of michigan	3	domestic
+harvard university	intermountain healthcare	2	domestic
+harvard university	duke university	4	domestic
+harvard university	university of liverpool	2	trans-continental
+harvard university	massachusetts eye and ear infirmary	3	domestic
+harvard university	united nations	2	trans-continental
+harvard university	boston children s hospital	3	Unknown
+harvard university	world bank group	4	trans-continental
+harvard university	university of toronto	7	international
+harvard university	lund university	3	trans-continental
+harvard university	rockefeller foundation	2	Unknown
+harvard university	university of british columbia	3	international
+harvard university	children s memorial hospital	2	Unknown
+harvard university	bill melinda gates foundation	2	domestic
+harvard university	university of southampton	3	trans-continental
+harvard university	university of pennsylvania	2	domestic
+harvard university	mcmaster university	2	international
+harvard university	university of sydney	2	trans-continental
+harvard university	university of cape town	4	trans-continental
+harvard university	heidelberg university	4	domestic
+harvard university	swiss tropical and public health institute	3	trans-continental
+harvard university	university of florida	2	domestic
+harvard university	university of gottingen	2	trans-continental
+harvard university	boston university	2	domestic
+harvard university	tufts medical center	2	domestic
+harvard university	federal ministry of health	2	trans-continental
+university of sao paulo	federal university of sao paulo	2	Unknown
+university of sao paulo	federal university of rio de janeiro	2	Unknown
+university of sao paulo	technical university of berlin	2	Unknown
+university of sao paulo	sao paulo state university	3	Unknown
+university of sao paulo	world health organization	5	trans-continental
+university of sao paulo	federal fluminense university	3	domestic
+university of sao paulo	oswaldo cruz foundation	4	Unknown
+university of sao paulo	university of cape town	2	trans-continental
+university of sao paulo	cornell university	2	trans-continental
+university of sao paulo	rio de janeiro state university	2	domestic
+university of sao paulo	johns hopkins university	2	trans-continental
+university of sao paulo	mental health services	2	trans-continental
+university of sao paulo	national institute for space research	2	Unknown
+university of sao paulo	federal university of sao carlos	2	Unknown
+university of sao paulo	stockholm environment institute	2	Unknown
+university of sao paulo	imperial college london	4	trans-continental
+university of sao paulo	federal university of bahia	3	Unknown
+university of sao paulo	university of michigan	2	trans-continental
+federal university of rio de janeiro	university of cape town	2	Unknown
+federal university of rio de janeiro	national autonomous university of mexico	2	Unknown
+federal university of rio de janeiro	empresa brasileira de pesquisa agropecuaria	2	Unknown
+federal university of rio de janeiro	federal fluminense university	2	Unknown
+federal university of rio de janeiro	max planck society	2	Unknown
+federal university of rio de janeiro	imperial college london	2	Unknown
+federal university of rio de janeiro	national institute for space research	2	Unknown
+university of auckland	south african medical research council	3	trans-continental
+university of auckland	university college london	2	trans-continental
+university of auckland	umea university	2	trans-continental
+university of auckland	university of nairobi	2	trans-continental
+university of auckland	university of otago	2	domestic
+university of auckland	world health organization	5	trans-continental
+university of auckland	university of california san francisco	2	trans-continental
+university of auckland	university of toronto	4	trans-continental
+university of auckland	university of edinburgh	2	trans-continental
+university of auckland	johns hopkins university	4	trans-continental
+university of auckland	university of melbourne	2	international
+university of auckland	university of the philippines	2	trans-continental
+university of auckland	medical research council	2	trans-continental
+university of auckland	imperial college london	2	trans-continental
+university of auckland	center for global development	2	trans-continental
+south african medical research council	world health organization	3	trans-continental
+south african medical research council	university of cape town	3	domestic
+south african medical research council	johns hopkins university	3	trans-continental
+south african medical research council	university of the western cape	4	domestic
+south african medical research council	save the children	3	trans-continental
+south african medical research council	university of toronto	2	trans-continental
+massey university	city university of new york	2	trans-continental
+landcare research	cawthron institute	3	domestic
+landcare research	environment canterbury	2	domestic
+landcare research	netherlands environmental assessment agency	2	Unknown
+university of queensland	university of melbourne	6	domestic
+university of queensland	tufts university	2	trans-continental
+university of queensland	imperial college london	2	trans-continental
+university of queensland	university of sydney	2	domestic
+university of queensland	australian museum	2	domestic
+university of queensland	university of new south wales	2	domestic
+university of queensland	university of edinburgh	2	trans-continental
+university of queensland	world health organization	5	trans-continental
+university of queensland	birdlife international	2	trans-continental
+university of queensland	university of washington	10	trans-continental
+university of queensland	texas a m university	2	trans-continental
+university of queensland	heidelberg university	2	trans-continental
+university of queensland	georgetown university	3	trans-continental
+university of queensland	burnet institute	2	trans-continental
+university of queensland	university of western australia	2	domestic
+university of queensland	chinese center for disease control and prevention	2	Unknown
+university of queensland	center for international forestry research	2	trans-continental
+university of queensland	james cook university	3	domestic
+university of queensland	world wide fund for nature	5	trans-continental
+university of queensland	la trobe university	2	domestic
+university of queensland	institute of tropical medicine antwerp	4	Unknown
+university of queensland	stellenbosch university	2	trans-continental
+university of queensland	university of antwerp	3	trans-continental
+university of queensland	university of toronto	6	trans-continental
+university of queensland	umea university	2	trans-continental
+university of queensland	the nature conservancy	4	trans-continental
+university of queensland	international union for conservation of nature and natural resources	3	Unknown
+university of queensland	conservation international	2	trans-continental
+university of queensland	queensland university of technology	5	domestic
+university of queensland	university of nairobi	2	trans-continental
+university of queensland	university of twente	2	trans-continental
+university of queensland	hanoi medical university	2	trans-continental
+university of queensland	hanoi university	2	trans-continental
+university of melbourne	university of papua new guinea	3	international
+university of melbourne	royal children s hospital	5	trans-continental
+university of melbourne	university of toronto	2	trans-continental
+university of melbourne	spanish national research council	2	Unknown
+university of melbourne	national institutes of health	3	trans-continental
+university of melbourne	university college london	3	trans-continental
+university of melbourne	johns hopkins university	6	trans-continental
+university of melbourne	university of washington	3	trans-continental
+university of melbourne	swinburne university of technology	2	domestic
+university of melbourne	burnet institute	2	trans-continental
+university of melbourne	university of split	2	trans-continental
+university of melbourne	university of edinburgh	4	trans-continental
+university of melbourne	peking university	4	trans-continental
+university of melbourne	international centre for diarrhoeal disease research bangladesh	2	Unknown
+university of melbourne	medical research council	2	trans-continental
+university of melbourne	united states environmental protection agency	2	trans-continental
+university of melbourne	king s college london	2	trans-continental
+university of melbourne	world bank	2	trans-continental
+university of melbourne	university of new south wales	2	domestic
+university of melbourne	monash university	4	domestic
+university of melbourne	world health organization	6	trans-continental
+university of melbourne	university of twente	2	trans-continental
+university of melbourne	university of sydney	3	domestic
+university of melbourne	curtin university	2	domestic
+university of melbourne	university of canberra	2	domestic
+university of melbourne	university of oxford	2	trans-continental
+university of melbourne	princeton university	2	trans-continental
+university of melbourne	university of cape town	2	trans-continental
+university of oslo	university of east anglia	2	international
+australian defence force academy	cairo university	2	trans-continental
+ecole polytechnique federale de lausanne	swiss federal laboratories for materials science and technology	2	Unknown
+ecole polytechnique federale de lausanne	max planck society	3	international
+ecole polytechnique federale de lausanne	national technical university of athens	2	international
+ecole polytechnique federale de lausanne	ludwig maximilian university of munich	2	Unknown
+ecole polytechnique federale de lausanne	norwegian institute for air research	2	Unknown
+ecole polytechnique federale de lausanne	university college london	2	international
+swiss federal laboratories for materials science and technology	eth zurich	2	Unknown
+fraunhofer society	technical university of berlin	3	Unknown
+fraunhofer society	saint mary s college of california	2	Unknown
+national institute for environmental studies	united nations	2	trans-continental
+national institute for environmental studies	international institute for applied systems analysis	3	trans-continental
+national institute for environmental studies	netherlands environmental assessment agency	2	Unknown
+national institute for environmental studies	potsdam institute for climate impact research	3	Unknown
+national institute for environmental studies	chinese academy of sciences	2	international
+indian institute of management ahmedabad	united nations environment programme	5	trans-continental
+indian institute of science	lawrence berkeley national laboratory	2	trans-continental
+indian institute of science	indian institute of technology guwahati	2	Unknown
+indian institute of science	walchand institute of technology	3	domestic
+indian institute of science	indian institutes of technology	2	Unknown
+lawrence berkeley national laboratory	university college london	2	trans-continental
+international food policy research institute	university of illinois at urbana champaign	2	trans-continental
+international food policy research institute	university of cambridge	2	trans-continental
+international food policy research institute	colorado state university	2	trans-continental
+international food policy research institute	university of oxford	3	trans-continental
+international food policy research institute	food and agriculture organization	3	trans-continental
+international food policy research institute	washington state university	3	trans-continental
+international food policy research institute	cgiar	3	trans-continental
+international food policy research institute	imperial college london	4	trans-continental
+international food policy research institute	university of bonn	2	trans-continental
+international food policy research institute	university of twente	3	trans-continental
+international food policy research institute	michigan state university	3	trans-continental
+international food policy research institute	university of pretoria	2	trans-continental
+international food policy research institute	bioversity international	3	trans-continental
+international food policy research institute	international center for agricultural research in the dry areas	2	domestic
+international food policy research institute	international center for tropical agriculture	2	trans-continental
+international food policy research institute	king s college london	2	international
+university of illinois at urbana champaign	virginia tech	2	domestic
+university of illinois at urbana champaign	university of nebraska lincoln	2	domestic
+university of illinois at urbana champaign	royal institute of technology	2	trans-continental
+university of illinois at urbana champaign	michigan state university	2	domestic
+university of illinois at urbana champaign	chinese academy of sciences	2	trans-continental
+aalborg university	international university cambodia	3	trans-continental
+queensland university of technology	hanoi medical university	2	trans-continental
+queensland university of technology	hanoi university	2	trans-continental
+university of ghana	university of amsterdam	4	trans-continental
+university of ghana	medical research council	2	international
+university of ghana	save the children	2	trans-continental
+university of ghana	imperial college london	2	trans-continental
+university of ghana	council for scientific and industrial research	2	international
+university of ghana	new york blood center	2	Unknown
+university of ghana	mcgill university	2	trans-continental
+university of ghana	kwame nkrumah university of science and technology	2	domestic
+university of ghana	university of michigan	3	trans-continental
+university of ghana	university of aberdeen	2	trans-continental
+university of ghana	university of indonesia	2	trans-continental
+university of ghana	university of health and allied sciences	2	domestic
+university of ghana	university of cape coast	2	domestic
+university of ghana	university for development studies	2	domestic
+university of california santa barbara	duke university	2	domestic
+university of california santa barbara	university of oxford	2	trans-continental
+university of british columbia	university of cape town	3	trans-continental
+university of british columbia	boston children s hospital	2	Unknown
+university of british columbia	university of lethbridge	2	domestic
+university of british columbia	hobart corporation	3	international
+university of british columbia	institut de recherche pour le developpement	2	trans-continental
+university of british columbia	university of new south wales	2	trans-continental
+university of british columbia	karolinska institutet	2	trans-continental
+university of british columbia	university of pittsburgh	3	international
+university of british columbia	world health organization	4	trans-continental
+university of british columbia	bill melinda gates foundation	2	international
+university of british columbia	duke university	6	international
+university of british columbia	center for international forestry research	4	trans-continental
+university of british columbia	university of copenhagen	2	trans-continental
+university of british columbia	university of connecticut	2	international
+university of british columbia	university of leeds	2	trans-continental
+university of british columbia	conservation international	4	trans-continental
+university of british columbia	university of toronto	4	domestic
+university of british columbia	university of east anglia	2	trans-continental
+university of british columbia	university of western ontario	2	international
+university of british columbia	university of washington	5	international
+university of british columbia	national oceanic and atmospheric administration	4	Unknown
+university of british columbia	university of alaska fairbanks	2	international
+university of british columbia	rutgers university	2	international
+university of british columbia	lancaster university	3	trans-continental
+university of british columbia	james cook university	5	trans-continental
+university of british columbia	university of rhode island	2	international
+university of british columbia	san diego state university	2	international
+university of british columbia	northumbria university	2	trans-continental
+university of british columbia	northwestern university	2	international
+university of british columbia	children s memorial hospital	2	Unknown
+university of british columbia	karolinska university hospital	2	trans-continental
+university of british columbia	university of saskatchewan	2	domestic
+university of british columbia	university of tasmania	2	trans-continental
+university of british columbia	monash university	2	trans-continental
+university of british columbia	university of wollongong	3	trans-continental
+university of british columbia	united nations environment programme	2	international
+university of british columbia	dalhousie university	2	domestic
+university of cape town	boston children s hospital	3	Unknown
+university of cape town	save the children	5	trans-continental
+university of cape town	centre for the aids programme of research in south africa	3	Unknown
+university of cape town	medical research council	5	international
+university of cape town	university of kwazulu natal	12	domestic
+university of cape town	university of oxford	6	trans-continental
+university of cape town	university of east anglia	3	trans-continental
+university of cape town	curtin university	2	trans-continental
+university of cape town	university of sydney	3	trans-continental
+university of cape town	king s college london	5	trans-continental
+university of cape town	world bank	2	trans-continental
+university of cape town	university of edinburgh	2	trans-continental
+university of cape town	university of limpopo	2	domestic
+university of cape town	world health organization	11	trans-continental
+university of cape town	united nations	2	trans-continental
+university of cape town	johns hopkins university	2	trans-continental
+university of cape town	university of the western cape	7	domestic
+university of cape town	stellenbosch university	9	domestic
+university of cape town	university of pretoria	5	domestic
+university of cape town	university of toronto	3	trans-continental
+university of cape town	la trobe university	2	trans-continental
+university of cape town	swiss tropical and public health institute	3	trans-continental
+university of cape town	university of the free state	2	domestic
+university of cape town	umea university	2	trans-continental
+university of cape town	university of exeter	2	trans-continental
+university of cape town	monash university	2	trans-continental
+university of cape town	conservation international	2	international
+university of cape town	cgiar	2	trans-continental
+university of cape town	university college london	3	trans-continental
+university of cape town	peking university	2	trans-continental
+university of cape town	aurecon	2	trans-continental
+boston children s hospital	rice university	2	Unknown
+boston children s hospital	baylor college of medicine	4	Unknown
+boston children s hospital	university college london	4	Unknown
+boston children s hospital	imperial college london	2	Unknown
+boston children s hospital	university of virginia	2	Unknown
+boston children s hospital	massachusetts eye and ear infirmary	2	Unknown
+boston children s hospital	university of washington	2	Unknown
+boston children s hospital	university of connecticut	2	Unknown
+boston children s hospital	northwestern university	2	Unknown
+boston children s hospital	children s memorial hospital	2	Unknown
+boston children s hospital	cornell university	2	Unknown
+boston children s hospital	duke university	2	Unknown
+boston children s hospital	university of pennsylvania	2	Unknown
+university of alberta	university of calgary	2	domestic
+university of venda	tshwane university of technology	2	domestic
+moi university	university of toronto	2	trans-continental
+university of pretoria	johns hopkins university	3	trans-continental
+university of pretoria	save the children	2	trans-continental
+university of pretoria	university of kwazulu natal	4	domestic
+university of pretoria	rhodes university	2	domestic
+university of pretoria	north west university	3	trans-continental
+university of pretoria	world health organization	3	trans-continental
+university of pretoria	university of the western cape	3	domestic
+university of pretoria	university of south africa	2	domestic
+university of toronto	mcmaster university	2	domestic
+university of toronto	world health organization	6	trans-continental
+university of toronto	university of maryland baltimore	2	international
+university of toronto	world bank	3	trans-continental
+university of toronto	emory university	2	international
+university of toronto	aga khan university	12	trans-continental
+university of toronto	johns hopkins university	5	international
+university of toronto	university of antwerp	4	trans-continental
+university of toronto	university of nairobi	5	trans-continental
+university of toronto	georgetown university law center	2	international
+university of toronto	institute of tropical medicine antwerp	2	Unknown
+university of toronto	university of connecticut	2	international
+university of toronto	vanderbilt university	2	international
+university of toronto	stellenbosch university	3	trans-continental
+university of toronto	st michael s hospital	3	international
+university of toronto	university of california san francisco	4	international
+university of toronto	university of washington	3	international
+university of toronto	university of california san diego	2	international
+university of toronto	university of edinburgh	3	trans-continental
+university of toronto	university of the philippines	2	trans-continental
+university of toronto	medical research council	2	trans-continental
+university of toronto	university health network	4	domestic
+university of toronto	princess margaret cancer centre	2	Unknown
+university of toronto	university of the west indies	2	international
+university of toronto	king s college london	2	trans-continental
+university of toronto	northwestern university	2	international
+university of toronto	children s memorial hospital	2	Unknown
+university of toronto	university of malawi	2	trans-continental
+montana state university	colorado state university	2	domestic
+montana state university	south dakota state university	2	domestic
+montana state university	university of wyoming	2	domestic
+colorado state university	south dakota state university	3	domestic
+colorado state university	university of wyoming	2	domestic
+colorado state university	united nations development programme	2	trans-continental
+colorado state university	kansas state university	2	domestic
+colorado state university	university of nebraska lincoln	2	domestic
+colorado state university	university of canberra	2	trans-continental
+south dakota state university	university of wyoming	2	domestic
+south dakota state university	university of nebraska lincoln	2	domestic
+utah state university	hampton university	2	domestic
+university of zurich	aarhus university	2	international
+university of botswana	university of pennsylvania	2	trans-continental
+national university of singapore	princeton university	2	trans-continental
+national university of singapore	australian catholic university	2	trans-continental
+national university of singapore	international institute for applied systems analysis	2	trans-continental
+rmit university	monash university	2	domestic
+rmit university	deakin university	3	domestic
+rmit university	university of nottingham malaysia campus	2	trans-continental
+monash university	university of oxford	2	trans-continental
+monash university	cooperative research centre	2	trans-continental
+monash university	la trobe university	3	domestic
+monash university	stellenbosch university	2	trans-continental
+monash university	university of new south wales	2	domestic
+university of leeds	university of new south wales	2	trans-continental
+university of leeds	university of southampton	3	trans-continental
+university of leeds	university of manchester	2	domestic
+university of leeds	virginia tech	2	trans-continental
+university of leeds	food and environment research agency	2	Unknown
+university of leeds	university of hamburg	2	international
+university of leeds	stockholm environment institute	2	Unknown
+university of leeds	university of surrey	2	domestic
+university of leeds	university of north carolina at chapel hill	4	trans-continental
+university of leeds	united nations	2	international
+university of leeds	liverpool school of tropical medicine	3	domestic
+university of leeds	hanoi university	2	trans-continental
+university of leeds	johns hopkins university	2	trans-continental
+university of leeds	university of east anglia	5	domestic
+university of leeds	max planck society	2	international
+university of leeds	chinese academy of sciences	2	trans-continental
+university of leeds	newcastle university	2	domestic
+university of leeds	world bank	2	trans-continental
+university of leeds	university of nottingham	3	domestic
+university of leeds	university of exeter	2	domestic
+eth zurich	technische universitat munchen	2	international
+eth zurich	kiel institute for the world economy	2	international
+cornell university	california institute of technology	2	domestic
+cornell university	world bank	4	trans-continental
+cornell university	johns hopkins university	3	domestic
+cornell university	helmholtz centre for environmental research ufz	2	Unknown
+cornell university	university of georgia	2	domestic
+cornell university	conservation international	2	trans-continental
+cornell university	university of connecticut	3	domestic
+cornell university	northwestern university	2	domestic
+cornell university	united states department of agriculture	3	domestic
+cornell university	duke university	2	domestic
+cornell university	massachusetts eye and ear infirmary	2	domestic
+brown university	boston university	2	domestic
+woodrow wilson international center for scholars	university of twente	2	trans-continental
+woodrow wilson international center for scholars	martin luther university of halle wittenberg	2	Unknown
+woodrow wilson international center for scholars	university of amsterdam	3	trans-continental
+woodrow wilson international center for scholars	university of alcala	3	domestic
+woodrow wilson international center for scholars	global biodiversity information facility	2	trans-continental
+woodrow wilson international center for scholars	cardiff university	2	trans-continental
+woodrow wilson international center for scholars	florida museum of natural history	3	domestic
+virginia tech	uppsala university	2	trans-continental
+virginia tech	texas a m university	2	domestic
+northwestern university	university of pennsylvania	2	domestic
+northwestern university	world bank group	2	trans-continental
+northwestern university	brigham and women s hospital	2	Unknown
+northwestern university	university of washington	2	domestic
+northwestern university	children s memorial hospital	3	Unknown
+northwestern university	duke university	3	domestic
+northwestern university	johns hopkins university	3	domestic
+university of southern california	world bank	2	trans-continental
+university of southern california	rand corporation	2	domestic
+university of tsukuba	china university of geosciences	2	international
+agro paristech	institut national de la recherche agronomique	4	Unknown
+institut national de la recherche agronomique	supagro	2	domestic
+institut national de la recherche agronomique	aarhus university	4	international
+institut national de la recherche agronomique	lund university	2	international
+institut national de la recherche agronomique	university of aberdeen	2	international
+tufts university	world bank	3	trans-continental
+tufts university	world food programme	4	trans-continental
+tufts university	johns hopkins university	3	domestic
+united states geological survey	university of new mexico	2	domestic
+united states geological survey	university of alaska fairbanks	2	domestic
+united states geological survey	university of oxford	2	trans-continental
+united states geological survey	denver federal center	2	domestic
+united states geological survey	university of hull	2	trans-continental
+united states geological survey	carleton university	2	international
+united states geological survey	university of florida	2	domestic
+tsinghua university	princeton university	4	trans-continental
+tsinghua university	shandong university	2	domestic
+tsinghua university	beijing institute of technology	2	domestic
+tsinghua university	beijing normal university	3	domestic
+tsinghua university	university of the western cape	3	trans-continental
+tsinghua university	chinese academy of sciences	2	domestic
+tsinghua university	imperial college london	2	trans-continental
+tsinghua university	university of chile	2	trans-continental
+tsinghua university	auckland university of technology	2	trans-continental
+tsinghua university	university of rome tor vergata	2	Unknown
+princeton university	new york university	2	domestic
+princeton university	johns hopkins university	3	domestic
+princeton university	university of oxford	2	trans-continental
+university of eastern finland	james cook university	2	trans-continental
+university of eastern finland	finnish environment institute	2	Unknown
+university of eastern finland	zoological society of london	2	trans-continental
+university of eastern finland	spanish national research council	2	Unknown
+university of eastern finland	conservation international	2	trans-continental
+united states environmental protection agency	university of cincinnati	2	domestic
+united states environmental protection agency	university of georgia	2	domestic
+james cook university	la trobe university	2	domestic
+james cook university	university of washington	2	trans-continental
+james cook university	duke university	2	trans-continental
+james cook university	national oceanic and atmospheric administration	3	Unknown
+james cook university	university of alaska fairbanks	2	trans-continental
+james cook university	rutgers university	2	trans-continental
+james cook university	conservation international	3	trans-continental
+james cook university	lancaster university	2	trans-continental
+james cook university	university of rhode island	2	trans-continental
+james cook university	san diego state university	2	trans-continental
+james cook university	northumbria university	2	trans-continental
+james cook university	southern cross university	2	domestic
+james cook university	center for international forestry research	2	trans-continental
+asian development bank	brookings institution	2	trans-continental
+brookings institution	world bank	2	trans-continental
+united nations development programme	global environment facility	2	trans-continental
+united nations development programme	world bank	2	trans-continental
+united nations development programme	university of michigan	2	trans-continental
+united nations development programme	university of cambridge	2	international
+united nations development programme	center for international forestry research	2	trans-continental
+united nations development programme	world health organization	2	international
+united nations development programme	united nations	3	international
+university of paris	universite catholique de louvain	2	international
+university of paris	ecole normale superieure	2	trans-continental
+university of paris	centre national de la recherche scientifique	2	domestic
+national university of la plata	world bank	2	Unknown
+world bank	international monetary fund	2	trans-continental
+world bank	pennsylvania state university	5	trans-continental
+world bank	center for global development	3	trans-continental
+world bank	george washington university	3	trans-continental
+world bank	economic policy institute	3	trans-continental
+world bank	joint united nations programme on hiv aids	2	Unknown
+world bank	world health organization	15	trans-continental
+world bank	university of manchester	3	trans-continental
+world bank	aga khan university	6	trans-continental
+world bank	stockholm environment institute	2	Unknown
+world bank	johns hopkins university	13	trans-continental
+world bank	bill melinda gates foundation	5	trans-continental
+world bank	american university	2	trans-continental
+world bank	london school of economics and political science	3	trans-continental
+world bank	united nations	2	trans-continental
+world bank	durham university	2	trans-continental
+world bank	international centre for diarrhoeal disease research bangladesh	3	Unknown
+world bank	rand corporation	2	trans-continental
+world bank	potsdam institute for climate impact research	2	Unknown
+world bank	netherlands environmental assessment agency	2	Unknown
+world bank	university of california san francisco	2	trans-continental
+world bank	imperial college london	2	trans-continental
+world bank	international institute for applied systems analysis	3	trans-continental
+world bank	delft university of technology	2	trans-continental
+world bank	bocconi university	2	trans-continental
+world bank	columbia university medical center	2	trans-continental
+world bank	liverpool school of tropical medicine	2	trans-continental
+university of twente	delft university of technology	4	domestic
+university of twente	tilburg university	2	domestic
+university of twente	helmholtz centre for environmental research ufz	2	Unknown
+university of twente	vu university amsterdam	2	domestic
+university of twente	flinders university	2	trans-continental
+university of twente	imperial college london	2	international
+university of twente	aston university	2	international
+university of twente	bioversity international	2	international
+university of twente	international center for tropical agriculture	3	trans-continental
+university of twente	washington state university	2	trans-continental
+university of twente	international water management institute	2	trans-continental
+university of twente	king s college london	2	trans-continental
+university of twente	martin luther university of halle wittenberg	2	Unknown
+university of twente	university of amsterdam	2	domestic
+university of twente	university of alcala	2	trans-continental
+university of twente	global biodiversity information facility	2	international
+university of twente	florida museum of natural history	2	trans-continental
+university of twente	africa rice center	2	trans-continental
+federal university of technology minna	universiti tun hussein onn malaysia	2	trans-continental
+national technical university of athens	democritus university of thrace	2	domestic
+national technical university of athens	max planck society	2	international
+national technical university of athens	ludwig maximilian university of munich	2	Unknown
+national technical university of athens	norwegian institute for air research	2	Unknown
+united nations	international institute for applied systems analysis	4	international
+united nations	university college london	2	international
+united nations	world health organization	8	international
+united nations	tokyo institute of technology	2	trans-continental
+united nations	north west university	2	trans-continental
+united nations	university of hamburg	2	domestic
+united nations	johns hopkins university	5	trans-continental
+united nations	university of cambridge	2	international
+united nations	united nations population fund	2	trans-continental
+united nations	public health england	2	international
+united nations	university of new south wales	2	trans-continental
+aarhus university	university of kassel	2	international
+aarhus university	university of copenhagen	2	domestic
+aarhus university	lancaster university	2	international
+university of technology sydney	university of new south wales	3	domestic
+university of technology sydney	united nations population fund	2	trans-continental
+university of alabama at birmingham	university of north carolina at chapel hill	2	domestic
+university of alabama at birmingham	jawaharlal nehru medical college aligarh	2	Unknown
+university of alabama at birmingham	national institutes of health	2	domestic
+addis ababa university	university of gondar	3	domestic
+addis ababa university	addis continental institute of public health	4	Unknown
+addis ababa university	college of health sciences bahrain	3	trans-continental
+addis ababa university	bahir dar university	2	domestic
+addis ababa university	pacific northwest university of health sciences	2	trans-continental
+university of manchester	georgia institute of technology	2	trans-continental
+university of manchester	center for global development	3	trans-continental
+university of manchester	pennsylvania state university	3	trans-continental
+university of manchester	university of aberdeen	2	domestic
+university of manchester	university of delhi	2	trans-continental
+university of manchester	world health organization	3	international
+university of manchester	johns hopkins university	2	trans-continental
+university of manchester	sheffield hallam university	2	domestic
+university of manchester	university of sheffield	2	domestic
+university of manchester	university of southampton	2	trans-continental
+university of manchester	university of cambridge	3	domestic
+university of potsdam	humboldt university of berlin	2	trans-continental
+university of potsdam	potsdam institute for climate impact research	2	Unknown
+university of tubingen	free university of berlin	2	Unknown
+university of hamburg	karlsruhe institute of technology	2	domestic
+university of gothenburg	stockholm environment institute	2	Unknown
+university of gothenburg	environmental defense fund	2	Unknown
+university of gothenburg	world health organization	2	international
+national bureau of economic research	university of california san diego	2	domestic
+cawthron institute	environment canterbury	2	domestic
+university of calabria	national research council	2	international
+university of calabria	hanyang university	2	trans-continental
+university of maryland college park	joint global change research institute	4	domestic
+university of maryland college park	university of virginia	2	domestic
+university of maryland college park	international institute for applied systems analysis	3	trans-continental
+university of maryland college park	masaryk university	2	trans-continental
+university of new mexico	university of alaska fairbanks	2	domestic
+university of new mexico	american university	2	domestic
+university of alaska fairbanks	united states department of agriculture	2	domestic
+university of alaska fairbanks	duke university	4	domestic
+university of alaska fairbanks	university of washington	2	domestic
+university of alaska fairbanks	national oceanic and atmospheric administration	3	Unknown
+university of alaska fairbanks	rutgers university	2	domestic
+university of alaska fairbanks	conservation international	2	trans-continental
+university of alaska fairbanks	university of rhode island	2	domestic
+university of alaska fairbanks	san diego state university	2	domestic
+university of alaska fairbanks	northumbria university	2	trans-continental
+university of south africa	great zimbabwe university	4	international
+ohio state university	university of florida	2	domestic
+ohio state university	university of minnesota	2	domestic
+ohio state university	university of vermont	4	domestic
+carter center	emory university	4	domestic
+carter center	university of cambridge	2	trans-continental
+carter center	university of california san francisco	2	domestic
+emory university	university of los andes	2	Unknown
+emory university	world health organization	4	trans-continental
+emory university	university of california san francisco	2	domestic
+emory university	international centre for diarrhoeal disease research bangladesh	2	Unknown
+emory university	johns hopkins university	2	domestic
+emory university	university of north carolina at chapel hill	2	domestic
+inner mongolia university	arizona state university	3	trans-continental
+inner mongolia university	chinese academy of sciences	2	domestic
+arizona state university	chinese academy of sciences	3	trans-continental
+arizona state university	university of houston	2	domestic
+arizona state university	george washington university	2	domestic
+arizona state university	clark university	2	domestic
+arizona state university	pennsylvania state university	2	domestic
+arizona state university	university of oxford	2	trans-continental
+arizona state university	london school of economics and political science	2	trans-continental
+university of tennessee	shandong university	2	trans-continental
+university of tennessee	university of buenos aires	2	domestic
+university of tennessee	chinese academy of sciences	2	trans-continental
+university of tennessee	international institute for applied systems analysis	2	trans-continental
+university of tennessee	beijing normal university	2	trans-continental
+university of oxford	queen mary university of london	2	domestic
+university of oxford	kenya medical research institute	6	trans-continental
+university of oxford	wellcome trust	6	domestic
+university of oxford	university of sydney	2	trans-continental
+university of oxford	university of florida	3	trans-continental
+university of oxford	university of southampton	4	trans-continental
+university of oxford	university of aberdeen	2	domestic
+university of oxford	university of reading	5	domestic
+university of oxford	john radcliffe hospital	3	domestic
+university of oxford	mahidol university	2	trans-continental
+university of oxford	institute of tropical medicine antwerp	2	Unknown
+university of oxford	save the children	2	trans-continental
+university of oxford	king s college london	3	trans-continental
+university of oxford	university college london	3	domestic
+university of oxford	imperial college london	6	domestic
+university of oxford	potsdam institute for climate impact research	2	Unknown
+university of oxford	national center for atmospheric research	2	trans-continental
+university of oxford	pacific institute	2	trans-continental
+university of oxford	london school of economics and political science	2	domestic
+university of oxford	world resources institute	2	trans-continental
+university of oxford	kwame nkrumah university of science and technology	2	trans-continental
+university of oxford	university of washington	2	trans-continental
+university of oxford	world bank group	2	trans-continental
+university of oxford	university of cambridge	3	domestic
+university of oxford	michigan state university	2	trans-continental
+university of oxford	world health organization	3	international
+university of oxford	university of east anglia	3	domestic
+university of oxford	aurecon	2	trans-continental
+university of oxford	university of the free state	2	trans-continental
+seoul national university	konkuk university	2	domestic
+seoul national university	gyeongsang national university	2	domestic
+seoul national university	hanoi medical university	8	international
+seoul national university	hanoi school of public health	6	Unknown
+seoul national university	seoul national university hospital	3	domestic
+polytechnic university of milan	polytechnic university of turin	2	Unknown
+curtin university	university of malaya	2	trans-continental
+chinese academy of sciences	sun yat sen university	3	domestic
+chinese academy of sciences	jilin university	2	domestic
+chinese academy of sciences	zhejiang university	2	domestic
+chinese academy of sciences	south china agricultural university	3	domestic
+chinese academy of sciences	beijing forestry university	2	domestic
+chinese academy of sciences	university of guelph	2	trans-continental
+chinese academy of sciences	beijing normal university	6	domestic
+chinese academy of sciences	university of florida	2	trans-continental
+chinese academy of sciences	university of sydney	2	trans-continental
+chinese academy of sciences	international institute for applied systems analysis	2	trans-continental
+chinese academy of sciences	center for excellence in education	2	Unknown
+chinese academy of sciences	helmholtz centre for environmental research ufz	2	Unknown
+chinese academy of sciences	national research council	2	trans-continental
+xiamen university	chongqing university	2	domestic
+georgia institute of technology	illinois institute of technology	2	domestic
+georgia institute of technology	university of minnesota	2	domestic
+poznan university of technology	international institute for applied systems analysis	2	international
+poznan university of technology	carleton university	2	trans-continental
+international institute for applied systems analysis	carleton university	2	trans-continental
+international institute for applied systems analysis	cgiar	2	international
+international institute for applied systems analysis	potsdam institute for climate impact research	6	Unknown
+international institute for applied systems analysis	national autonomous university of mexico	2	trans-continental
+international institute for applied systems analysis	imperial college london	2	international
+international institute for applied systems analysis	max planck society	2	international
+international institute for applied systems analysis	london school of economics and political science	2	international
+international institute for applied systems analysis	eni	2	international
+international institute for applied systems analysis	vu university amsterdam	2	international
+international institute for applied systems analysis	technical university of berlin	2	Unknown
+international institute for applied systems analysis	graz university of technology	3	domestic
+international institute for applied systems analysis	university college london	2	international
+international institute for applied systems analysis	royal institute of technology	3	international
+international institute for applied systems analysis	netherlands environmental assessment agency	5	Unknown
+international institute for applied systems analysis	duke university	2	trans-continental
+international institute for applied systems analysis	stockholm environment institute	3	Unknown
+international institute for applied systems analysis	colorado school of mines	2	trans-continental
+swedish university of agricultural sciences	royal swedish academy of sciences	2	Unknown
+carleton university	university of surrey	2	trans-continental
+carleton university	university of hull	2	trans-continental
+carleton university	university of florida	2	international
+university of ibadan	obafemi awolowo university	2	domestic
+university of ibadan	king s college london	2	trans-continental
+university of nebraska lincoln	kansas state university	2	domestic
+shandong university	university of south australia	2	trans-continental
+university of zimbabwe	chinhoyi university of technology	2	domestic
+university of bern	university of rostock	2	Unknown
+university of bern	world health organization	2	domestic
+spanish national research council	university of cordoba	2	Unknown
+spanish national research council	zoological society of london	2	Unknown
+spanish national research council	conservation international	2	Unknown
+spanish national research council	university of toulouse	2	Unknown
+international water management institute	king s college london	4	international
+international water management institute	bioversity international	2	trans-continental
+international water management institute	cgiar	2	trans-continental
+international water management institute	international center for agricultural research in the dry areas	2	domestic
+international water management institute	flinders university	2	trans-continental
+international water management institute	delft university of technology	2	trans-continental
+temple university	university of toledo	2	domestic
+temple university	suny downstate medical center	2	Unknown
+temple university	st luke s university health network	2	Unknown
+temple university	university of south florida	2	domestic
+temple university	johns hopkins university	2	domestic
+temple university	university of florida	2	domestic
+temple university	east carolina university	2	domestic
+temple university	mercy medical center	2	domestic
+temple university	summa health system	2	domestic
+temple university	rutgers university	2	domestic
+polytechnic university of catalonia	delft university of technology	3	Unknown
+polytechnic university of catalonia	autonomous university of barcelona	2	Unknown
+polytechnic university of catalonia	stockholm international water institute	3	Unknown
+university of basilicata	sapienza university of rome	2	Unknown
+sapienza university of rome	university of rome tor vergata	2	Unknown
+johns hopkins university	university of the western cape	3	trans-continental
+johns hopkins university	world health organization	41	trans-continental
+johns hopkins university	aga khan university	17	trans-continental
+johns hopkins university	bill melinda gates foundation	7	domestic
+johns hopkins university	duke university	3	domestic
+johns hopkins university	university of pennsylvania	2	domestic
+johns hopkins university	university of chicago	2	domestic
+johns hopkins university	jhpiego	2	trans-continental
+johns hopkins university	university of edinburgh	12	trans-continental
+johns hopkins university	peking university	4	trans-continental
+johns hopkins university	united nations population fund	4	trans-continental
+johns hopkins university	save the children	20	trans-continental
+johns hopkins university	global forum for health research	2	Unknown
+johns hopkins university	university of virginia	3	domestic
+johns hopkins university	college of health sciences bahrain	5	trans-continental
+johns hopkins university	tulane university	4	domestic
+johns hopkins university	rand corporation	2	domestic
+johns hopkins university	george washington university	2	domestic
+johns hopkins university	universidade federal de pelotas	6	trans-continental
+johns hopkins university	international centre for diarrhoeal disease research bangladesh	6	Unknown
+johns hopkins university	national institutes of health	3	domestic
+johns hopkins university	yale university	4	domestic
+johns hopkins university	queen mary university of london	2	trans-continental
+johns hopkins university	university of california san francisco	8	domestic
+johns hopkins university	university of minnesota	2	domestic
+johns hopkins university	royal children s hospital	2	trans-continental
+johns hopkins university	american university of beirut	2	trans-continental
+johns hopkins university	university college london	5	trans-continental
+johns hopkins university	university of liverpool	3	trans-continental
+johns hopkins university	nationwide children s hospital	2	Unknown
+johns hopkins university	national university of rwanda	2	trans-continental
+johns hopkins university	mcgill university	2	international
+johns hopkins university	dartmouth college	2	domestic
+johns hopkins university	international medical corps	2	trans-continental
+johns hopkins university	centers for disease control and prevention	6	domestic
+johns hopkins university	ithaca college	2	domestic
+johns hopkins university	university of florida	4	domestic
+johns hopkins university	new york university	2	domestic
+johns hopkins university	university of washington	6	domestic
+johns hopkins university	university of split	3	trans-continental
+johns hopkins university	public health foundation of india	2	Unknown
+johns hopkins university	brigham and women s hospital	3	Unknown
+johns hopkins university	economic policy institute	2	domestic
+johns hopkins university	university of the philippines	2	trans-continental
+johns hopkins university	medical research council	5	trans-continental
+johns hopkins university	pennsylvania state university	2	domestic
+johns hopkins university	karolinska institutet	2	trans-continental
+johns hopkins university	cayetano heredia university	3	trans-continental
+johns hopkins university	imperial college london	5	trans-continental
+johns hopkins university	ucl institute of child health	2	Unknown
+johns hopkins university	aga khan university hospital	2	trans-continental
+johns hopkins university	brac university	2	trans-continental
+johns hopkins university	university of maryland baltimore	2	domestic
+johns hopkins university	johns hopkins university school of medicine	2	Unknown
+johns hopkins university	world food programme	3	trans-continental
+johns hopkins university	united states agency for international development	2	trans-continental
+johns hopkins university	university of malawi	3	trans-continental
+johns hopkins university	university of bristol	2	trans-continental
+johns hopkins university	the george institute for global health	2	trans-continental
+johns hopkins university	university of york	2	trans-continental
+johns hopkins university	kathmandu	2	trans-continental
+johns hopkins university	bioversity international	2	trans-continental
+johns hopkins university	king s college london	2	trans-continental
+johns hopkins university	university of toledo	2	domestic
+johns hopkins university	suny downstate medical center	2	Unknown
+johns hopkins university	st luke s university health network	2	Unknown
+johns hopkins university	university of south florida	2	domestic
+johns hopkins university	east carolina university	2	domestic
+johns hopkins university	mercy medical center	2	domestic
+johns hopkins university	summa health system	2	domestic
+johns hopkins university	rutgers university	3	domestic
+johns hopkins university	liverpool school of tropical medicine	3	trans-continental
+karlsruhe institute of technology	university of gottingen	2	domestic
+karlsruhe institute of technology	leibniz association	2	Unknown
+university of tehran	islamic azad university	3	domestic
+university of tehran	tarbiat modares university	2	domestic
+university of tehran	tehran university of medical sciences	2	domestic
+technical university of berlin	potsdam institute for climate impact research	4	Unknown
+ca foscari university of venice	khalifa university	5	Unknown
+ca foscari university of venice	university of milan	3	Unknown
+mcgill university	imperial college london	2	trans-continental
+mcgill university	council for scientific and industrial research	2	trans-continental
+mcgill university	new york blood center	2	Unknown
+mcgill university	mcgill university health centre	2	domestic
+mcgill university	universite de montreal	2	domestic
+mcgill university	university of washington	2	international
+university of new south wales	university of sydney	7	domestic
+university of new south wales	university of copenhagen	2	trans-continental
+university of new south wales	world health organization	2	trans-continental
+university of new south wales	hobart corporation	2	trans-continental
+university of new south wales	flinders university	2	domestic
+university of new south wales	university of wollongong	2	domestic
+university of new south wales	university of gloucestershire	2	trans-continental
+university of new south wales	kathmandu	2	trans-continental
+university of new south wales	la trobe university	2	domestic
+university of sydney	university of western sydney	2	domestic
+university of sydney	international centre for diarrhoeal disease research bangladesh	3	Unknown
+university of sydney	world health organization	2	trans-continental
+university of sydney	la trobe university	2	domestic
+university of sydney	university of florida	3	trans-continental
+university of sydney	the george institute for global health	2	trans-continental
+stockholm resilience centre	stellenbosch university	2	trans-continental
+stockholm resilience centre	potsdam institute for climate impact research	2	Unknown
+stockholm resilience centre	max planck society	3	international
+stellenbosch university	national institutes of health	2	trans-continental
+stellenbosch university	council for scientific and industrial research	2	domestic
+stellenbosch university	world health organization	2	trans-continental
+stellenbosch university	medical research council	2	international
+stellenbosch university	university of the western cape	2	domestic
+stellenbosch university	university of kwazulu natal	3	domestic
+stellenbosch university	university of the free state	3	domestic
+stellenbosch university	umea university	2	trans-continental
+stellenbosch university	university of florida	2	trans-continental
+stellenbosch university	trinity college	2	trans-continental
+stellenbosch university	trent university	3	trans-continental
+stellenbosch university	conservation international	2	international
+stellenbosch university	yale university	2	trans-continental
+the nature conservancy	world wide fund for nature	4	trans-continental
+university of canberra	unesco	2	trans-continental
+polytechnic university of valencia	university of valencia	2	Unknown
+centre national de la recherche scientifique	university of bordeaux	3	trans-continental
+centre national de la recherche scientifique	asm clermont auvergne	2	domestic
+centre national de la recherche scientifique	max planck society	3	international
+centre national de la recherche scientifique	university of lorraine	2	domestic
+centre national de la recherche scientifique	national ecological observatory network	2	trans-continental
+pennsylvania state university	texas a m university	2	domestic
+pennsylvania state university	washington state university	2	domestic
+world agroforestry centre	center for international forestry research	4	trans-continental
+world agroforestry centre	overseas development institute	2	trans-continental
+world agroforestry centre	international livestock research institute	3	domestic
+world agroforestry centre	cgiar	2	trans-continental
+university of copenhagen	center for international forestry research	2	trans-continental
+university of copenhagen	national institute for medical research	2	trans-continental
+university of copenhagen	yale university	2	trans-continental
+university of copenhagen	university college london	2	international
+university of copenhagen	cgiar	2	international
+center for international forestry research	lancaster university	2	trans-continental
+center for international forestry research	international center for tropical agriculture	2	trans-continental
+university of east anglia	university of exeter	3	domestic
+university of east anglia	murdoch university	2	trans-continental
+university of east anglia	university college london	2	domestic
+university of east anglia	tshwane university of technology	3	trans-continental
+university of east anglia	simon fraser university	3	trans-continental
+university of east anglia	university of cambridge	4	domestic
+university of east anglia	rothamsted research	2	domestic
+university of east anglia	game wildlife conservation trust	2	domestic
+university of east anglia	international livestock research institute	2	trans-continental
+university of east anglia	university of north carolina at chapel hill	3	trans-continental
+university of east anglia	university of bristol	2	domestic
+kyoto university	charles darwin university	2	trans-continental
+hedmark university college	norwegian university of science and technology	2	Unknown
+universite libre de bruxelles	university of florida	2	trans-continental
+universite libre de bruxelles	university of southampton	2	trans-continental
+universite libre de bruxelles	institute of tropical medicine antwerp	2	Unknown
+university of antwerp	university of nairobi	4	trans-continental
+university of antwerp	institute of tropical medicine antwerp	3	Unknown
+university of antwerp	nhtv breda university of applied sciences	2	international
+universidade de passo fundo	university of coimbra	2	trans-continental
+universidade de passo fundo	universidade aberta	2	trans-continental
+universidade de passo fundo	manchester metropolitan university	2	trans-continental
+universidade de passo fundo	university of aveiro	2	trans-continental
+universidade de passo fundo	hamburg university of applied sciences	2	Unknown
+deakin university	world health organization	2	trans-continental
+vu university amsterdam	leiden university	4	domestic
+vu university amsterdam	london school of economics and political science	2	international
+university of illinois at chicago	university of washington	2	domestic
+university of illinois at chicago	new york university	2	domestic
+beth israel deaconess medical center	brigham and women s hospital	2	Unknown
+brigham and women s hospital	partners in health	4	Unknown
+brigham and women s hospital	imperial college london	2	Unknown
+brigham and women s hospital	aga khan university	3	Unknown
+brigham and women s hospital	university of california san francisco	2	Unknown
+brigham and women s hospital	world bank group	2	Unknown
+brigham and women s hospital	university of washington	2	Unknown
+brigham and women s hospital	university of pennsylvania	2	Unknown
+university of indonesia	university of aberdeen	2	trans-continental
+university of indonesia	aga khan university	2	trans-continental
+university of indonesia	flinders university	2	trans-continental
+university of southampton	durham university	2	trans-continental
+university of southampton	university of exeter	3	trans-continental
+university of southampton	university of florida	3	trans-continental
+university of southampton	university of dundee	2	trans-continental
+university of southampton	university of bristol	3	trans-continental
+university of southampton	kenya medical research institute	3	trans-continental
+university of southampton	university of north carolina at chapel hill	3	trans-continental
+university of southampton	university college london	2	trans-continental
+university of southampton	world health organization	3	trans-continental
+university of southampton	save the children	2	international
+university of southampton	university of cambridge	2	trans-continental
+university of southampton	mbarara university of science and technology	2	trans-continental
+durham university	fhi 360	3	trans-continental
+durham university	centers for disease control and prevention	2	trans-continental
+durham university	university of north carolina at chapel hill	2	trans-continental
+durham university	duke university	4	trans-continental
+durham university	world health organization	3	international
+university of minnesota	university of california san francisco	2	domestic
+university of minnesota	stockholm environment institute	2	Unknown
+university of minnesota	washington state university	2	domestic
+university of minnesota	michigan state university	3	domestic
+university of minnesota	university of florida	2	domestic
+university of trento	university of insubria	2	Unknown
+university of trento	higher university of san andres	2	Unknown
+food and agriculture organization	united states department of agriculture	2	trans-continental
+food and agriculture organization	university of washington	3	trans-continental
+food and agriculture organization	international union for conservation of nature and natural resources	2	Unknown
+university of milan	khalifa university	4	trans-continental
+national yunlin university of science and technology	national defense university	2	trans-continental
+erasmus university rotterdam	maastricht graduate school of governance	2	Unknown
+erasmus university rotterdam	imperial college london	2	international
+delft university of technology	royal institute of technology	2	international
+delft university of technology	unesco ihe institute for water education	3	Unknown
+ministry of health and social welfare	centers for disease control and prevention	3	trans-continental
+ministry of health and social welfare	ifakara health institute	4	domestic
+ministry of health and social welfare	world health organization	5	trans-continental
+center for global development	king s college london	2	trans-continental
+center for global development	world health organization	3	trans-continental
+center for global development	imperial college london	2	trans-continental
+university of pennsylvania	american university	3	domestic
+university of pennsylvania	duke university	2	domestic
+university of pennsylvania	world health organization	2	trans-continental
+university of pennsylvania	university of maryland baltimore	2	domestic
+university of pennsylvania	university of washington	3	domestic
+university of pennsylvania	university college london	2	trans-continental
+university of pennsylvania	yale university	2	domestic
+university of pennsylvania	university of california los angeles	2	domestic
+university of amsterdam	world health organization	2	international
+university of amsterdam	unesco ihe institute for water education	2	Unknown
+university of amsterdam	cardiff university	3	international
+university of amsterdam	martin luther university of halle wittenberg	2	Unknown
+university of amsterdam	university of alcala	3	trans-continental
+university of amsterdam	global biodiversity information facility	2	international
+university of amsterdam	florida museum of natural history	3	trans-continental
+world health organization	united nations population fund	11	trans-continental
+world health organization	university of glasgow	3	international
+world health organization	ifakara health institute	3	trans-continental
+world health organization	university of the western cape	7	trans-continental
+world health organization	save the children	8	trans-continental
+world health organization	joint united nations programme on hiv aids	6	Unknown
+world health organization	aga khan university	6	trans-continental
+world health organization	bill melinda gates foundation	6	trans-continental
+world health organization	king s college london	7	trans-continental
+world health organization	university of ottawa	3	trans-continental
+world health organization	university of the philippines manila	2	trans-continental
+world health organization	ministry of health and social services	2	Unknown
+world health organization	ministry of health and family welfare	4	trans-continental
+world health organization	pan american health organization	4	trans-continental
+world health organization	guttmacher institute	2	Unknown
+world health organization	la trobe university	2	trans-continental
+world health organization	tulane university	2	trans-continental
+world health organization	trinity college	2	international
+world health organization	chinese center for disease control and prevention	2	Unknown
+world health organization	university of essex	2	international
+world health organization	institute of tropical medicine antwerp	2	Unknown
+world health organization	university of north carolina at chapel hill	4	trans-continental
+world health organization	university of surrey	2	international
+world health organization	university of california san francisco	6	trans-continental
+world health organization	university college london	6	international
+world health organization	international centre for diarrhoeal disease research bangladesh	3	Unknown
+world health organization	university of edinburgh	3	international
+world health organization	university of aberdeen	2	international
+world health organization	vanderbilt university	3	trans-continental
+world health organization	college of health sciences bahrain	3	trans-continental
+world health organization	university of york	2	international
+world health organization	university of geneva	4	domestic
+world health organization	university of washington	7	trans-continental
+world health organization	liverpool school of tropical medicine	7	international
+world health organization	burnet institute	2	trans-continental
+world health organization	cayetano heredia university	2	trans-continental
+world health organization	boston university	2	trans-continental
+world health organization	karolinska institutet	4	international
+world health organization	centers for disease control and prevention	11	trans-continental
+world health organization	the global fund to fight aids tuberculosis and malaria	2	Unknown
+world health organization	united states agency for international development	3	international
+world health organization	university of bath	2	international
+world health organization	university of liverpool	3	international
+world health organization	international union against tuberculosis and lung disease	3	Unknown
+world health organization	state university of campinas	2	Unknown
+world health organization	imperial college london	8	international
+world health organization	university of michigan	2	trans-continental
+world health organization	sheffield hallam university	3	international
+world health organization	university of otago	4	trans-continental
+world health organization	national institutes of health	5	trans-continental
+world health organization	university of bristol	2	international
+world health organization	national health service	2	international
+world health organization	wellcome trust	2	international
+world health organization	umea university	2	international
+world health organization	university of nairobi	2	trans-continental
+world health organization	health effects institute	2	Unknown
+world health organization	duke university	2	trans-continental
+world health organization	national institute for medical research	2	trans-continental
+world health organization	medical research council	2	trans-continental
+world health organization	peking university	2	trans-continental
+world health organization	university of the west of england	2	international
+world health organization	university of california los angeles	2	trans-continental
+world health organization	kathmandu	2	trans-continental
+world health organization	yale university	5	trans-continental
+world health organization	university of basel	2	domestic
+world health organization	swiss tropical and public health institute	5	domestic
+world health organization	university of barcelona	3	international
+world health organization	vanderbilt university medical center	2	trans-continental
+world health organization	university of connecticut	3	trans-continental
+world health organization	university of exeter	2	international
+world health organization	paris descartes university	2	international
+world health organization	lund university	2	international
+world health organization	the chinese university of hong kong	2	trans-continental
+world health organization	lancaster university	2	international
+world health organization	university of manitoba	2	trans-continental
+world health organization	international aids society	2	Unknown
+world health organization	the george institute for global health	3	international
+world health organization	icahn school of medicine at mount sinai	2	Unknown
+united nations environment programme	international union for conservation of nature and natural resources	3	Unknown
+united nations environment programme	birdlife international	3	trans-continental
+united nations environment programme	conservation international	2	trans-continental
+united nations environment programme	international institute for environment and development	2	trans-continental
+united nations environment programme	national oceanic and atmospheric administration	2	Unknown
+world bank group	rockefeller foundation	3	Unknown
+united nations population fund	joint united nations programme on hiv aids	2	Unknown
+yale university	ryerson university	2	international
+yale university	university of ottawa	2	international
+yale university	prevention institute	2	domestic
+yale university	new york university	3	domestic
+yale university	aga khan university	2	trans-continental
+yale university	university of hong kong	2	trans-continental
+yale university	bioversity international	2	trans-continental
+yale university	university of california san francisco	2	domestic
+university of virginia	new york university	2	domestic
+new york university	rutgers university	2	domestic
+new york university	prevention institute	2	domestic
+new york university	university of florida	2	domestic
+drexel university	national institutes of health	2	domestic
+drexel university	university of texas at el paso	2	domestic
+aga khan university	universidade federal de pelotas	3	trans-continental
+aga khan university	bill melinda gates foundation	3	trans-continental
+aga khan university	international centre for diarrhoeal disease research bangladesh	2	Unknown
+aga khan university	save the children	8	trans-continental
+aga khan university	international vaccine institute	2	trans-continental
+aga khan university	united states agency for international development	2	trans-continental
+aga khan university	centers for disease control and prevention	3	trans-continental
+aga khan university	norwegian institute of public health	2	trans-continental
+aga khan university	university of north carolina at chapel hill	3	trans-continental
+aga khan university	mahidol university	2	trans-continental
+aga khan university	university of washington	3	trans-continental
+aga khan university	national institutes of health	4	trans-continental
+aga khan university	health services academy	2	trans-continental
+aga khan university	university of maryland baltimore	3	trans-continental
+aga khan university	medical research council	2	international
+aga khan university	brac university	2	international
+aga khan university	university of adelaide	2	trans-continental
+german development institute	observer research foundation	2	Unknown
+imperial college london	university college london	7	domestic
+imperial college london	university of warwick	2	domestic
+imperial college london	university of cambridge	3	domestic
+imperial college london	university of exeter	2	domestic
+imperial college london	lund university	2	international
+imperial college london	council for scientific and industrial research	2	trans-continental
+imperial college london	new york blood center	2	Unknown
+imperial college london	cayetano heredia university	2	trans-continental
+imperial college london	public health foundation of india	2	Unknown
+imperial college london	max planck society	3	international
+imperial college london	university of california san francisco	3	trans-continental
+imperial college london	kenya medical research institute	2	trans-continental
+imperial college london	world resources institute	2	trans-continental
+imperial college london	university of washington	3	trans-continental
+imperial college london	university of florida	2	trans-continental
+imperial college london	university of barcelona	2	international
+imperial college london	royal veterinary college	2	domestic
+imperial college london	university of montpellier	2	Unknown
+imperial college london	oswaldo cruz foundation	2	Unknown
+imperial college london	federal university of bahia	2	Unknown
+imperial college london	bill melinda gates foundation	2	trans-continental
+imperial college london	liverpool school of tropical medicine	2	domestic
+imperial college london	king s college london	2	trans-continental
+medical research council	save the children	8	trans-continental
+medical research council	centre for the aids programme of research in south africa	2	Unknown
+medical research council	university of kwazulu natal	2	international
+medical research council	uganda virus research institute	2	international
+medical research council	brac university	2	international
+medical research council	university of edinburgh	2	trans-continental
+medical research council	university of the western cape	3	international
+medical research council	liverpool school of tropical medicine	2	trans-continental
+karolinska institutet	university of basel	2	international
+karolinska institutet	swiss tropical and public health institute	2	international
+karolinska institutet	university college london	3	international
+karolinska institutet	uppsala university	4	domestic
+karolinska institutet	peking university	3	trans-continental
+karolinska institutet	international centre for diarrhoeal disease research bangladesh	4	Unknown
+karolinska institutet	umea university	2	domestic
+karolinska institutet	fudan university	3	trans-continental
+karolinska institutet	karolinska university hospital	2	domestic
+karolinska institutet	university of ottawa	2	trans-continental
+karolinska institutet	joint united nations programme on hiv aids	2	Unknown
+karolinska institutet	liverpool school of tropical medicine	2	international
+university of glasgow	university of st andrews	2	domestic
+university of glasgow	university of otago	2	trans-continental
+university of glasgow	public health foundation of india	2	Unknown
+university of glasgow	sokoine university of agriculture	2	trans-continental
+university of glasgow	washington state university	2	trans-continental
+university of glasgow	university of edinburgh	2	domestic
+university of st andrews	university of malawi	2	trans-continental
+university of dundee	university of reading	2	domestic
+university of the western cape	save the children	3	trans-continental
+university of the western cape	north west university	2	trans-continental
+university of the western cape	university of kwazulu natal	4	domestic
+university of the western cape	institute of tropical medicine antwerp	2	Unknown
+university of the western cape	university of chile	2	trans-continental
+university of the western cape	auckland university of technology	2	trans-continental
+university of the western cape	university of rome tor vergata	2	Unknown
+university of coimbra	universidade aberta	2	domestic
+university of coimbra	university of aveiro	4	domestic
+universidade aberta	university of aveiro	3	domestic
+zhejiang university	michigan state university	2	trans-continental
+open university	university of cambridge	2	trans-continental
+university of nottingham	university of guelph	2	trans-continental
+university of nottingham	university college london	2	domestic
+university of nottingham	rothamsted research	3	domestic
+university of nottingham	st george s university of london	2	Unknown
+university of nottingham	environment agency	2	domestic
+university of nottingham	lancaster university	2	domestic
+university of reading	university of cambridge	2	domestic
+university of reading	rothamsted research	3	domestic
+university of reading	james hutton institute	2	domestic
+university of reading	university of washington	2	trans-continental
+university of reading	international livestock research institute	2	trans-continental
+university of reading	university college london	2	domestic
+university of reading	university of exeter	2	domestic
+university of reading	world meteorological organization	2	Unknown
+king s college london	university college london	2	trans-continental
+king s college london	st george s hospital	2	trans-continental
+king s college london	lund university	2	trans-continental
+king s college london	university of washington	2	trans-continental
+king s college london	university of california san francisco	2	trans-continental
+king s college london	bioversity international	2	trans-continental
+king s college london	international center for tropical agriculture	2	trans-continental
+king s college london	washington state university	2	trans-continental
+king s college london	university of barcelona	2	trans-continental
+king s college london	the chinese university of hong kong	2	international
+zoological society of london	conservation international	2	international
+instituto superior tecnico	university of minho	3	Unknown
+united states agency for international development	john snow inc	2	Unknown
+united states agency for international development	save the children	2	trans-continental
+national institutes of health	national institute on drug abuse	2	Unknown
+national institutes of health	wellcome trust	2	trans-continental
+national institutes of health	university of north carolina at chapel hill	3	domestic
+national institutes of health	jawaharlal nehru medical college aligarh	2	Unknown
+national institutes of health	university of maryland baltimore	2	domestic
+national institutes of health	university of washington	2	domestic
+eni	london school of economics and political science	2	international
+university of surrey	university of north carolina at chapel hill	3	trans-continental
+kathmandu	peking university	2	international
+federal fluminense university	oswaldo cruz foundation	2	Unknown
+shahid beheshti university of medical sciences and health services	tehran university of medical sciences	2	Unknown
+tehran university of medical sciences	iran university of medical sciences	2	domestic
+hobart corporation	university of tasmania	4	trans-continental
+hobart corporation	national oceanic and atmospheric administration	2	Unknown
+jimma university	university of gondar	2	domestic
+universidad michoacana de san nicolas de hidalgo	national autonomous university of mexico	2	domestic
+national autonomous university of mexico	bioversity international	2	trans-continental
+great lakes university	university of nairobi	2	trans-continental
+great lakes university	national yang ming university	2	trans-continental
+university of nairobi	indian ministry of environment and forests	2	Unknown
+university of nairobi	georgetown university law center	2	trans-continental
+university of nairobi	institute of tropical medicine antwerp	2	Unknown
+university of nairobi	university of washington	2	trans-continental
+university of nairobi	georgetown university	2	trans-continental
+university of nairobi	university of edinburgh	2	trans-continental
+university of nairobi	university of atlanta	2	trans-continental
+ziauddin university	pakistan institute of medical sciences	2	Unknown
+pakistan institute of medical sciences	international centre for diarrhoeal disease research bangladesh	2	Unknown
+cardiff university	university of alcala	2	trans-continental
+cardiff university	florida museum of natural history	2	trans-continental
+university of malawi	university of namibia	2	international
+university of malawi	university of strathclyde	3	trans-continental
+university of malawi	university of california san francisco	2	trans-continental
+university of malawi	university college london	3	trans-continental
+university of namibia	national university of rwanda	2	international
+university of lagos	university college london	2	trans-continental
+all india institute of medical sciences	save the children	3	international
+all india institute of medical sciences	public health foundation of india	2	Unknown
+north carolina state university	university of north carolina at chapel hill	2	domestic
+north carolina state university	duke university	2	domestic
+university of north carolina at chapel hill	university of michigan	3	domestic
+university of north carolina at chapel hill	duke university	4	domestic
+university of north carolina at chapel hill	university of pittsburgh	2	domestic
+university of north carolina at chapel hill	university of california san francisco	2	domestic
+university of north carolina at chapel hill	university of bristol	2	trans-continental
+university of north carolina at chapel hill	save the children	2	trans-continental
+university of north carolina at chapel hill	universidade federal de pelotas	2	trans-continental
+university of north carolina at chapel hill	university of washington	2	domestic
+university of north carolina at chapel hill	universidad san francisco de quito	2	trans-continental
+university of north carolina at chapel hill	tshwane university of technology	2	trans-continental
+centers for disease control and prevention	kenya medical research institute	3	trans-continental
+centers for disease control and prevention	ministry of health and family welfare	2	trans-continental
+centers for disease control and prevention	save the children	2	trans-continental
+centers for disease control and prevention	college of health sciences bahrain	2	trans-continental
+centers for disease control and prevention	university of washington	2	domestic
+centers for disease control and prevention	ifakara health institute	2	trans-continental
+university of exeter	bangor university	2	domestic
+university of exeter	aberystwyth university	2	domestic
+university of exeter	rothamsted research	2	domestic
+university of exeter	game wildlife conservation trust	2	domestic
+university of exeter	university of york	2	domestic
+save the children	centre for the aids programme of research in south africa	2	Unknown
+save the children	university of kwazulu natal	3	trans-continental
+save the children	london school of economics and political science	2	trans-continental
+save the children	bill melinda gates foundation	2	trans-continental
+save the children	brac university	2	trans-continental
+save the children	university of split	2	trans-continental
+save the children	university of edinburgh	6	trans-continental
+save the children	universidade federal de pelotas	2	trans-continental
+save the children	university college london	4	trans-continental
+save the children	institute of tropical medicine antwerp	2	Unknown
+university of lethbridge	university of south australia	2	trans-continental
+university of lethbridge	university of waterloo	3	domestic
+university of lethbridge	state university of new york at fredonia	2	international
+royal children s hospital	max planck society	2	international
+royal children s hospital	university college london	3	domestic
+royal children s hospital	children s hospital at westmead	2	Unknown
+royal children s hospital	international union against tuberculosis and lung disease	3	Unknown
+university of brighton	charles university in prague	2	international
+university of south australia	university of adelaide	5	domestic
+humboldt university of berlin	potsdam institute for climate impact research	4	Unknown
+leibniz association	university of gondar	2	Unknown
+leibniz association	federal ministry of health	2	Unknown
+university of zambia	university of washington	2	trans-continental
+university of zambia	partners in health	2	international
+university of wollongong	university of washington	2	trans-continental
+ben gurion university of the negev	university of haifa	2	domestic
+university of haifa	technion israel institute of technology	2	domestic
+ifakara health institute	world vision international	2	trans-continental
+university of michigan	university of washington	4	domestic
+university of michigan	vanderbilt university	2	domestic
+university of michigan	kwame nkrumah university of science and technology	3	trans-continental
+university of michigan	national oceanic and atmospheric administration	2	Unknown
+university of michigan	maastricht university	2	trans-continental
+university of michigan	michigan state university	2	domestic
+university of tasmania	national oceanic and atmospheric administration	3	Unknown
+international union for conservation of nature and natural resources	birdlife international	2	Unknown
+international union for conservation of nature and natural resources	conservation international	3	Unknown
+international union for conservation of nature and natural resources	world wide fund for nature	2	Unknown
+university of western sydney	international centre for diarrhoeal disease research bangladesh	2	Unknown
+international centre for diarrhoeal disease research bangladesh	university of edinburgh	3	Unknown
+international centre for diarrhoeal disease research bangladesh	brac university	2	Unknown
+international centre for diarrhoeal disease research bangladesh	liverpool school of tropical medicine	2	Unknown
+university of cambridge	university of washington	3	trans-continental
+university of cambridge	university of california san francisco	2	trans-continental
+university of cambridge	public health foundation of india	2	Unknown
+university of cambridge	washington university in st louis	2	trans-continental
+university of cambridge	world conservation monitoring centre	2	domestic
+university of cambridge	university of hong kong	2	trans-continental
+university of cambridge	bangor university	2	domestic
+national research council	college of the north atlantic	2	domestic
+national research council	hanyang university	2	trans-continental
+national research council	university of turin	4	trans-continental
+pompeu fabra university	university of barcelona	2	domestic
+university of barcelona	tel aviv university	2	trans-continental
+university of barcelona	autonomous university of barcelona	2	Unknown
+university of barcelona	the chinese university of hong kong	2	trans-continental
+university of barcelona	university of washington	2	trans-continental
+university college london	wake forest university	2	trans-continental
+university college london	bill melinda gates foundation	3	trans-continental
+university college london	royal veterinary college	2	domestic
+university college london	queen mary university of london	4	domestic
+university college london	university of sheffield	2	domestic
+university college london	max planck society	2	international
+university college london	kenya medical research institute	2	trans-continental
+university college london	international union against tuberculosis and lung disease	2	Unknown
+university college london	potsdam institute for climate impact research	3	Unknown
+university college london	bocconi university	2	international
+university college london	public health foundation of india	2	Unknown
+university college london	joint united nations programme on hiv aids	2	Unknown
+university college london	international livestock research institute	2	trans-continental
+university college london	university of washington	2	trans-continental
+university college london	netherlands environmental assessment agency	2	Unknown
+vanderbilt university	university of washington	2	domestic
+vanderbilt university	university of connecticut	2	domestic
+university of california san francisco	university of washington	6	domestic
+university of california san francisco	assiut university	2	trans-continental
+university of california san francisco	liverpool school of tropical medicine	2	trans-continental
+university of california san francisco	lund university	2	trans-continental
+university of california san francisco	university of connecticut	2	domestic
+university of california san francisco	duke university	2	domestic
+american museum of natural history	university of basel	2	trans-continental
+university of kassel	helmholtz centre for environmental research ufz	2	Unknown
+stockholm environment institute	royal institute of technology	2	Unknown
+stockholm environment institute	duke university	2	Unknown
+stockholm environment institute	potsdam institute for climate impact research	3	Unknown
+royal institute of technology	sodertorn university	2	domestic
+blekinge institute of technology	lund university	2	domestic
+university of guelph	university of waterloo	2	domestic
+university of minho	university of aveiro	2	Unknown
+university of minho	instituto politecnico nacional	2	Unknown
+university of johannesburg	university of otago	2	trans-continental
+university of johannesburg	tshwane university of technology	2	domestic
+universiti teknologi malaysia	university of south florida	2	trans-continental
+university of warwick	queen mary university of london	2	domestic
+university of warwick	liverpool school of tropical medicine	2	domestic
+university of rome tor vergata	university of chile	2	Unknown
+university of rome tor vergata	auckland university of technology	2	Unknown
+university of salzburg	research studios austria	2	Unknown
+maastricht university	radboud university nijmegen	2	international
+maastricht university	maastricht university medical centre	2	international
+university of khartoum	kassala university	2	domestic
+liverpool school of tropical medicine	university of liverpool	3	domestic
+liverpool school of tropical medicine	wellcome trust	3	domestic
+liverpool school of tropical medicine	royal tropical institute	2	international
+federal ministry of health	college of health sciences bahrain	2	trans-continental
+federal ministry of health	university of gondar	3	trans-continental
+joint united nations programme on hiv aids	georgetown university	2	Unknown
+joint united nations programme on hiv aids	international hiv aids alliance	2	Unknown
+plymouth state university	world conservation monitoring centre	2	trans-continental
+institut de recherche pour le developpement	versailles saint quentin en yvelines university	2	trans-continental
+institut de recherche pour le developpement	duke university	2	trans-continental
+norwegian university of life sciences	united states department of agriculture	2	trans-continental
+norwegian university of life sciences	sokoine university of agriculture	2	trans-continental
+gembloux agro bio tech	university of liege	2	Unknown
+united states department of agriculture	lancaster university	2	trans-continental
+united states department of agriculture	washington state university	2	domestic
+united states department of agriculture	cgiar	2	trans-continental
+united states department of agriculture	duke university	2	domestic
+london school of economics and political science	rand corporation	2	trans-continental
+macquarie university	edith cowan university	2	domestic
+bill melinda gates foundation	university of pittsburgh	2	domestic
+bill melinda gates foundation	national university of rwanda	2	trans-continental
+bill melinda gates foundation	university of washington	3	domestic
+university of massachusetts boston	san francisco state university	4	domestic
+population council	bayero university kano	2	trans-continental
+australian museum	office of environment and heritage	2	domestic
+australian museum	conservation international	2	trans-continental
+beijing normal university	university of regina	5	trans-continental
+beijing normal university	hebei normal university	2	domestic
+beijing normal university	minzu university of china	2	domestic
+beijing normal university	dongguan university of technology	2	domestic
+beijing normal university	university of bologna	2	trans-continental
+university of rhode island	university of washington	2	domestic
+university of rhode island	duke university	2	domestic
+university of rhode island	national oceanic and atmospheric administration	2	Unknown
+university of rhode island	rutgers university	2	domestic
+university of rhode island	conservation international	2	trans-continental
+university of rhode island	san diego state university	2	domestic
+university of rhode island	northumbria university	2	trans-continental
+duke university	university of chicago	2	domestic
+duke university	university of california los angeles	2	domestic
+duke university	university of washington	5	domestic
+duke university	national university of rwanda	2	trans-continental
+duke university	university of pittsburgh	2	domestic
+duke university	medical college of wisconsin	2	domestic
+duke university	conservation international	3	trans-continental
+duke university	national oceanic and atmospheric administration	4	Unknown
+duke university	rutgers university	2	domestic
+duke university	san diego state university	2	domestic
+duke university	northumbria university	2	trans-continental
+duke university	children s memorial hospital	2	Unknown
+de la salle university	university of nottingham malaysia campus	2	international
+michigan state university	university of florida	4	domestic
+michigan state university	china west normal university	2	trans-continental
+university of basel	swiss tropical and public health institute	10	domestic
+university of basel	swiss federal institute of aquatic science and technology	2	Unknown
+swiss tropical and public health institute	university of dar es salaam	2	trans-continental
+university of washington	baylor college of medicine	3	domestic
+university of washington	public health foundation of india	3	Unknown
+university of washington	seattle children s	3	domestic
+university of washington	university of florida	2	domestic
+university of washington	health alliance international	2	trans-continental
+university of washington	partners in health	3	trans-continental
+university of washington	lund university	3	trans-continental
+university of washington	umea university	2	trans-continental
+university of washington	chinese center for disease control and prevention	3	Unknown
+university of washington	peking university	2	trans-continental
+university of washington	national oceanic and atmospheric administration	2	Unknown
+university of washington	rutgers university	2	domestic
+university of washington	conservation international	2	trans-continental
+university of washington	san diego state university	2	domestic
+university of washington	northumbria university	2	trans-continental
+university of washington	children s memorial hospital	2	Unknown
+university of washington	university of waterloo	2	international
+baylor college of medicine	rice university	3	domestic
+universiti tunku abdul rahman	university of malaya	2	domestic
+universiti tunku abdul rahman	heriot watt university	2	trans-continental
+universidade federal do rio grande do sul	universidade federal de santa maria	2	Unknown
+birdlife international	conservation international	2	trans-continental
+conservation international	national oceanic and atmospheric administration	3	Unknown
+conservation international	rutgers university	2	trans-continental
+conservation international	san diego state university	2	trans-continental
+conservation international	northumbria university	2	trans-continental
+conservation international	office of environment and heritage	2	trans-continental
+conservation international	university of florida	2	trans-continental
+university of malaya	universiti sains malaysia	3	domestic
+university of malaya	auckland university of technology	2	trans-continental
+university of malaya	national university of malaysia	3	domestic
+university of malaya	green templeton college	2	trans-continental
+max planck society	potsdam institute for climate impact research	4	Unknown
+max planck society	ludwig maximilian university of munich	2	Unknown
+max planck society	norwegian institute for air research	2	Unknown
+max planck society	international union against tuberculosis and lung disease	2	Unknown
+max planck society	university of leicester	2	international
+max planck society	university of the basque country	2	international
+max planck society	national museum of natural history	2	trans-continental
+university of st gallen	business school lausanne	2	domestic
+katholieke universiteit leuven	university of liege	2	Unknown
+katholieke universiteit leuven	free university of brussels	2	Unknown
+katholieke universiteit leuven	universite catholique de louvain	2	Unknown
+pan american health organization	oswaldo cruz foundation	2	Unknown
+international livestock research institute	cgiar	3	trans-continental
+wellcome trust	john radcliffe hospital	2	domestic
+university of ottawa	ottawa hospital research institute	2	Unknown
+islamic azad university	islamic azad university of karaj	2	Unknown
+university of chile	auckland university of technology	3	trans-continental
+queen mary university of london	peking university	2	trans-continental
+university of gottingen	kiel institute for the world economy	2	domestic
+university of gottingen	helmholtz centre for environmental research ufz	2	Unknown
+north china electric power university	university of regina	3	trans-continental
+rothamsted research	game wildlife conservation trust	2	domestic
+university of california los angeles	inter american development bank	2	domestic
+university of south florida	university of south florida st petersburg	2	domestic
+university of south florida	university of toledo	2	domestic
+university of south florida	suny downstate medical center	2	Unknown
+university of south florida	st luke s university health network	2	Unknown
+university of south florida	university of florida	2	domestic
+university of south florida	east carolina university	2	domestic
+university of south florida	mercy medical center	2	domestic
+university of south florida	summa health system	2	domestic
+university of south florida	rutgers university	2	domestic
+university of granada	university of la rioja	3	Unknown
+university of granada	university of valladolid	2	Unknown
+mahidol university	public health foundation of india	2	Unknown
+queen s university	university of waterloo	3	international
+washington state university	cgiar	2	trans-continental
+washington state university	bioversity international	2	trans-continental
+washington state university	international center for tropical agriculture	2	international
+washington state university	sokoine university of agriculture	2	trans-continental
+university of oklahoma	glenville state college	2	domestic
+georgetown university law center	institute of tropical medicine antwerp	2	Unknown
+university of adelaide	university of bristol	2	trans-continental
+university of adelaide	royal tropical institute	2	trans-continental
+institute of tropical medicine antwerp	university of edinburgh	3	Unknown
+institute of tropical medicine antwerp	universite catholique de louvain	2	Unknown
+university of pamplona	escuela colombiana de ingenieria	2	domestic
+uppsala university	peking university	2	trans-continental
+uppsala university	umea university	2	domestic
+uppsala university	fudan university	2	trans-continental
+free university of brussels	university of liege	2	Unknown
+free university of brussels	universite catholique de louvain	2	Unknown
+umea university	fudan university	2	trans-continental
+san diego state university	mediterranea university of reggio calabria	2	Unknown
+san diego state university	national oceanic and atmospheric administration	2	Unknown
+san diego state university	rutgers university	2	domestic
+san diego state university	northumbria university	2	trans-continental
+university of edinburgh	peking university	5	trans-continental
+university of edinburgh	newcastle university	2	domestic
+university of edinburgh	public health foundation of india	3	Unknown
+university of edinburgh	university of split	3	international
+university of edinburgh	university of the philippines	2	trans-continental
+university of edinburgh	china agricultural university	2	trans-continental
+peking university	university of hong kong	2	domestic
+peking university	university of regina	2	trans-continental
+peking university	university of split	2	trans-continental
+peking university	fudan university	2	domestic
+peking university	china university of geosciences	2	domestic
+peking university	chinese center for disease control and prevention	2	Unknown
+university of alicante	universidad autonoma de yucatan	2	international
+public health foundation of india	icahn school of medicine at mount sinai	3	Unknown
+public health foundation of india	world heart federation	2	Unknown
+icahn school of medicine at mount sinai	world heart federation	2	Unknown
+murdoch university	north west university	3	trans-continental
+national oceanic and atmospheric administration	rutgers university	2	Unknown
+national oceanic and atmospheric administration	northumbria university	2	Unknown
+national oceanic and atmospheric administration	marine biological association of the united kingdom	2	Unknown
+national oceanic and atmospheric administration	university of south florida st petersburg	2	Unknown
+national oceanic and atmospheric administration	atlantic oceanographic and meteorological laboratory	2	Unknown
+centre for the aids programme of research in south africa	university of kwazulu natal	5	Unknown
+university of kwazulu natal	north west university	3	trans-continental
+university of kwazulu natal	university of the free state	2	domestic
+empresa brasileira de pesquisa agropecuaria	federal university of para	2	Unknown
+university of split	university of zagreb	2	domestic
+royal tropical institute	university of bristol	2	international
+kenya medical research institute	jomo kenyatta university of agriculture and technology	3	domestic
+kenya medical research institute	college of health sciences bahrain	2	trans-continental
+university of health and allied sciences	university of cape coast	2	domestic
+national university of malaysia	universiti utara malaysia	2	domestic
+bournemouth university	liverpool john moores university	3	domestic
+college of health sciences bahrain	american public health association	2	Unknown
+college of health sciences bahrain	university of gondar	2	trans-continental
+college of health sciences bahrain	addis continental institute of public health	3	Unknown
+college of health sciences bahrain	bahir dar university	2	trans-continental
+hanoi school of public health	hanoi medical university	5	Unknown
+hanoi school of public health	seoul national university hospital	2	Unknown
+university of maryland baltimore	university of the west indies	2	international
+university of calgary	dalhousie university	2	domestic
+helmholtz centre for environmental research ufz	potsdam institute for climate impact research	3	Unknown
+helmholtz centre for environmental research ufz	martin luther university of halle wittenberg	3	Unknown
+helmholtz centre for environmental research ufz	international center for tropical agriculture	2	Unknown
+university of szczecin	west pomeranian university of technology	2	Unknown
+university of florida	national water and sewerage corporation	2	trans-continental
+university of florida	university at buffalo	2	domestic
+university of florida	university of hull	2	trans-continental
+university of florida	university of toledo	2	domestic
+university of florida	suny downstate medical center	2	Unknown
+university of florida	st luke s university health network	3	Unknown
+university of florida	east carolina university	2	domestic
+university of florida	mercy medical center	2	domestic
+university of florida	summa health system	2	domestic
+university of florida	rutgers university	2	domestic
+partners in health	national university of rwanda	2	international
+trinity college	national university of ireland galway	2	international
+ludwig maximilian university of munich	norwegian institute for air research	2	Unknown
+universite catholique de louvain	university of liege	2	Unknown
+morgan state university	city college of new york	2	domestic
+netherlands environmental assessment agency	potsdam institute for climate impact research	6	Unknown
+netherlands environmental assessment agency	national center for atmospheric research	2	Unknown
+netherlands environmental assessment agency	joint global change research institute	2	Unknown
+netherlands environmental assessment agency	bocconi university	2	Unknown
+potsdam institute for climate impact research	national center for atmospheric research	3	Unknown
+potsdam institute for climate impact research	joint global change research institute	2	Unknown
+potsdam institute for climate impact research	pacific institute	2	Unknown
+potsdam institute for climate impact research	graz university of technology	2	Unknown
+potsdam institute for climate impact research	bocconi university	2	Unknown
+university of waterloo	university of western ontario	2	international
+university of waterloo	national dong hwa university	2	trans-continental
+university of waterloo	simon fraser university	2	domestic
+university of waterloo	state university of new york at fredonia	2	international
+international institute for environment and development	bangladesh centre for advanced studies	2	Unknown
+medecins sans frontieres	international union against tuberculosis and lung disease	4	Unknown
+international union against tuberculosis and lung disease	children s hospital at westmead	2	Unknown
+university of southern mississippi	fuzhou university	2	trans-continental
+university of the west of england	university of bristol	2	domestic
+university of alcala	martin luther university of halle wittenberg	2	Unknown
+university of alcala	global biodiversity information facility	2	trans-continental
+university of alcala	florida museum of natural history	3	domestic
+tata institute of social sciences	international institute for population sciences	6	Unknown
+tata institute of social sciences	indian institute of technology roorkee	4	domestic
+international institute for population sciences	indian institute of technology roorkee	4	Unknown
+cayetano heredia university	qimr berghofer medical research institute	2	Unknown
+university of bradford	coventry university	2	domestic
+linkoping university	university of the basque country	2	international
+university of valencia	university of palermo	2	trans-continental
+university of valencia	university of newcastle	2	trans-continental
+university of porto	kaduna state university	2	trans-continental
+university of porto	united nations office on drugs and crime	2	trans-continental
+punjabi university	baba banda singh bahadur engineering college	2	domestic
+heidelberg university	university of kiel	2	trans-continental
+heidelberg university	kiel institute for the world economy	2	trans-continental
+oswaldo cruz foundation	rio de janeiro state university	2	Unknown
+oswaldo cruz foundation	federal university of bahia	3	Unknown
+martin luther university of halle wittenberg	international center for tropical agriculture	2	Unknown
+martin luther university of halle wittenberg	global biodiversity information facility	2	Unknown
+martin luther university of halle wittenberg	florida museum of natural history	2	Unknown
+university of osnabruck	york university	2	trans-continental
+university of osnabruck	oko institut	2	domestic
+university of osnabruck	city college of new york	2	trans-continental
+york university	oko institut	2	trans-continental
+international institute for sustainable development	manhattan college	2	Unknown
+university of the free state	walter sisulu university	2	domestic
+indian institute of technology guwahati	walchand institute of technology	2	Unknown
+university of connecticut	massachusetts eye and ear infirmary	2	domestic
+university of connecticut	vanderbilt university medical center	2	domestic
+university of science and technology sana a	babol noshirvani university of technology	2	international
+university of vermont	cgiar	2	trans-continental
+united nations office on drugs and crime	kaduna state university	2	trans-continental
+international center for tropical agriculture	bioversity international	2	trans-continental
+international center for tropical agriculture	cgiar	2	trans-continental
+ansaldo sts	enea	3	trans-continental
+university of kiel	kiel institute for the world economy	5	domestic
+university of belgrade	university of east sarajevo	2	Unknown
+university of regina	capital university of economics and business	2	trans-continental
+university of regina	dongguan university of technology	2	trans-continental
+vilnius gediminas technical university	pedagogical university	2	trans-continental
+council for scientific and industrial research	new york blood center	2	Unknown
+national chin yi university of technology	chaoyang university of technology	2	domestic
+east carolina university	university of toledo	2	domestic
+east carolina university	suny downstate medical center	2	Unknown
+east carolina university	st luke s university health network	2	Unknown
+east carolina university	mercy medical center	2	domestic
+east carolina university	summa health system	2	domestic
+east carolina university	rutgers university	2	domestic
+atlantic oceanographic and meteorological laboratory	university of south florida st petersburg	2	Unknown
+university of port harcourt	university of nigeria nsukka	2	domestic
+university of leicester	leeds beckett university	2	domestic
+university of nigeria nsukka	covenant university	2	domestic
+ikerbasque	energy institute	2	Unknown
+tallinn university of technology	kazan federal university	2	trans-continental
+cgiar	bioversity international	2	international
+cgiar	international center for agricultural research in the dry areas	2	trans-continental
+addis continental institute of public health	university of gondar	2	Unknown
+rutgers university	northumbria university	2	trans-continental
+rutgers university	university of toledo	2	domestic
+rutgers university	suny downstate medical center	2	Unknown
+rutgers university	st luke s university health network	2	Unknown
+rutgers university	mercy medical center	2	domestic
+rutgers university	summa health system	2	domestic
+university at buffalo	suny downstate medical center	2	Unknown
+hanoi university	hanoi medical university	2	domestic
+pace university	touro college	2	domestic
+bioversity international	international center for agricultural research in the dry areas	2	trans-continental
+instituto de salud carlos iii	autonomous university of madrid	2	Unknown
+hanoi medical university	seoul national university hospital	2	international
+sultan qaboos university	helwan university	2	trans-continental
+global biodiversity information facility	florida museum of natural history	2	trans-continental
+amrita vishwa vidyapeetham	etseib	2	trans-continental
+university of toledo	suny downstate medical center	2	Unknown
+university of toledo	st luke s university health network	2	Unknown
+university of toledo	mercy medical center	2	domestic
+university of toledo	summa health system	2	domestic
+suny downstate medical center	st luke s university health network	2	Unknown
+suny downstate medical center	mercy medical center	2	Unknown
+suny downstate medical center	summa health system	2	Unknown
+st luke s university health network	mercy medical center	2	Unknown
+st luke s university health network	summa health system	2	Unknown
+mercy medical center	summa health system	2	domestic
