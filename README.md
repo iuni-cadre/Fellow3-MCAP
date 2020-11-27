@@ -14,11 +14,25 @@ TBD
 One of the outputs of the code in `MAG Institutional Network Graph (CADRE).ipynb`
 is a Python NetworkX object `G` containing nodes and edges representing institutions involved with SDG research, and the connections between 
 them. These connections were derived from co-authorships happening across the SDG literature found in MAG. Any two institutions affiliated with a pair of
-co-authors is represented in the graph by an edge. Any 1 paper contributes to as many edges between institutions as there are possible institutional combinations among
-the co-authors' affiliations. While a paper with 2 authors could only ever connect 2 institutions, a paper with 30 authors and 30 different 
-affiliated institutions would contribute to 435 different edges. Thus a single many-authored paper may have outsize influence on the shape of the graph.
+co-authors is represented in the graph by an edge. All graphs are limited to *repeat* collaborations, that is connections between institutions that occured more than once; or in graphical terms have an edge value of greater than 1.
 
-The [nodes](mag_output_inst/mag_inst_nodes.csv) and [edges](mag_output_inst/mag_inst_edges.tsv) have been rendered in visual form using Flourish.Studio:
+In the course of our study of SDG collaboration, we produced an array of network visualizations described below.
 
-https://public.flourish.studio/visualisation/3820791/
+### Institutional
+
+- All graph components, nodes colored by continent. [See graph](https://public.flourish.studio/visualisation/3820791/)
+- Largest connected component, nodes colore by modularity class. [See graph](https://public.flourish.studio/visualisation/4449252/)
+- 
+- Only modularity class 2; Highlighting prominence of regional connections. [See graph](https://public.flourish.studio/visualisation/4461554/)
+- Largest connected component, 1999–2008, nodes colored by continent. [See graph](https://public.flourish.studio/visualisation/4321031/)
+- Highlighting the 20 institutions with the highest degree, nodes colored by continent. [See graph](https://public.flourish.studio/visualisation/4461039/)
+- Highlighting the 20 institutions with the highest degree, 2009–2018, nodes colored by continent. [See graph](https://public.flourish.studio/visualisation/4446921/)
+
+
+### Author
+
+- All graph components [See graph](https://public.flourish.studio/visualisation/4491303/)
+- Largest connected components, nodes colored by modularity class. [See graph](https://public.flourish.studio/visualisation/4470016/)
+
+
 
