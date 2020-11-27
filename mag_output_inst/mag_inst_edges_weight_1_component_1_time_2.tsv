@@ -1,0 +1,2027 @@
+Header
+dongguan university of technology	beijing normal university	2	['2018', '2018']	domestic
+dongguan university of technology	university of regina	2	['2018', '2018']	trans-continental
+eni	international institute for applied systems analysis	2	['2015', '2016']	trans-continental
+eni	london school of economics and political science	2	['2015', '2015']	trans-continental
+university of essex	world health organization	2	['2012', '2012']	trans-continental
+federal ministry of health	harvard university	2	['2017', '2018']	domestic
+federal ministry of health	university of london	2	['2017', '2017']	trans-continental
+federal ministry of health	mekelle university	2	['2015', '2018']	trans-continental
+federal ministry of health	college of health sciences bahrain	2	['2014', '2018']	trans-continental
+federal ministry of health	leibniz association	2	['2017', '2018']	trans-continental
+federal ministry of health	university of gondar	3	['2017', '2018', '2018']	trans-continental
+kathmandu	world health organization	2	['2016', '2018']	trans-continental
+kathmandu	johns hopkins university	2	['2017', '2018']	trans-continental
+kathmandu	unicef	2	['2012', '2017']	trans-continental
+kathmandu	university of new south wales	2	['2017', '2017']	trans-continental
+kathmandu	peking university	2	['2017', '2017']	international
+kathmandu	sichuan university	2	['2017', '2017']	international
+leibniz association	karlsruhe institute of technology	2	['2016', '2018']	domestic
+leibniz association	university of gondar	2	['2017', '2018']	trans-continental
+tohoku university	university of tokyo	2	['2014', '2014']	domestic
+university of tokyo	united nations	2	['2014', '2016']	trans-continental
+university of tokyo	chinese academy of sciences	2	['2018', '2018']	international
+university of tokyo	united nations university	2	['2016', '2018']	domestic
+university of tokyo	university of rajshahi	3	['2011', '2016', '2017']	international
+university of tokyo	university of dhaka	2	['2011', '2013']	international
+university of tokyo	teikyo university	2	['2013', '2018']	trans-continental
+university of tokyo	chalmers university of technology	2	['2014', '2018']	trans-continental
+trent university	stellenbosch university	3	['2016', '2016', '2016']	trans-continental
+queen mary university of london	stanford university	2	['2014', '2014']	trans-continental
+queen mary university of london	harvard university	2	['2015', '2017']	trans-continental
+queen mary university of london	university of oxford	2	['2014', '2014']	domestic
+queen mary university of london	johns hopkins university	2	['2015', '2016']	trans-continental
+queen mary university of london	university of london	3	['2014', '2014', '2016']	domestic
+queen mary university of london	university college london	3	['2015', '2016', '2017']	domestic
+queen mary university of london	peking university	2	['2016', '2017']	trans-continental
+queen mary university of london	university of warwick	2	['2015', '2018']	domestic
+max planck society	federal university of rio de janeiro	2	['2010', '2014']	trans-continental
+max planck society	imperial college london	3	['2010', '2014', '2018']	trans-continental
+max planck society	international institute for applied systems analysis	2	['2014', '2017']	trans-continental
+max planck society	university of london	2	['2010', '2012']	trans-continental
+max planck society	columbia university	3	['2010', '2014', '2014']	domestic
+max planck society	university college london	2	['2010', '2012']	trans-continental
+max planck society	university of leeds	2	['2016', '2018']	trans-continental
+max planck society	centre national de la recherche scientifique	3	['2014', '2018', '2018']	trans-continental
+max planck society	international union against tuberculosis and lung disease	2	['2010', '2012']	trans-continental
+max planck society	royal children s hospital	2	['2010', '2012']	domestic
+max planck society	potsdam institute for climate impact research	4	['2011', '2014', '2016', '2017']	trans-continental
+max planck society	university of leicester	2	['2014', '2016']	trans-continental
+max planck society	stockholm resilience centre	3	['2014', '2016', '2016']	trans-continental
+max planck society	university of arizona	2	['2014', '2018']	domestic
+max planck society	university of colorado boulder	2	['2016', '2018']	domestic
+max planck society	university of the basque country	2	['2016', '2017']	trans-continental
+max planck society	national museum of natural history	2	['2016', '2018']	domestic
+oregon state university	wageningen university and research centre	2	['2016', '2017']	trans-continental
+oregon state university	portland state university	2	['2012', '2014']	domestic
+oregon state university	columbia university	2	['2016', '2017']	domestic
+oregon state university	university of florida	2	['2016', '2017']	domestic
+indian institute of technology bombay	massachusetts institute of technology	2	['2015', '2017']	trans-continental
+qimr berghofer medical research institute	cayetano heredia university	2	['2011', '2012']	trans-continental
+arizona state university	university of california berkeley	3	['2011', '2014', '2014']	domestic
+arizona state university	stanford university	3	['2011', '2016', '2017']	domestic
+arizona state university	george washington university	2	['2014', '2018']	domestic
+arizona state university	commonwealth scientific and industrial research organisation	3	['2011', '2014', '2018']	trans-continental
+arizona state university	australian national university	2	['2011', '2016']	trans-continental
+arizona state university	university of oxford	2	['2014', '2018']	trans-continental
+arizona state university	stockholm university	4	['2011', '2014', '2016', '2016']	trans-continental
+arizona state university	massachusetts institute of technology	2	['2011', '2016']	domestic
+arizona state university	columbia university	2	['2014', '2014']	domestic
+arizona state university	chinese academy of sciences	3	['2015', '2015', '2018']	trans-continental
+arizona state university	london school of economics and political science	2	['2014', '2017']	trans-continental
+arizona state university	pennsylvania state university	2	['2014', '2018']	domestic
+arizona state university	inner mongolia university	3	['2009', '2011', '2018']	trans-continental
+arizona state university	clark university	2	['2012', '2013']	domestic
+arizona state university	university of houston	2	['2014', '2014']	domestic
+arizona state university	university of arizona	2	['2014', '2016']	domestic
+arizona state university	george mason university	2	['2017', '2018']	domestic
+aurecon	university of cape town	2	['2017', '2018']	international
+aurecon	university of oxford	2	['2017', '2018']	trans-continental
+leiden university	vu university amsterdam	4	['2014', '2017', '2018', '2018']	domestic
+millennium institute	university of bergen	2	['2010', '2018']	trans-continental
+unesco ihe institute for water education	wageningen university and research centre	2	['2015', '2018']	domestic
+unesco ihe institute for water education	delft university of technology	2	['2013', '2017']	domestic
+unesco ihe institute for water education	university of amsterdam	2	['2015', '2016']	domestic
+washington university in st louis	university of cambridge	2	['2016', '2016']	trans-continental
+university of florida	stanford university	3	['2017', '2017', '2018']	domestic
+university of florida	imperial college london	2	['2016', '2017']	trans-continental
+university of florida	michigan state university	4	['2017', '2017', '2017', '2018']	domestic
+university of florida	temple university	2	['2017', '2017']	domestic
+university of florida	carleton university	2	['2016', '2017']	international
+university of florida	harvard university	2	['2017', '2018']	domestic
+university of florida	commonwealth scientific and industrial research organisation	2	['2017', '2017']	trans-continental
+university of florida	university of southampton	2	['2013', '2013']	trans-continental
+university of florida	university of oxford	3	['2013', '2017', '2018']	trans-continental
+university of florida	united states geological survey	2	['2016', '2017']	domestic
+university of florida	johns hopkins university	4	['2013', '2017', '2017', '2018']	domestic
+university of florida	columbia university	3	['2016', '2017', '2018']	domestic
+university of florida	chinese academy of sciences	2	['2016', '2018']	trans-continental
+university of florida	university of washington	2	['2012', '2016']	domestic
+university of florida	ohio state university	2	['2011', '2017']	domestic
+university of florida	university of sydney	3	['2016', '2017', '2018']	trans-continental
+university of florida	conservation international	2	['2016', '2017']	domestic
+university of florida	new york university	2	['2016', '2017']	domestic
+university of florida	rutgers university	2	['2017', '2017']	domestic
+university of florida	stellenbosch university	2	['2012', '2017']	trans-continental
+university of florida	universite libre de bruxelles	2	['2013', '2013']	trans-continental
+university of florida	university at buffalo	2	['2013', '2017']	domestic
+university of florida	university of hull	2	['2016', '2017']	trans-continental
+university of florida	oak ridge national laboratory	2	['2016', '2017']	domestic
+university of florida	university of minnesota	2	['2017', '2018']	domestic
+university of florida	university of toledo	2	['2017', '2017']	domestic
+university of florida	suny downstate medical center	2	['2017', '2017']	domestic
+university of florida	st luke s university health network	3	['2017', '2017', '2018']	domestic
+university of florida	university of south florida	2	['2017', '2017']	domestic
+university of florida	east carolina university	2	['2017', '2017']	domestic
+university of florida	mercy medical center	2	['2017', '2017']	domestic
+university of florida	summa health system	2	['2017', '2017']	domestic
+university of the algarve	universidade nova de lisboa	4	['2010', '2010', '2012', '2015']	domestic
+leeds beckett university	university of leicester	2	['2016', '2016']	domestic
+centers for disease control and prevention	world health organization	9	['2010', '2011', '2011', '2012', '2014', '2015', '2015', '2016', '2018']	domestic
+centers for disease control and prevention	johns hopkins university	4	['2010', '2014', '2017', '2018']	domestic
+centers for disease control and prevention	unicef	4	['2011', '2015', '2017', '2018']	domestic
+centers for disease control and prevention	kenya medical research institute	2	['2010', '2014']	trans-continental
+centers for disease control and prevention	ministry of health and family welfare	2	['2010', '2017']	trans-continental
+centers for disease control and prevention	university of washington	2	['2012', '2015']	domestic
+centers for disease control and prevention	college of health sciences bahrain	2	['2013', '2014']	trans-continental
+centers for disease control and prevention	ministry of health and social welfare	3	['2013', '2015', '2015']	trans-continental
+centers for disease control and prevention	ifakara health institute	2	['2013', '2015']	trans-continental
+universidad san francisco de quito	university of north carolina at chapel hill	2	['2016', '2017']	trans-continental
+aga khan university	university of california berkeley	2	['2017', '2017']	trans-continental
+aga khan university	stanford university	2	['2016', '2017']	trans-continental
+aga khan university	world health organization	6	['2013', '2014', '2015', '2016', '2016', '2017']	trans-continental
+aga khan university	university of adelaide	2	['2016', '2016']	trans-continental
+aga khan university	harvard university	8	['2011', '2013', '2015', '2016', '2016', '2016', '2017', '2017']	trans-continental
+aga khan university	bill melinda gates foundation	2	['2014', '2016']	trans-continental
+aga khan university	world bank	3	['2010', '2016', '2016']	trans-continental
+aga khan university	johns hopkins university	9	['2010', '2010', '2013', '2013', '2015', '2015', '2016', '2016', '2017']	trans-continental
+aga khan university	university of london	12	['2010', '2013', '2014', '2015', '2015', '2016', '2016', '2016', '2016', '2016', '2017', '2018']	trans-continental
+aga khan university	unicef	7	['2010', '2014', '2015', '2015', '2016', '2017', '2017']	trans-continental
+aga khan university	save the children	4	['2010', '2013', '2013', '2014']	trans-continental
+aga khan university	universidade federal de pelotas	2	['2013', '2017']	trans-continental
+aga khan university	university of toronto	11	['2013', '2015', '2016', '2016', '2016', '2017', '2017', '2017', '2017', '2017', '2018']	trans-continental
+aga khan university	university of maryland baltimore	2	['2010', '2012']	trans-continental
+aga khan university	national institutes of health	4	['2009', '2010', '2011', '2012']	trans-continental
+aga khan university	university of north carolina at chapel hill	3	['2010', '2011', '2013']	trans-continental
+aga khan university	norwegian institute of public health	2	['2011', '2012']	trans-continental
+aga khan university	university of indonesia	2	['2011', '2015']	international
+aga khan university	international vaccine institute	2	['2012', '2013']	trans-continental
+aga khan university	health services academy	2	['2013', '2015']	trans-continental
+aga khan university	mahidol university	2	['2013', '2015']	international
+aga khan university	university of the witwatersrand	4	['2013', '2015', '2016', '2017']	trans-continental
+aga khan university	brigham and women s hospital	3	['2013', '2016', '2017']	trans-continental
+aga khan university	united states agency for international development	2	['2014', '2017']	trans-continental
+aga khan university	columbia university	3	['2015', '2017', '2017']	trans-continental
+aga khan university	university of washington	3	['2015', '2016', '2017']	trans-continental
+aga khan university	yale university	2	['2017', '2017']	trans-continental
+north china electric power university	university of regina	3	['2009', '2009', '2016']	trans-continental
+university of leeds	university of surrey	2	['2012', '2018']	domestic
+university of leeds	university of exeter	2	['2018', '2018']	domestic
+university of leeds	university of east anglia	5	['2016', '2017', '2018', '2018', '2018']	domestic
+university of leeds	australian national university	2	['2016', '2016']	trans-continental
+university of leeds	university of southampton	3	['2015', '2016', '2018']	domestic
+university of leeds	university of manchester	2	['2014', '2018']	domestic
+university of leeds	world bank	2	['2017', '2018']	trans-continental
+university of leeds	wageningen university and research centre	4	['2014', '2017', '2017', '2018']	international
+university of leeds	makerere university	2	['2013', '2018']	trans-continental
+university of leeds	university of london	2	['2018', '2018']	domestic
+university of leeds	liverpool school of tropical medicine	3	['2013', '2018', '2018']	domestic
+university of leeds	university of nottingham	3	['2018', '2018', '2018']	domestic
+university of leeds	university of new south wales	2	['2016', '2017']	trans-continental
+university of leeds	university of hamburg	2	['2011', '2017']	international
+university of leeds	food and environment research agency	2	['2010', '2018']	domestic
+university of leeds	virginia tech	2	['2011', '2017']	trans-continental
+university of leeds	university of north carolina at chapel hill	4	['2012', '2016', '2018', '2018']	trans-continental
+university of leeds	university of colorado boulder	2	['2016', '2017']	trans-continental
+university of leeds	newcastle university	2	['2017', '2017']	domestic
+national institute for medical research	world health organization	2	['2014', '2015']	domestic
+national institute for medical research	university of london	2	['2012', '2018']	trans-continental
+national institute for medical research	university of copenhagen	2	['2012', '2013']	trans-continental
+research institute of organic agriculture	wageningen university and research centre	2	['2013', '2018']	trans-continental
+rockefeller foundation	harvard university	2	['2016', '2016']	domestic
+rockefeller foundation	university of london	2	['2016', '2016']	trans-continental
+rockefeller foundation	world bank group	3	['2016', '2016', '2017']	domestic
+university of connecticut	world health organization	3	['2016', '2017', '2018']	domestic
+university of connecticut	cornell university	2	['2016', '2017']	domestic
+university of connecticut	harvard university	3	['2009', '2016', '2017']	domestic
+university of connecticut	university of british columbia	2	['2009', '2016']	international
+university of connecticut	university of toronto	2	['2013', '2016']	international
+university of connecticut	university of california san francisco	2	['2016', '2017']	domestic
+university of connecticut	boston children s hospital	2	['2016', '2017']	domestic
+university of connecticut	massachusetts eye and ear infirmary	2	['2016', '2017']	domestic
+university of connecticut	vanderbilt university	2	['2016', '2016']	domestic
+university of connecticut	university of colorado boulder	2	['2016', '2017']	domestic
+university of connecticut	vanderbilt university medical center	2	['2016', '2017']	domestic
+international centre for diarrhoeal disease research bangladesh	world health organization	3	['2013', '2018', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	harvard university	2	['2014', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	world bank	2	['2013', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	johns hopkins university	4	['2009', '2013', '2015', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of melbourne	2	['2010', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	liverpool school of tropical medicine	2	['2017', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of sydney	3	['2012', '2012', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	brac university	2	['2010', '2017']	domestic
+international centre for diarrhoeal disease research bangladesh	university of edinburgh	2	['2009', '2013']	trans-continental
+international centre for diarrhoeal disease research bangladesh	karolinska institutet	3	['2017', '2018', '2018']	trans-continental
+international centre for diarrhoeal disease research bangladesh	emory university	2	['2011', '2012']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of western sydney	2	['2012', '2012']	trans-continental
+international centre for diarrhoeal disease research bangladesh	pakistan institute of medical sciences	2	['2012', '2013']	international
+james hutton institute	university of reading	2	['2013', '2018']	domestic
+queen s university	university of waterloo	3	['2017', '2017', '2018']	domestic
+harvard university	university of california berkeley	9	['2012', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2018']	domestic
+harvard university	university of cape town	4	['2017', '2017', '2018', '2018']	trans-continental
+harvard university	stanford university	9	['2011', '2015', '2015', '2016', '2017', '2017', '2017', '2018', '2018']	domestic
+harvard university	university of illinois at urbana champaign	2	['2012', '2013']	domestic
+harvard university	dartmouth college	2	['2011', '2016']	domestic
+harvard university	imperial college london	7	['2012', '2012', '2013', '2017', '2017', '2018', '2018']	trans-continental
+harvard university	world health organization	16	['2010', '2011', '2012', '2012', '2015', '2016', '2016', '2017', '2017', '2018', '2018', '2018', '2018', '2018', '2018', '2018']	domestic
+harvard university	cornell university	3	['2011', '2016', '2017']	domestic
+harvard university	university of california san francisco	4	['2010', '2012', '2016', '2018']	domestic
+harvard university	university of london	16	['2010', '2013', '2013', '2015', '2016', '2016', '2016', '2016', '2016', '2016', '2016', '2016', '2016', '2017', '2017', '2018']	trans-continental
+harvard university	world bank	2	['2017', '2018']	domestic
+harvard university	university of queensland	2	['2010', '2018']	domestic
+harvard university	university of washington	8	['2010', '2012', '2013', '2016', '2017', '2017', '2017', '2018']	domestic
+harvard university	unicef	6	['2012', '2015', '2016', '2017', '2017', '2017']	domestic
+harvard university	johns hopkins university	13	['2010', '2011', '2011', '2013', '2015', '2016', '2016', '2016', '2016', '2018', '2018', '2018', '2018']	domestic
+harvard university	columbia university	7	['2009', '2017', '2017', '2017', '2018', '2018', '2018']	domestic
+harvard university	partners in health	6	['2009', '2011', '2015', '2016', '2016', '2017']	domestic
+harvard university	university of michigan	3	['2009', '2016', '2017']	domestic
+harvard university	university of north carolina at chapel hill	3	['2009', '2013', '2014']	domestic
+harvard university	yale university	5	['2010', '2012', '2014', '2017', '2018']	domestic
+harvard university	peking university	4	['2010', '2017', '2018', '2018']	trans-continental
+harvard university	university of melbourne	3	['2010', '2011', '2018']	trans-continental
+harvard university	university of edinburgh	2	['2010', '2017']	trans-continental
+harvard university	save the children	4	['2010', '2012', '2013', '2016']	domestic
+harvard university	mcgill university	3	['2011', '2011', '2011']	international
+harvard university	national university of rwanda	3	['2011', '2016', '2016']	trans-continental
+harvard university	university of virginia	2	['2011', '2017']	domestic
+harvard university	makerere university	3	['2011', '2016', '2018']	trans-continental
+harvard university	national institutes of health	3	['2011', '2014', '2018']	domestic
+harvard university	public health foundation of india	2	['2011', '2014']	trans-continental
+harvard university	emory university	3	['2011', '2018', '2018']	domestic
+harvard university	australian national university	3	['2011', '2016', '2016']	trans-continental
+harvard university	icahn school of medicine at mount sinai	3	['2011', '2018', '2018']	domestic
+harvard university	university college london	6	['2011', '2012', '2016', '2016', '2017', '2018']	trans-continental
+harvard university	northwestern university	5	['2011', '2013', '2016', '2018', '2018']	domestic
+harvard university	stellenbosch university	2	['2011', '2015']	trans-continental
+harvard university	georgetown university	3	['2012', '2016', '2018']	domestic
+harvard university	karolinska institutet	3	['2012', '2017', '2018']	trans-continental
+harvard university	tufts university	4	['2012', '2017', '2017', '2018']	domestic
+harvard university	the chinese university of hong kong	2	['2012', '2017']	trans-continental
+harvard university	university of california	3	['2012', '2013', '2018']	domestic
+harvard university	university of southern california	2	['2013', '2015']	domestic
+harvard university	eth zurich	2	['2013', '2017']	trans-continental
+harvard university	king s college london	7	['2013', '2014', '2016', '2016', '2017', '2018', '2018']	trans-continental
+harvard university	ghent university	2	['2013', '2018']	trans-continental
+harvard university	university of the witwatersrand	5	['2013', '2016', '2017', '2018', '2018']	trans-continental
+harvard university	brigham and women s hospital	9	['2013', '2015', '2016', '2016', '2017', '2017', '2017', '2017', '2017']	domestic
+harvard university	intermountain healthcare	2	['2014', '2016']	domestic
+harvard university	massachusetts eye and ear infirmary	3	['2014', '2016', '2017']	domestic
+harvard university	beth israel deaconess medical center	3	['2015', '2016', '2018']	domestic
+harvard university	wellcome trust	2	['2015', '2016']	domestic
+harvard university	eduardo mondlane university	2	['2015', '2016']	trans-continental
+harvard university	duke university	4	['2016', '2016', '2016', '2018']	domestic
+harvard university	university of liverpool	2	['2016', '2018']	trans-continental
+harvard university	massachusetts institute of technology	2	['2016', '2017']	domestic
+harvard university	boston children s hospital	3	['2016', '2017', '2017']	domestic
+harvard university	world bank group	4	['2016', '2016', '2017', '2018']	domestic
+harvard university	university of toronto	7	['2016', '2016', '2016', '2017', '2018', '2018', '2018']	international
+harvard university	lund university	3	['2016', '2017', '2018']	trans-continental
+harvard university	university of british columbia	3	['2016', '2018', '2018']	international
+harvard university	children s memorial hospital	2	['2016', '2018']	domestic
+harvard university	university of colorado boulder	3	['2016', '2016', '2017']	domestic
+harvard university	bill melinda gates foundation	2	['2016', '2018']	domestic
+harvard university	university of southampton	3	['2016', '2017', '2018']	trans-continental
+harvard university	rti international	2	['2017', '2018']	domestic
+harvard university	university of pennsylvania	2	['2017', '2018']	domestic
+harvard university	mcmaster university	2	['2017', '2018']	international
+harvard university	university of sydney	2	['2017', '2018']	trans-continental
+harvard university	heidelberg university	4	['2017', '2018', '2018', '2018']	domestic
+harvard university	swiss tropical and public health institute	3	['2017', '2018', '2018']	trans-continental
+harvard university	university of gottingen	2	['2017', '2018']	trans-continental
+harvard university	boston university	2	['2017', '2018']	domestic
+harvard university	tufts medical center	2	['2017', '2017']	domestic
+pompeu fabra university	university of barcelona	2	['2017', '2018']	domestic
+college of health sciences bahrain	world health organization	3	['2010', '2014', '2018']	trans-continental
+college of health sciences bahrain	johns hopkins university	5	['2009', '2014', '2014', '2014', '2015']	trans-continental
+college of health sciences bahrain	university of london	2	['2010', '2014']	trans-continental
+college of health sciences bahrain	kenya medical research institute	2	['2016', '2016']	trans-continental
+college of health sciences bahrain	university of bergen	2	['2011', '2014']	trans-continental
+college of health sciences bahrain	addis continental institute of public health	3	['2012', '2013', '2018']	trans-continental
+college of health sciences bahrain	addis ababa university	3	['2012', '2013', '2018']	trans-continental
+college of health sciences bahrain	university of gondar	2	['2013', '2018']	trans-continental
+college of health sciences bahrain	american public health association	2	['2014', '2018']	trans-continental
+college of health sciences bahrain	bahir dar university	2	['2018', '2018']	trans-continental
+world conservation monitoring centre	plymouth state university	2	['2017', '2018']	trans-continental
+world conservation monitoring centre	university of cambridge	2	['2017', '2018']	domestic
+international fertilizer development center	wageningen university and research centre	2	['2018', '2018']	trans-continental
+university of rome tor vergata	tsinghua university	2	['2017', '2018']	trans-continental
+university of rome tor vergata	university of the western cape	2	['2017', '2018']	trans-continental
+university of rome tor vergata	university of chile	2	['2017', '2018']	trans-continental
+university of rome tor vergata	auckland university of technology	2	['2017', '2018']	trans-continental
+environment agency	australian national university	3	['2016', '2016', '2018']	trans-continental
+indian institute of management ahmedabad	united nations environment programme	4	['2011', '2014', '2015', '2016']	trans-continental
+george washington university	johns hopkins university	2	['2013', '2014']	domestic
+pakistan institute of medical sciences	ziauddin university	2	['2011', '2013']	domestic
+game wildlife conservation trust	university of exeter	2	['2011', '2018']	trans-continental
+game wildlife conservation trust	university of east anglia	2	['2011', '2018']	trans-continental
+game wildlife conservation trust	rothamsted research	2	['2011', '2018']	trans-continental
+university of mataram	commonwealth scientific and industrial research organisation	2	['2014', '2016']	trans-continental
+morgan state university	city college of new york	2	['2012', '2018']	domestic
+children s hospital at westmead	international union against tuberculosis and lung disease	2	['2012', '2014']	trans-continental
+children s hospital at westmead	royal children s hospital	2	['2012', '2014']	trans-continental
+medical college of wisconsin	duke university	2	['2012', '2016']	domestic
+national and kapodistrian university of athens	university of london	2	['2015', '2018']	international
+world food programme	tufts university	3	['2010', '2015', '2017']	domestic
+world food programme	johns hopkins university	3	['2010', '2015', '2017']	domestic
+world food programme	columbia university	2	['2012', '2015']	domestic
+international union for conservation of nature and natural resources	food and agriculture organization	2	['2016', '2017']	trans-continental
+international union for conservation of nature and natural resources	australian national university	2	['2016', '2016']	trans-continental
+international union for conservation of nature and natural resources	united nations environment programme	3	['2015', '2016', '2016']	trans-continental
+international union for conservation of nature and natural resources	university of queensland	2	['2016', '2017']	trans-continental
+international union for conservation of nature and natural resources	birdlife international	2	['2015', '2016']	trans-continental
+international union for conservation of nature and natural resources	conservation international	3	['2015', '2016', '2017']	trans-continental
+institut de recherche pour le developpement	commonwealth scientific and industrial research organisation	2	['2015', '2018']	trans-continental
+institut de recherche pour le developpement	university of british columbia	2	['2013', '2015']	trans-continental
+institut de recherche pour le developpement	duke university	2	['2016', '2018']	trans-continental
+sokoine university of agriculture	university of glasgow	2	['2017', '2018']	trans-continental
+sokoine university of agriculture	norwegian university of life sciences	2	['2013', '2015']	trans-continental
+sokoine university of agriculture	washington state university	2	['2017', '2018']	trans-continental
+university of alcala	commonwealth scientific and industrial research organisation	2	['2018', '2018']	trans-continental
+university of alcala	university of amsterdam	2	['2018', '2018']	international
+university of alcala	university of twente	2	['2018', '2018']	international
+university of alcala	martin luther university of halle wittenberg	2	['2018', '2018']	international
+university of alcala	woodrow wilson international center for scholars	2	['2018', '2018']	trans-continental
+university of alcala	global biodiversity information facility	2	['2018', '2018']	international
+university of alcala	florida museum of natural history	2	['2018', '2018']	trans-continental
+deakin university	world health organization	2	['2016', '2017']	trans-continental
+deakin university	rmit university	2	['2009', '2009']	domestic
+mbarara university of science and technology	university of southampton	2	['2018', '2018']	trans-continental
+university of hamburg	united nations	2	['2011', '2017']	trans-continental
+university of hamburg	karlsruhe institute of technology	2	['2017', '2017']	domestic
+rice university	baylor college of medicine	3	['2013', '2014', '2015']	domestic
+rice university	boston children s hospital	2	['2013', '2014']	domestic
+ecole normale superieure	university of paris	2	['2016', '2018']	domestic
+delft university of technology	utrecht university	2	['2012', '2018']	domestic
+delft university of technology	world bank	2	['2017', '2018']	trans-continental
+delft university of technology	polytechnic university of catalonia	2	['2010', '2012']	international
+delft university of technology	royal institute of technology	2	['2014', '2017']	international
+delft university of technology	university of twente	4	['2015', '2015', '2017', '2018']	domestic
+seoul national university	konkuk university	2	['2010', '2015']	domestic
+seoul national university	gyeongsang national university	2	['2014', '2018']	domestic
+seoul national university	hanoi medical university	8	['2016', '2016', '2016', '2016', '2016', '2016', '2016', '2016']	international
+seoul national university	hanoi school of public health	6	['2016', '2016', '2016', '2016', '2016', '2016']	international
+seoul national university	seoul national university hospital	3	['2016', '2016', '2018']	trans-continental
+center for international forestry research	united nations development programme	2	['2011', '2012']	domestic
+center for international forestry research	university of british columbia	4	['2015', '2018', '2018', '2018']	international
+center for international forestry research	wageningen university and research centre	5	['2011', '2016', '2017', '2018', '2018']	trans-continental
+center for international forestry research	international center for tropical agriculture	2	['2017', '2017']	domestic
+center for international forestry research	university of queensland	2	['2012', '2013']	domestic
+center for international forestry research	james cook university	2	['2018', '2018']	trans-continental
+center for international forestry research	world agroforestry centre	4	['2015', '2017', '2018', '2018']	trans-continental
+center for international forestry research	university of copenhagen	2	['2015', '2015']	trans-continental
+center for international forestry research	lancaster university	2	['2016', '2018']	trans-continental
+brigham and women s hospital	university of california berkeley	2	['2017', '2017']	domestic
+brigham and women s hospital	stanford university	2	['2017', '2017']	domestic
+brigham and women s hospital	imperial college london	2	['2013', '2017']	trans-continental
+brigham and women s hospital	johns hopkins university	2	['2011', '2013']	domestic
+brigham and women s hospital	university of london	3	['2013', '2016', '2016']	trans-continental
+brigham and women s hospital	university of washington	2	['2016', '2017']	domestic
+brigham and women s hospital	partners in health	4	['2011', '2015', '2016', '2017']	domestic
+brigham and women s hospital	university of california san francisco	2	['2011', '2016']	domestic
+brigham and women s hospital	university of pennsylvania	2	['2017', '2017']	domestic
+brigham and women s hospital	university of the witwatersrand	3	['2013', '2017', '2017']	trans-continental
+brigham and women s hospital	beth israel deaconess medical center	2	['2015', '2016']	domestic
+brigham and women s hospital	world bank group	2	['2016', '2017']	domestic
+brigham and women s hospital	northwestern university	2	['2016', '2017']	domestic
+maastricht graduate school of governance	erasmus university rotterdam	2	['2009', '2009']	domestic
+university of indonesia	flinders university	2	['2017', '2018']	trans-continental
+united nations population fund	world health organization	11	['2010', '2010', '2011', '2012', '2013', '2013', '2014', '2014', '2015', '2015', '2018']	domestic
+united nations population fund	johns hopkins university	3	['2010', '2012', '2018']	domestic
+united nations population fund	university of london	2	['2012', '2017']	trans-continental
+united nations population fund	unicef	4	['2010', '2012', '2014', '2015']	domestic
+united nations population fund	united nations	2	['2015', '2015']	domestic
+united nations population fund	joint united nations programme on hiv aids	2	['2010', '2015']	domestic
+united nations population fund	university of technology sydney	2	['2014', '2017']	trans-continental
+massachusetts eye and ear infirmary	cornell university	2	['2016', '2017']	domestic
+massachusetts eye and ear infirmary	university of colorado boulder	2	['2016', '2017']	domestic
+massachusetts eye and ear infirmary	boston children s hospital	2	['2016', '2017']	domestic
+peking university	university of cape town	2	['2017', '2018']	trans-continental
+peking university	world health organization	2	['2015', '2017']	trans-continental
+peking university	johns hopkins university	4	['2010', '2011', '2013', '2017']	trans-continental
+peking university	university of london	7	['2009', '2010', '2015', '2015', '2017', '2017', '2018']	trans-continental
+peking university	unicef	4	['2011', '2015', '2015', '2017']	trans-continental
+peking university	university of melbourne	4	['2010', '2011', '2017', '2018']	trans-continental
+peking university	university of washington	2	['2016', '2018']	trans-continental
+peking university	university of edinburgh	5	['2010', '2011', '2013', '2015', '2017']	trans-continental
+peking university	karolinska institutet	3	['2011', '2013', '2014']	trans-continental
+peking university	fudan university	2	['2013', '2014']	domestic
+peking university	university of regina	2	['2009', '2017']	trans-continental
+peking university	university of split	2	['2010', '2011']	trans-continental
+peking university	uppsala university	2	['2011', '2014']	trans-continental
+peking university	sichuan university	7	['2011', '2015', '2015', '2016', '2017', '2017', '2018']	domestic
+peking university	university of hong kong	2	['2014', '2018']	international
+peking university	china university of geosciences	2	['2015', '2018']	domestic
+peking university	chinese center for disease control and prevention	2	['2016', '2018']	domestic
+vanderbilt university	world health organization	3	['2010', '2016', '2016']	domestic
+vanderbilt university	university of london	2	['2010', '2016']	trans-continental
+vanderbilt university	university of washington	2	['2016', '2016']	domestic
+vanderbilt university	university of toronto	2	['2010', '2016']	international
+vanderbilt university	university of michigan	2	['2016', '2016']	domestic
+vanderbilt university	university of utah	2	['2009', '2016']	domestic
+vanderbilt university	university of colorado boulder	2	['2016', '2016']	domestic
+university of bern	world health organization	2	['2014', '2018']	trans-continental
+university of bern	university of rostock	2	['2014', '2018']	international
+great zimbabwe university	university of south africa	4	['2013', '2013', '2014', '2014']	international
+university of kassel	helmholtz centre for environmental research ufz	2	['2013', '2017']	domestic
+swedish university of agricultural sciences	commonwealth scientific and industrial research organisation	3	['2011', '2011', '2018']	trans-continental
+swedish university of agricultural sciences	stockholm university	3	['2011', '2014', '2017']	domestic
+swedish university of agricultural sciences	royal swedish academy of sciences	2	['2011', '2014']	domestic
+swedish university of agricultural sciences	wageningen university and research centre	3	['2013', '2014', '2018']	international
+liverpool school of tropical medicine	imperial college london	2	['2018', '2018']	domestic
+liverpool school of tropical medicine	world health organization	7	['2009', '2011', '2013', '2016', '2017', '2017', '2018']	trans-continental
+liverpool school of tropical medicine	world bank	2	['2018', '2018']	trans-continental
+liverpool school of tropical medicine	makerere university	3	['2013', '2016', '2018']	trans-continental
+liverpool school of tropical medicine	johns hopkins university	3	['2018', '2018', '2018']	trans-continental
+liverpool school of tropical medicine	university of london	2	['2015', '2016']	domestic
+liverpool school of tropical medicine	university of liverpool	2	['2009', '2016']	domestic
+liverpool school of tropical medicine	medical research council	2	['2012', '2017']	trans-continental
+liverpool school of tropical medicine	university of california san francisco	2	['2013', '2018']	trans-continental
+liverpool school of tropical medicine	university of warwick	2	['2015', '2015']	domestic
+liverpool school of tropical medicine	wellcome trust	3	['2015', '2016', '2018']	trans-continental
+liverpool school of tropical medicine	royal tropical institute	2	['2016', '2017']	international
+liverpool school of tropical medicine	karolinska institutet	2	['2017', '2018']	international
+great lakes university	university of nairobi	2	['2013', '2013']	trans-continental
+great lakes university	national yang ming university	2	['2016', '2016']	trans-continental
+university of denver	australian national university	2	['2016', '2017']	trans-continental
+university of cambridge	university of east anglia	2	['2018', '2018']	domestic
+university of cambridge	united nations development programme	2	['2013', '2016']	trans-continental
+university of cambridge	university of southampton	2	['2018', '2018']	domestic
+university of cambridge	university of manchester	3	['2016', '2017', '2018']	domestic
+university of cambridge	university of oxford	3	['2015', '2017', '2018']	domestic
+university of cambridge	university of london	2	['2011', '2013']	domestic
+university of cambridge	columbia university	2	['2009', '2015']	trans-continental
+university of cambridge	united nations	2	['2016', '2016']	trans-continental
+university of cambridge	university of washington	3	['2013', '2015', '2017']	trans-continental
+university of cambridge	carter center	2	['2010', '2014']	trans-continental
+university of cambridge	university of reading	2	['2014', '2018']	domestic
+university of cambridge	public health foundation of india	2	['2015', '2016']	trans-continental
+university of cambridge	university of hong kong	2	['2017', '2018']	trans-continental
+university of cambridge	bangor university	2	['2018', '2018']	domestic
+cayetano heredia university	imperial college london	2	['2012', '2015']	trans-continental
+cayetano heredia university	world health organization	2	['2011', '2018']	trans-continental
+cayetano heredia university	johns hopkins university	3	['2015', '2016', '2016']	trans-continental
+cayetano heredia university	university of london	2	['2016', '2016']	trans-continental
+boston university	world health organization	2	['2011', '2017']	domestic
+boston university	brown university	2	['2011', '2017']	domestic
+university of california santa barbara	australian national university	2	['2010', '2011']	trans-continental
+university of california santa barbara	duke university	2	['2013', '2018']	domestic
+university of california santa barbara	commonwealth scientific and industrial research organisation	2	['2016', '2018']	trans-continental
+university of california santa barbara	university of oxford	2	['2018', '2018']	trans-continental
+unesco	university of canberra	2	['2016', '2017']	trans-continental
+university of newcastle	university of valencia	2	['2018', '2018']	trans-continental
+tulane university	world health organization	2	['2012', '2012']	domestic
+tulane university	johns hopkins university	4	['2010', '2011', '2012', '2018']	domestic
+national research council	chinese academy of sciences	2	['2018', '2018']	trans-continental
+national research council	university of calabria	2	['2011', '2012']	trans-continental
+national research council	hanyang university	2	['2011', '2012']	trans-continental
+national research council	college of the north atlantic	2	['2014', '2014']	domestic
+national research council	university of turin	4	['2014', '2016', '2017', '2017']	trans-continental
+united nations university	university of bonn	2	['2016', '2018']	trans-continental
+united nations university	massachusetts institute of technology	2	['2016', '2016']	trans-continental
+united nations university	united nations	2	['2016', '2017']	trans-continental
+united nations university	university of waterloo	2	['2012', '2016']	trans-continental
+united nations university	university of minho	2	['2018', '2018']	trans-continental
+james cook university	stanford university	2	['2016', '2016']	trans-continental
+james cook university	commonwealth scientific and industrial research organisation	4	['2012', '2015', '2017', '2018']	domestic
+james cook university	university of british columbia	5	['2016', '2016', '2017', '2018', '2018']	trans-continental
+james cook university	duke university	2	['2016', '2016']	trans-continental
+james cook university	university of queensland	2	['2016', '2017']	trans-continental
+james cook university	university of washington	2	['2016', '2016']	trans-continental
+james cook university	university of eastern finland	2	['2010', '2017']	trans-continental
+james cook university	la trobe university	2	['2011', '2017']	domestic
+james cook university	national oceanic and atmospheric administration	3	['2016', '2016', '2017']	trans-continental
+james cook university	university of alaska fairbanks	2	['2016', '2016']	trans-continental
+james cook university	rutgers university	2	['2016', '2016']	trans-continental
+james cook university	conservation international	3	['2016', '2016', '2017']	trans-continental
+james cook university	lancaster university	2	['2016', '2018']	trans-continental
+james cook university	university of rhode island	2	['2016', '2016']	trans-continental
+james cook university	san diego state university	2	['2016', '2016']	trans-continental
+james cook university	northumbria university	2	['2016', '2016']	trans-continental
+james cook university	southern cross university	2	['2016', '2017']	domestic
+world heart federation	public health foundation of india	2	['2016', '2016']	trans-continental
+bayer	wageningen university and research centre	2	['2013', '2018']	trans-continental
+state university of new york at fredonia	university of waterloo	2	['2018', '2018']	international
+state university of new york at fredonia	university of lethbridge	2	['2018', '2018']	international
+council of scientific and industrial research	university of the witwatersrand	2	['2013', '2014']	trans-continental
+university of nottingham malaysia campus	rmit university	2	['2015', '2018']	trans-continental
+university of nottingham malaysia campus	de la salle university	2	['2014', '2017']	international
+international institute for applied systems analysis	national autonomous university of mexico	2	['2014', '2016']	trans-continental
+international institute for applied systems analysis	utrecht university	6	['2016', '2016', '2017', '2018', '2018', '2018']	international
+international institute for applied systems analysis	imperial college london	2	['2014', '2018']	international
+international institute for applied systems analysis	university of london	2	['2017', '2017']	international
+international institute for applied systems analysis	united nations	4	['2013', '2014', '2016', '2017']	trans-continental
+international institute for applied systems analysis	potsdam institute for climate impact research	6	['2014', '2016', '2016', '2017', '2018', '2018']	international
+international institute for applied systems analysis	columbia university	4	['2014', '2016', '2017', '2018']	trans-continental
+international institute for applied systems analysis	london school of economics and political science	2	['2014', '2015']	international
+international institute for applied systems analysis	teri university	2	['2014', '2017']	trans-continental
+international institute for applied systems analysis	university college london	2	['2015', '2018']	international
+international institute for applied systems analysis	wageningen university and research centre	2	['2015', '2016']	international
+international institute for applied systems analysis	commonwealth scientific and industrial research organisation	3	['2015', '2016', '2018']	trans-continental
+international institute for applied systems analysis	cgiar	2	['2015', '2017']	trans-continental
+international institute for applied systems analysis	world bank	3	['2015', '2017', '2018']	trans-continental
+international institute for applied systems analysis	university of maryland college park	3	['2016', '2017', '2018']	trans-continental
+international institute for applied systems analysis	technical university of berlin	2	['2016', '2016']	international
+international institute for applied systems analysis	graz university of technology	3	['2016', '2016', '2018']	domestic
+international institute for applied systems analysis	royal institute of technology	3	['2016', '2017', '2018']	international
+international institute for applied systems analysis	netherlands environmental assessment agency	4	['2016', '2016', '2018', '2018']	international
+international institute for applied systems analysis	chinese academy of sciences	2	['2016', '2017']	trans-continental
+international institute for applied systems analysis	national institute for environmental studies	3	['2016', '2017', '2018']	trans-continental
+international institute for applied systems analysis	duke university	2	['2017', '2017']	trans-continental
+international institute for applied systems analysis	stockholm environment institute	3	['2017', '2017', '2018']	trans-continental
+international institute for applied systems analysis	university of tennessee	2	['2018', '2018']	trans-continental
+international institute for applied systems analysis	university of victoria	2	['2018', '2018']	trans-continental
+international institute for applied systems analysis	national university of singapore	2	['2018', '2018']	trans-continental
+international institute for applied systems analysis	colorado school of mines	2	['2018', '2018']	trans-continental
+plymouth state university	university of california berkeley	2	['2014', '2015']	domestic
+burnet institute	university of melbourne	2	['2013', '2014']	trans-continental
+burnet institute	university of queensland	2	['2012', '2013']	domestic
+tshwane university of technology	university of east anglia	3	['2011', '2018', '2018']	trans-continental
+tshwane university of technology	university of london	2	['2018', '2018']	trans-continental
+tshwane university of technology	university of venda	2	['2012', '2013']	trans-continental
+tshwane university of technology	university of north carolina at chapel hill	2	['2018', '2018']	domestic
+national center for atmospheric research	utrecht university	3	['2012', '2014', '2017']	trans-continental
+national center for atmospheric research	university of oxford	2	['2012', '2014']	trans-continental
+national center for atmospheric research	potsdam institute for climate impact research	3	['2014', '2014', '2017']	trans-continental
+national center for atmospheric research	netherlands environmental assessment agency	2	['2014', '2017']	trans-continental
+karlsruhe institute of technology	university of gottingen	2	['2016', '2017']	domestic
+hanoi medical university	queensland university of technology	2	['2018', '2018']	trans-continental
+hanoi medical university	australian national university	2	['2018', '2018']	trans-continental
+hanoi medical university	university of queensland	2	['2018', '2018']	trans-continental
+hanoi medical university	hanoi university	2	['2018', '2018']	domestic
+hanoi medical university	hanoi school of public health	5	['2016', '2016', '2016', '2016', '2016']	domestic
+hanoi medical university	seoul national university hospital	2	['2016', '2016']	trans-continental
+world vision international	ifakara health institute	2	['2013', '2017']	trans-continental
+university of ontario institute of technology	university of victoria	2	['2016', '2018']	domestic
+agricultural research service	wageningen university and research centre	3	['2011', '2014', '2016']	trans-continental
+agricultural research service	united states department of agriculture	3	['2011', '2014', '2017']	domestic
+university of oxford	university of cape town	6	['2014', '2016', '2017', '2017', '2018', '2018']	trans-continental
+university of oxford	stanford university	2	['2014', '2014']	trans-continental
+university of oxford	imperial college london	6	['2010', '2014', '2016', '2017', '2018', '2018']	domestic
+university of oxford	university of east anglia	3	['2017', '2017', '2017']	domestic
+university of oxford	world health organization	3	['2016', '2017', '2018']	trans-continental
+university of oxford	michigan state university	2	['2017', '2018']	trans-continental
+university of oxford	commonwealth scientific and industrial research organisation	2	['2017', '2018']	trans-continental
+university of oxford	princeton university	2	['2012', '2017']	trans-continental
+university of oxford	university of southampton	3	['2013', '2017', '2018']	domestic
+university of oxford	wellcome trust	5	['2011', '2013', '2015', '2017', '2018']	trans-continental
+university of oxford	kenya medical research institute	4	['2010', '2012', '2016', '2017']	trans-continental
+university of oxford	international food policy research institute	2	['2017', '2018']	trans-continental
+university of oxford	university of london	9	['2009', '2010', '2013', '2014', '2014', '2016', '2017', '2017', '2018']	domestic
+university of oxford	university of reading	4	['2009', '2012', '2017', '2018']	domestic
+university of oxford	institute of tropical medicine antwerp	2	['2010', '2011']	international
+university of oxford	save the children	2	['2012', '2015']	trans-continental
+university of oxford	university college london	3	['2012', '2016', '2018']	domestic
+university of oxford	university of washington	2	['2012', '2017']	trans-continental
+university of oxford	george mason university	2	['2012', '2018']	trans-continental
+university of oxford	monash university	2	['2013', '2016']	trans-continental
+university of oxford	potsdam institute for climate impact research	2	['2014', '2018']	international
+university of oxford	pacific institute	2	['2014', '2018']	trans-continental
+university of oxford	columbia university	2	['2014', '2017']	trans-continental
+university of oxford	london school of economics and political science	2	['2014', '2018']	domestic
+university of oxford	world resources institute	2	['2014', '2018']	trans-continental
+university of oxford	kwame nkrumah university of science and technology	2	['2014', '2018']	trans-continental
+university of oxford	stockholm university	2	['2015', '2018']	international
+university of oxford	king s college london	3	['2015', '2017', '2018']	domestic
+university of oxford	world bank group	2	['2015', '2017']	trans-continental
+university of oxford	university of the witwatersrand	2	['2016', '2018']	trans-continental
+university of oxford	university of melbourne	2	['2017', '2017']	trans-continental
+university of oxford	university of the free state	2	['2018', '2018']	trans-continental
+university of oxford	wageningen university and research centre	3	['2018', '2018', '2018']	international
+university of paris	universite catholique de louvain	2	['2011', '2018']	international
+university of paris	centre national de la recherche scientifique	2	['2018', '2018']	domestic
+supagro	institut national de la recherche agronomique	2	['2013', '2018']	trans-continental
+carnegie mellon university	university of california berkeley	2	['2009', '2012']	domestic
+university of saskatchewan	university of british columbia	2	['2017', '2017']	domestic
+st luke s university health network	temple university	2	['2017', '2017']	domestic
+st luke s university health network	johns hopkins university	2	['2017', '2017']	domestic
+st luke s university health network	rutgers university	2	['2017', '2017']	domestic
+st luke s university health network	university of south florida	2	['2017', '2017']	domestic
+st luke s university health network	east carolina university	2	['2017', '2017']	domestic
+st luke s university health network	university of toledo	2	['2017', '2017']	domestic
+st luke s university health network	suny downstate medical center	2	['2017', '2017']	domestic
+st luke s university health network	mercy medical center	2	['2017', '2017']	domestic
+st luke s university health network	summa health system	2	['2017', '2017']	domestic
+stockholm university	stanford university	3	['2011', '2017', '2018']	trans-continental
+stockholm university	university of illinois at urbana champaign	2	['2017', '2018']	trans-continental
+stockholm university	utrecht university	2	['2016', '2018']	international
+stockholm university	commonwealth scientific and industrial research organisation	4	['2011', '2014', '2017', '2018']	trans-continental
+stockholm university	australian national university	5	['2011', '2014', '2016', '2017', '2018']	trans-continental
+stockholm university	karolinska institutet	2	['2012', '2013']	domestic
+stockholm university	university of melbourne	2	['2011', '2018']	trans-continental
+stockholm university	royal institute of technology	3	['2011', '2017', '2018']	domestic
+stockholm university	stockholm environment institute	2	['2011', '2018']	trans-continental
+stockholm university	royal swedish academy of sciences	3	['2011', '2014', '2017']	domestic
+stockholm university	university of minnesota	3	['2011', '2018', '2018']	trans-continental
+stockholm university	university of gothenburg	4	['2012', '2014', '2014', '2018']	domestic
+stockholm university	university of lisbon	2	['2013', '2018']	international
+stockholm university	columbia university	3	['2013', '2014', '2018']	trans-continental
+stockholm university	monash university	2	['2014', '2018']	trans-continental
+stockholm university	united nations	2	['2014', '2016']	trans-continental
+stockholm university	keio university	2	['2016', '2017']	trans-continental
+stockholm university	bioversity international	3	['2017', '2018', '2018']	international
+stockholm university	international water management institute	2	['2017', '2018']	trans-continental
+stockholm university	wageningen university and research centre	2	['2018', '2018']	international
+stockholm university	european commission	2	['2018', '2018']	trans-continental
+stockholm university	university of twente	2	['2018', '2018']	international
+stockholm university	international food policy research institute	2	['2018', '2018']	trans-continental
+hanyang university	university of calabria	2	['2011', '2012']	trans-continental
+pacific institute	potsdam institute for climate impact research	2	['2014', '2018']	trans-continental
+green templeton college	university of malaya	2	['2018', '2018']	trans-continental
+blekinge institute of technology	lund university	2	['2016', '2018']	domestic
+pace university	australian national university	2	['2016', '2016']	trans-continental
+pace university	touro college	2	['2010', '2011']	domestic
+national institute for environmental studies	utrecht university	3	['2016', '2017', '2018']	trans-continental
+national institute for environmental studies	united nations	2	['2014', '2016']	trans-continental
+national institute for environmental studies	potsdam institute for climate impact research	3	['2016', '2017', '2018']	trans-continental
+national institute for environmental studies	netherlands environmental assessment agency	2	['2016', '2018']	trans-continental
+world agroforestry centre	wageningen university and research centre	3	['2018', '2018', '2018']	trans-continental
+world agroforestry centre	cgiar	2	['2017', '2018']	trans-continental
+world agroforestry centre	international livestock research institute	3	['2017', '2017', '2018']	international
+university of wisconsin madison	university of maryland college park	3	['2015', '2015', '2018']	domestic
+university of wisconsin madison	united states geological survey	2	['2015', '2017']	domestic
+university of wisconsin madison	university of washington	2	['2017', '2017']	domestic
+university of wisconsin madison	ohio state university	2	['2017', '2017']	domestic
+university of wisconsin madison	the nature conservancy	2	['2009', '2018']	domestic
+university of wisconsin madison	university of alaska fairbanks	2	['2011', '2015']	domestic
+joint global change research institute	utrecht university	2	['2014', '2016']	trans-continental
+joint global change research institute	university of maryland college park	4	['2012', '2018', '2018', '2018']	domestic
+joint global change research institute	potsdam institute for climate impact research	2	['2014', '2016']	trans-continental
+joint global change research institute	netherlands environmental assessment agency	2	['2014', '2016']	trans-continental
+sheffield hallam university	world health organization	3	['2013', '2014', '2014']	trans-continental
+center for global development	imperial college london	2	['2018', '2018']	trans-continental
+center for global development	world health organization	2	['2018', '2018']	domestic
+center for global development	king s college london	2	['2011', '2012']	trans-continental
+center for global development	university of auckland	2	['2018', '2018']	trans-continental
+university of osnabruck	city college of new york	2	['2012', '2016']	trans-continental
+national ecological observatory network	centre national de la recherche scientifique	2	['2017', '2018']	trans-continental
+national ecological observatory network	university of colorado boulder	2	['2017', '2018']	domestic
+la trobe university	university of cape town	2	['2013', '2017']	trans-continental
+la trobe university	world health organization	2	['2014', '2015']	trans-continental
+la trobe university	commonwealth scientific and industrial research organisation	2	['2017', '2018']	domestic
+la trobe university	university of queensland	2	['2012', '2017']	trans-continental
+la trobe university	university of new south wales	2	['2017', '2017']	domestic
+la trobe university	university of sydney	2	['2017', '2017']	domestic
+la trobe university	monash university	3	['2012', '2014', '2017']	domestic
+fhi 360	durham university	3	['2015', '2017', '2018']	trans-continental
+universite libre de bruxelles	university of southampton	2	['2013', '2013']	international
+universite libre de bruxelles	institute of tropical medicine antwerp	2	['2012', '2016']	domestic
+utrecht university	university of washington	2	['2012', '2017']	trans-continental
+utrecht university	university of reading	2	['2012', '2017']	international
+utrecht university	nyenrode business university	3	['2013', '2014', '2015']	domestic
+utrecht university	university of amsterdam	5	['2013', '2016', '2017', '2017', '2018']	domestic
+utrecht university	potsdam institute for climate impact research	7	['2014', '2016', '2017', '2017', '2017', '2018', '2018']	international
+utrecht university	netherlands environmental assessment agency	10	['2014', '2015', '2016', '2016', '2017', '2017', '2017', '2018', '2018', '2018']	domestic
+utrecht university	world bank	2	['2014', '2018']	trans-continental
+utrecht university	wageningen university and research centre	7	['2015', '2015', '2016', '2017', '2017', '2018', '2018']	domestic
+utrecht university	keio university	2	['2016', '2017']	trans-continental
+utrecht university	commonwealth scientific and industrial research organisation	2	['2016', '2017']	trans-continental
+utrecht university	chinese academy of sciences	2	['2016', '2017']	trans-continental
+utrecht university	university college london	2	['2017', '2018']	international
+utrecht university	columbia university	2	['2017', '2018']	trans-continental
+utrecht university	bocconi university	2	['2017', '2018']	international
+utrecht university	national university of singapore	2	['2018', '2018']	trans-continental
+ottawa hospital research institute	university of ottawa	2	['2010', '2013']	domestic
+instituto superior tecnico	university of lisbon	3	['2009', '2014', '2016']	domestic
+instituto superior tecnico	universidade nova de lisboa	3	['2009', '2010', '2014']	domestic
+instituto superior tecnico	university of minho	3	['2011', '2011', '2018']	domestic
+bangor university	university of exeter	2	['2015', '2018']	domestic
+free university of brussels	ghent university	3	['2009', '2014', '2018']	domestic
+free university of brussels	university of liege	2	['2014', '2018']	domestic
+free university of brussels	katholieke universiteit leuven	2	['2014', '2018']	domestic
+free university of brussels	universite catholique de louvain	2	['2014', '2018']	domestic
+economic policy institute	world bank	3	['2009', '2014', '2018']	domestic
+economic policy institute	johns hopkins university	2	['2014', '2018']	domestic
+joint united nations programme on hiv aids	world health organization	6	['2010', '2011', '2014', '2015', '2015', '2015']	domestic
+joint united nations programme on hiv aids	world bank	2	['2010', '2015']	domestic
+joint united nations programme on hiv aids	unicef	2	['2010', '2015']	domestic
+joint united nations programme on hiv aids	university college london	2	['2015', '2016']	trans-continental
+joint united nations programme on hiv aids	karolinska institutet	2	['2017', '2017']	trans-continental
+joint united nations programme on hiv aids	georgetown university	2	['2013', '2018']	domestic
+joint united nations programme on hiv aids	international hiv aids alliance	2	['2016', '2018']	domestic
+university of colorado boulder	university of california berkeley	2	['2009', '2017']	domestic
+university of colorado boulder	stanford university	2	['2013', '2016']	domestic
+university of colorado boulder	cornell university	3	['2016', '2017', '2017']	domestic
+university of colorado boulder	university of british columbia	2	['2015', '2016']	international
+university of colorado boulder	columbia university	2	['2016', '2016']	domestic
+university of colorado boulder	duke university	2	['2016', '2016']	domestic
+university of colorado boulder	lund university	2	['2016', '2017']	trans-continental
+university of colorado boulder	colorado state university	3	['2010', '2017', '2018']	domestic
+university of colorado boulder	university of michigan	2	['2016', '2017']	domestic
+university of colorado boulder	centre national de la recherche scientifique	2	['2017', '2018']	trans-continental
+university of colorado boulder	university of arizona	2	['2013', '2018']	domestic
+university of colorado boulder	university of utah	2	['2013', '2016']	domestic
+university of colorado boulder	portland state university	2	['2010', '2018']	domestic
+university of colorado boulder	boston children s hospital	2	['2016', '2017']	domestic
+university of colorado boulder	national museum of natural history	2	['2016', '2018']	domestic
+university of colorado boulder	national oceanic and atmospheric administration	2	['2017', '2018']	domestic
+rio de janeiro state university	university of sao paulo	2	['2015', '2017']	domestic
+rio de janeiro state university	oswaldo cruz foundation	2	['2016', '2017']	domestic
+bahir dar university	addis ababa university	2	['2014', '2018']	domestic
+imperial college london	university of california berkeley	2	['2012', '2014']	trans-continental
+imperial college london	federal university of rio de janeiro	2	['2010', '2014']	trans-continental
+imperial college london	university of exeter	2	['2015', '2017']	domestic
+imperial college london	international food policy research institute	2	['2017', '2018']	trans-continental
+imperial college london	university of the witwatersrand	3	['2010', '2013', '2018']	trans-continental
+imperial college london	university college london	7	['2010', '2012', '2012', '2012', '2017', '2017', '2017']	domestic
+imperial college london	boston children s hospital	2	['2010', '2012']	trans-continental
+imperial college london	university of london	9	['2010', '2011', '2011', '2013', '2015', '2015', '2016', '2017', '2017']	domestic
+imperial college london	columbia university	2	['2010', '2014']	trans-continental
+imperial college london	kenya medical research institute	2	['2010', '2015']	trans-continental
+imperial college london	university of queensland	2	['2011', '2015']	trans-continental
+imperial college london	council for scientific and industrial research	2	['2012', '2012']	trans-continental
+imperial college london	new york blood center	2	['2012', '2012']	trans-continental
+imperial college london	mcgill university	2	['2012', '2012']	trans-continental
+imperial college london	university of ghana	2	['2012', '2012']	trans-continental
+imperial college london	public health foundation of india	2	['2012', '2017']	trans-continental
+imperial college london	world health organization	8	['2012', '2014', '2016', '2017', '2017', '2018', '2018', '2018']	trans-continental
+imperial college london	erasmus university rotterdam	2	['2012', '2017']	international
+imperial college london	johns hopkins university	5	['2013', '2015', '2017', '2017', '2018']	trans-continental
+imperial college london	lund university	2	['2014', '2018']	international
+imperial college london	world resources institute	2	['2014', '2018']	trans-continental
+imperial college london	university of arizona	2	['2014', '2018']	trans-continental
+imperial college london	university of warwick	2	['2015', '2018']	domestic
+imperial college london	university of california san francisco	3	['2015', '2018', '2018']	trans-continental
+imperial college london	griffith university	2	['2016', '2018']	trans-continental
+imperial college london	university of washington	3	['2016', '2017', '2017']	trans-continental
+imperial college london	university of barcelona	2	['2016', '2017']	international
+imperial college london	university of sao paulo	4	['2017', '2017', '2018', '2018']	trans-continental
+imperial college london	university of twente	2	['2017', '2018']	international
+imperial college london	royal veterinary college	2	['2017', '2018']	domestic
+imperial college london	tsinghua university	2	['2017', '2017']	trans-continental
+imperial college london	university of montpellier	2	['2017', '2018']	international
+imperial college london	oswaldo cruz foundation	2	['2017', '2018']	trans-continental
+imperial college london	federal university of bahia	2	['2017', '2018']	trans-continental
+imperial college london	bill melinda gates foundation	2	['2017', '2017']	trans-continental
+imperial college london	king s college london	2	['2017', '2018']	domestic
+imperial college london	university of auckland	2	['2018', '2018']	trans-continental
+university of british columbia	university of cape town	3	['2014', '2017', '2018']	trans-continental
+university of british columbia	stanford university	2	['2016', '2016']	international
+university of british columbia	university of east anglia	2	['2010', '2017']	trans-continental
+university of british columbia	world health organization	4	['2012', '2013', '2018', '2018']	international
+university of british columbia	commonwealth scientific and industrial research organisation	2	['2015', '2017']	trans-continental
+university of british columbia	university of lethbridge	2	['2012', '2014']	domestic
+university of british columbia	university of pittsburgh	3	['2012', '2012', '2018']	international
+university of british columbia	bill melinda gates foundation	2	['2012', '2012']	international
+university of british columbia	duke university	6	['2012', '2013', '2016', '2016', '2016', '2017']	international
+university of british columbia	university of toronto	4	['2012', '2016', '2018', '2018']	domestic
+university of british columbia	conservation international	4	['2013', '2016', '2016', '2017']	international
+university of british columbia	boston children s hospital	2	['2014', '2016']	international
+university of british columbia	karolinska institutet	2	['2014', '2017']	trans-continental
+university of british columbia	hobart corporation	3	['2015', '2017', '2017']	international
+university of british columbia	university of new south wales	2	['2015', '2017']	trans-continental
+university of british columbia	university of copenhagen	2	['2015', '2017']	trans-continental
+university of british columbia	university of western ontario	2	['2016', '2017']	domestic
+university of british columbia	university of washington	5	['2016', '2016', '2016', '2017', '2017']	international
+university of british columbia	national oceanic and atmospheric administration	4	['2016', '2016', '2017', '2017']	international
+university of british columbia	university of alaska fairbanks	2	['2016', '2016']	international
+university of british columbia	rutgers university	2	['2016', '2016']	international
+university of british columbia	lancaster university	3	['2016', '2018', '2018']	trans-continental
+university of british columbia	university of rhode island	2	['2016', '2016']	international
+university of british columbia	san diego state university	2	['2016', '2016']	international
+university of british columbia	northumbria university	2	['2016', '2016']	trans-continental
+university of british columbia	university of london	3	['2016', '2017', '2018']	trans-continental
+university of british columbia	northwestern university	2	['2016', '2018']	international
+university of british columbia	children s memorial hospital	2	['2016', '2018']	international
+university of british columbia	karolinska university hospital	2	['2017', '2017']	trans-continental
+university of british columbia	university of tasmania	2	['2017', '2017']	trans-continental
+university of british columbia	monash university	2	['2017', '2017']	trans-continental
+university of british columbia	university of wollongong	3	['2017', '2017', '2017']	trans-continental
+university of british columbia	united nations environment programme	2	['2017', '2017']	international
+university of british columbia	dalhousie university	2	['2017', '2018']	domestic
+murdoch university	university of east anglia	2	['2009', '2011']	trans-continental
+murdoch university	north west university	3	['2013', '2014', '2018']	trans-continental
+michigan state university	stanford university	2	['2017', '2018']	domestic
+michigan state university	university of illinois at urbana champaign	2	['2009', '2017']	domestic
+michigan state university	university of minnesota	3	['2010', '2017', '2018']	domestic
+michigan state university	columbia university	2	['2016', '2017']	domestic
+michigan state university	international food policy research institute	3	['2016', '2017', '2018']	domestic
+michigan state university	zhejiang university	2	['2017', '2018']	trans-continental
+michigan state university	university of michigan	2	['2017', '2018']	domestic
+michigan state university	china west normal university	2	['2017', '2018']	trans-continental
+university of south australia	university of adelaide	4	['2017', '2018', '2018', '2018']	domestic
+university of south australia	shandong university	2	['2013', '2013']	trans-continental
+university of south australia	university of lethbridge	2	['2014', '2016']	trans-continental
+unicef	university of california berkeley	2	['2015', '2017']	domestic
+unicef	world health organization	21	['2010', '2011', '2012', '2012', '2014', '2014', '2014', '2015', '2015', '2015', '2015', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2018', '2018', '2018']	domestic
+unicef	united nations development programme	2	['2009', '2015']	domestic
+unicef	university of southampton	4	['2014', '2016', '2017', '2017']	trans-continental
+unicef	tufts university	2	['2010', '2015']	domestic
+unicef	bill melinda gates foundation	3	['2010', '2014', '2015']	domestic
+unicef	world bank	7	['2010', '2010', '2011', '2013', '2016', '2017', '2017']	domestic
+unicef	makerere university	2	['2010', '2016']	trans-continental
+unicef	johns hopkins university	19	['2010', '2010', '2012', '2013', '2013', '2013', '2015', '2015', '2015', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2018', '2018', '2018']	domestic
+unicef	university of london	12	['2010', '2011', '2013', '2014', '2015', '2015', '2015', '2016', '2016', '2016', '2017', '2018']	trans-continental
+unicef	columbia university	3	['2015', '2015', '2017']	domestic
+unicef	save the children	9	['2010', '2010', '2011', '2014', '2015', '2016', '2016', '2017', '2018']	domestic
+unicef	university of the western cape	2	['2015', '2016']	trans-continental
+unicef	university of north carolina at chapel hill	3	['2010', '2015', '2017']	domestic
+unicef	national institutes of health	2	['2012', '2017']	domestic
+unicef	public health foundation of india	3	['2011', '2011', '2015']	trans-continental
+unicef	sichuan university	2	['2011', '2017']	trans-continental
+unicef	university college london	5	['2011', '2015', '2016', '2016', '2018']	trans-continental
+unicef	duke university	2	['2011', '2017']	domestic
+unicef	national university of singapore	2	['2012', '2018']	trans-continental
+unicef	ministry of health and family welfare	2	['2012', '2014']	trans-continental
+unicef	university of auckland	2	['2014', '2014']	trans-continental
+unicef	john snow inc	2	['2014', '2017']	domestic
+unicef	united nations	4	['2014', '2015', '2015', '2015']	domestic
+unicef	university of the witwatersrand	2	['2015', '2018']	trans-continental
+unicef	university of massachusetts amherst	3	['2015', '2017', '2018']	domestic
+unicef	international food policy research institute	2	['2015', '2015']	domestic
+unicef	university of edinburgh	3	['2015', '2016', '2017']	trans-continental
+unicef	south african medical research council	2	['2016', '2018']	domestic
+unicef	university of kwazulu natal	2	['2016', '2018']	trans-continental
+unicef	pan american health organization	2	['2016', '2018']	domestic
+unicef	university of melbourne	2	['2017', '2018']	trans-continental
+university of minnesota	stanford university	3	['2011', '2017', '2018']	domestic
+university of minnesota	australian national university	2	['2011', '2018']	trans-continental
+university of minnesota	johns hopkins university	2	['2010', '2012']	domestic
+university of minnesota	columbia university	2	['2016', '2018']	domestic
+university of minnesota	ohio state university	2	['2009', '2018']	domestic
+university of minnesota	university of california san francisco	2	['2010', '2017']	domestic
+university of minnesota	stockholm environment institute	2	['2011', '2018']	domestic
+university of minnesota	university of arizona	2	['2010', '2018']	domestic
+university of minnesota	georgia institute of technology	2	['2009', '2016']	domestic
+university of minnesota	washington state university	2	['2010', '2018']	domestic
+world health organization	university of california berkeley	5	['2009', '2010', '2014', '2016', '2017']	domestic
+world health organization	university of cape town	11	['2012', '2013', '2016', '2016', '2017', '2017', '2017', '2018', '2018', '2018', '2018']	trans-continental
+world health organization	stanford university	2	['2015', '2017']	domestic
+world health organization	university of surrey	2	['2010', '2017']	trans-continental
+world health organization	university of glasgow	2	['2011', '2017']	trans-continental
+world health organization	university of exeter	2	['2017', '2018']	trans-continental
+world health organization	university of otago	3	['2014', '2017', '2017']	trans-continental
+world health organization	bill melinda gates foundation	4	['2010', '2012', '2014', '2017']	domestic
+world health organization	world bank	11	['2010', '2010', '2012', '2014', '2014', '2015', '2015', '2017', '2017', '2018', '2018']	domestic
+world health organization	johns hopkins university	36	['2009', '2010', '2010', '2010', '2010', '2011', '2011', '2011', '2012', '2012', '2012', '2012', '2013', '2013', '2014', '2014', '2014', '2014', '2014', '2015', '2016', '2016', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2018', '2018', '2018', '2018', '2018', '2018', '2018']	domestic
+world health organization	university of london	33	['2009', '2009', '2010', '2010', '2011', '2011', '2012', '2012', '2013', '2013', '2014', '2014', '2014', '2015', '2015', '2015', '2016', '2016', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2017', '2017', '2017', '2018', '2018', '2018', '2018', '2018']	trans-continental
+world health organization	university of ottawa	2	['2016', '2018']	international
+world health organization	university of california san francisco	5	['2010', '2011', '2017', '2018', '2018']	domestic
+world health organization	university of toronto	5	['2010', '2017', '2018', '2018', '2018']	international
+world health organization	emory university	3	['2011', '2017', '2018']	domestic
+world health organization	university of geneva	2	['2018', '2018']	trans-continental
+world health organization	university of washington	5	['2012', '2016', '2017', '2017', '2018']	domestic
+world health organization	university of queensland	3	['2009', '2013', '2018']	domestic
+world health organization	university of the western cape	6	['2011', '2013', '2015', '2018', '2018', '2018']	trans-continental
+world health organization	university of north carolina at chapel hill	3	['2010', '2012', '2014']	domestic
+world health organization	national institutes of health	4	['2015', '2015', '2016', '2017']	domestic
+world health organization	king s college london	6	['2015', '2017', '2017', '2018', '2018', '2018']	trans-continental
+world health organization	columbia university	3	['2016', '2018', '2018']	domestic
+world health organization	ministry of health and social welfare	4	['2015', '2015', '2016', '2018']	trans-continental
+world health organization	save the children	7	['2011', '2012', '2012', '2012', '2014', '2015', '2016']	domestic
+world health organization	university of the witwatersrand	5	['2014', '2017', '2017', '2017', '2018']	trans-continental
+world health organization	international union against tuberculosis and lung disease	2	['2014', '2016']	trans-continental
+world health organization	university of pretoria	3	['2009', '2011', '2016']	trans-continental
+world health organization	university of bath	2	['2009', '2018']	trans-continental
+world health organization	university of liverpool	3	['2009', '2014', '2018']	trans-continental
+world health organization	australian national university	3	['2009', '2010', '2011']	trans-continental
+world health organization	medical research council	2	['2009', '2018']	international
+world health organization	university of york	2	['2010', '2017']	trans-continental
+world health organization	university of sao paulo	5	['2010', '2011', '2014', '2015', '2017']	trans-continental
+world health organization	university of michigan	2	['2010', '2017']	domestic
+world health organization	united states agency for international development	3	['2010', '2014', '2016']	domestic
+world health organization	united nations	8	['2011', '2011', '2013', '2014', '2015', '2015', '2015', '2018']	domestic
+world health organization	university college london	6	['2011', '2016', '2016', '2016', '2017', '2017']	trans-continental
+world health organization	university of victoria	2	['2011', '2018']	international
+world health organization	university of sydney	2	['2011', '2016']	trans-continental
+world health organization	duke university	2	['2011', '2017']	domestic
+world health organization	university of melbourne	6	['2011', '2015', '2016', '2017', '2018', '2018']	trans-continental
+world health organization	makerere university	2	['2012', '2016']	trans-continental
+world health organization	ministry of health and family welfare	4	['2012', '2012', '2014', '2014']	trans-continental
+world health organization	trinity college	2	['2012', '2016']	domestic
+world health organization	karolinska institutet	4	['2012', '2016', '2018', '2018']	trans-continental
+world health organization	stellenbosch university	2	['2012', '2016']	trans-continental
+world health organization	university of edinburgh	3	['2012', '2013', '2017']	trans-continental
+world health organization	pan american health organization	4	['2013', '2016', '2018', '2018']	domestic
+world health organization	south african medical research council	3	['2013', '2018', '2018']	domestic
+world health organization	the global fund to fight aids tuberculosis and malaria	2	['2014', '2018']	domestic
+world health organization	university of auckland	5	['2014', '2014', '2016', '2018', '2018']	trans-continental
+world health organization	national health service	2	['2014', '2015']	domestic
+world health organization	university of nairobi	2	['2014', '2018']	trans-continental
+world health organization	ifakara health institute	3	['2015', '2015', '2016']	trans-continental
+world health organization	wellcome trust	2	['2015', '2018']	domestic
+world health organization	university of the west of england	2	['2015', '2017']	trans-continental
+world health organization	rti international	3	['2016', '2018', '2018']	domestic
+world health organization	university of california los angeles	2	['2016', '2017']	domestic
+world health organization	yale university	5	['2016', '2016', '2016', '2017', '2017']	domestic
+world health organization	durham university	3	['2016', '2017', '2017']	trans-continental
+world health organization	university of basel	2	['2016', '2018']	trans-continental
+world health organization	swiss tropical and public health institute	5	['2016', '2017', '2017', '2018', '2018']	trans-continental
+world health organization	university of southampton	3	['2016', '2016', '2017']	trans-continental
+world health organization	university of barcelona	3	['2016', '2017', '2017']	trans-continental
+world health organization	vanderbilt university medical center	2	['2016', '2017']	domestic
+world health organization	lund university	2	['2016', '2018']	trans-continental
+world health organization	paris descartes university	2	['2017', '2017']	trans-continental
+world health organization	the chinese university of hong kong	2	['2017', '2017']	trans-continental
+world health organization	lancaster university	2	['2017', '2018']	trans-continental
+world health organization	ghent university	2	['2017', '2018']	trans-continental
+world health organization	university of manitoba	2	['2017', '2018']	international
+world health organization	university of gothenburg	2	['2018', '2018']	trans-continental
+world health organization	international aids society	2	['2018', '2018']	domestic
+world health organization	the george institute for global health	3	['2018', '2018', '2018']	international
+world health organization	icahn school of medicine at mount sinai	2	['2018', '2018']	domestic
+queensland university of technology	university of queensland	5	['2017', '2017', '2018', '2018', '2018']	trans-continental
+queensland university of technology	commonwealth scientific and industrial research organisation	2	['2018', '2018']	domestic
+queensland university of technology	australian national university	2	['2018', '2018']	domestic
+queensland university of technology	hanoi university	2	['2018', '2018']	trans-continental
+university of aberdeen	university of london	2	['2016', '2016']	domestic
+university of aberdeen	institut national de la recherche agronomique	2	['2017', '2017']	trans-continental
+university of birmingham	university of nairobi	2	['2016', '2017']	trans-continental
+university of south florida	temple university	2	['2017', '2017']	domestic
+university of south florida	johns hopkins university	2	['2017', '2017']	domestic
+university of south florida	rutgers university	2	['2017', '2017']	domestic
+university of south florida	universiti teknologi malaysia	2	['2016', '2018']	trans-continental
+university of south florida	university of toledo	2	['2017', '2017']	domestic
+university of south florida	suny downstate medical center	2	['2017', '2017']	domestic
+university of south florida	east carolina university	2	['2017', '2017']	domestic
+university of south florida	mercy medical center	2	['2017', '2017']	domestic
+university of south florida	summa health system	2	['2017', '2017']	domestic
+university of south florida	university of south florida st petersburg	2	['2018', '2018']	domestic
+government of south africa	university of london	2	['2010', '2014']	trans-continental
+beijing normal university	commonwealth scientific and industrial research organisation	2	['2018', '2018']	trans-continental
+beijing normal university	tsinghua university	3	['2013', '2014', '2018']	domestic
+beijing normal university	university of tennessee	2	['2018', '2018']	trans-continental
+beijing normal university	chinese academy of sciences	6	['2013', '2016', '2017', '2017', '2017', '2018']	domestic
+beijing normal university	university of regina	5	['2016', '2017', '2018', '2018', '2018']	trans-continental
+beijing normal university	hebei normal university	2	['2016', '2018']	domestic
+beijing normal university	university of bologna	2	['2017', '2018']	trans-continental
+beijing normal university	minzu university of china	2	['2018', '2018']	domestic
+laval university	university of victoria	2	['2017', '2018']	domestic
+mental health services	university of sao paulo	2	['2015', '2017']	trans-continental
+university of alabama at birmingham	university of north carolina at chapel hill	2	['2010', '2013']	domestic
+university of alabama at birmingham	national institutes of health	2	['2010', '2014']	domestic
+university of alabama at birmingham	jawaharlal nehru medical college aligarh	2	['2010', '2014']	trans-continental
+zoological society of london	commonwealth scientific and industrial research organisation	2	['2017', '2018']	trans-continental
+zoological society of london	spanish national research council	2	['2017', '2018']	trans-continental
+zoological society of london	university of eastern finland	2	['2017', '2018']	trans-continental
+zoological society of london	conservation international	2	['2017', '2018']	domestic
+federal university of para	empresa brasileira de pesquisa agropecuaria	2	['2014', '2018']	domestic
+landcare research	cawthron institute	2	['2010', '2010']	domestic
+landcare research	environment canterbury	2	['2010', '2010']	domestic
+landcare research	netherlands environmental assessment agency	2	['2017', '2018']	trans-continental
+university of zambia	university of london	3	['2013', '2013', '2016']	trans-continental
+university of zambia	columbia university	2	['2013', '2017']	trans-continental
+university of zambia	university of washington	2	['2013', '2017']	trans-continental
+university of zambia	partners in health	2	['2013', '2017']	trans-continental
+national university of la plata	world bank	2	['2012', '2013']	trans-continental
+save the children	university of cape town	5	['2009', '2012', '2012', '2016', '2018']	trans-continental
+save the children	university of southampton	2	['2016', '2017']	trans-continental
+save the children	bill melinda gates foundation	2	['2009', '2014']	domestic
+save the children	makerere university	3	['2012', '2016', '2018']	trans-continental
+save the children	johns hopkins university	13	['2009', '2010', '2010', '2010', '2010', '2010', '2010', '2011', '2012', '2013', '2013', '2016', '2017']	domestic
+save the children	university of london	19	['2010', '2010', '2010', '2010', '2011', '2011', '2011', '2012', '2012', '2013', '2013', '2014', '2015', '2016', '2016', '2016', '2016', '2017', '2018']	trans-continental
+save the children	columbia university	2	['2009', '2012']	domestic
+save the children	universidade federal de pelotas	2	['2013', '2016']	trans-continental
+save the children	university of edinburgh	4	['2010', '2010', '2012', '2018']	trans-continental
+save the children	south african medical research council	2	['2016', '2017']	domestic
+save the children	medical research council	5	['2009', '2009', '2010', '2011', '2012']	international
+save the children	university of pretoria	2	['2009', '2010']	trans-continental
+save the children	university of the witwatersrand	4	['2009', '2012', '2013', '2018']	trans-continental
+save the children	centre for the aids programme of research in south africa	2	['2009', '2012']	trans-continental
+save the children	university of the western cape	3	['2009', '2015', '2016']	trans-continental
+save the children	university of kwazulu natal	3	['2009', '2012', '2016']	trans-continental
+save the children	university of ghana	2	['2009', '2010']	trans-continental
+save the children	university college london	4	['2011', '2012', '2016', '2018']	trans-continental
+save the children	university of north carolina at chapel hill	2	['2013', '2017']	domestic
+save the children	united states agency for international development	2	['2014', '2017']	domestic
+save the children	institute of tropical medicine antwerp	2	['2016', '2018']	trans-continental
+university of regina	capital university of economics and business	2	['2017', '2017']	trans-continental
+helmholtz centre for environmental research ufz	cornell university	2	['2011', '2018']	trans-continental
+helmholtz centre for environmental research ufz	australian national university	4	['2011', '2017', '2017', '2018']	trans-continental
+helmholtz centre for environmental research ufz	wageningen university and research centre	2	['2011', '2017']	international
+helmholtz centre for environmental research ufz	international center for tropical agriculture	2	['2017', '2018']	trans-continental
+helmholtz centre for environmental research ufz	chinese academy of sciences	2	['2017', '2018']	trans-continental
+helmholtz centre for environmental research ufz	university of gottingen	2	['2016', '2017']	domestic
+helmholtz centre for environmental research ufz	potsdam institute for climate impact research	3	['2011', '2017', '2017']	domestic
+helmholtz centre for environmental research ufz	university of twente	2	['2011', '2018']	international
+helmholtz centre for environmental research ufz	martin luther university of halle wittenberg	3	['2017', '2017', '2018']	domestic
+university health network	university of toronto	4	['2011', '2015', '2018', '2018']	domestic
+universidade federal de pelotas	johns hopkins university	4	['2010', '2013', '2016', '2017']	trans-continental
+universidade federal de pelotas	university of london	2	['2013', '2017']	trans-continental
+universidade federal de pelotas	university of north carolina at chapel hill	2	['2010', '2013']	trans-continental
+universidade federal de pelotas	university of the witwatersrand	2	['2010', '2013']	trans-continental
+chalmers university of technology	stockholm environment institute	2	['2018', '2018']	trans-continental
+chalmers university of technology	university of gothenburg	3	['2012', '2017', '2018']	domestic
+chalmers university of technology	aalto university	2	['2014', '2018']	international
+universiti sains malaysia	university of malaya	3	['2011', '2017', '2018']	domestic
+university of washington	stanford university	3	['2015', '2016', '2016']	domestic
+university of washington	food and agriculture organization	3	['2015', '2016', '2016']	domestic
+university of washington	griffith university	2	['2010', '2016']	trans-continental
+university of washington	university of illinois at chicago	2	['2010', '2016']	domestic
+university of washington	university of barcelona	2	['2017', '2018']	trans-continental
+university of washington	mcgill university	2	['2012', '2017']	international
+university of washington	bill melinda gates foundation	3	['2013', '2017', '2017']	domestic
+university of washington	johns hopkins university	6	['2009', '2010', '2011', '2013', '2016', '2017']	domestic
+university of washington	university of london	4	['2013', '2016', '2017', '2017']	trans-continental
+university of washington	columbia university	5	['2013', '2015', '2015', '2017', '2017']	domestic
+university of washington	university of melbourne	3	['2013', '2014', '2017']	trans-continental
+university of washington	duke university	5	['2010', '2016', '2016', '2016', '2017']	domestic
+university of washington	university of queensland	7	['2010', '2010', '2010', '2011', '2012', '2012', '2016']	domestic
+university of washington	lund university	2	['2016', '2017']	trans-continental
+university of washington	chinese center for disease control and prevention	2	['2016', '2018']	trans-continental
+university of washington	university of pennsylvania	3	['2009', '2017', '2017']	domestic
+university of washington	seattle children s	3	['2010', '2010', '2014']	domestic
+university of washington	university of california san francisco	6	['2012', '2013', '2014', '2015', '2015', '2016']	domestic
+university of washington	university of michigan	4	['2012', '2016', '2016', '2016']	domestic
+university of washington	university of reading	2	['2012', '2017']	trans-continental
+university of washington	public health foundation of india	3	['2013', '2014', '2015']	trans-continental
+university of washington	health alliance international	2	['2013', '2013']	domestic
+university of washington	partners in health	3	['2013', '2016', '2017']	domestic
+university of washington	university of bergen	2	['2014', '2015']	trans-continental
+university of washington	university of toronto	3	['2015', '2016', '2017']	international
+university of washington	baylor college of medicine	3	['2016', '2017', '2017']	domestic
+university of washington	sichuan university	2	['2016', '2018']	trans-continental
+university of washington	national oceanic and atmospheric administration	2	['2016', '2016']	domestic
+university of washington	university of alaska fairbanks	2	['2016', '2016']	domestic
+university of washington	rutgers university	2	['2016', '2016']	domestic
+university of washington	conservation international	2	['2016', '2016']	domestic
+university of washington	university of rhode island	2	['2016', '2016']	domestic
+university of washington	san diego state university	2	['2016', '2016']	domestic
+university of washington	northumbria university	2	['2016', '2016']	trans-continental
+university of washington	boston children s hospital	2	['2016', '2017']	domestic
+university of washington	king s college london	2	['2016', '2017']	trans-continental
+university of washington	northwestern university	2	['2016', '2017']	domestic
+university of washington	children s memorial hospital	2	['2016', '2017']	domestic
+university of washington	university college london	2	['2017', '2017']	trans-continental
+university of washington	university of wollongong	2	['2017', '2017']	trans-continental
+university of washington	university of waterloo	2	['2017', '2018']	international
+colorado state university	united nations development programme	2	['2014', '2018']	domestic
+colorado state university	university of california davis	2	['2014', '2017']	domestic
+colorado state university	university of nebraska lincoln	2	['2009', '2013']	domestic
+colorado state university	international food policy research institute	2	['2013', '2014']	domestic
+colorado state university	south dakota state university	2	['2009', '2009']	domestic
+colorado state university	kansas state university	2	['2009', '2013']	domestic
+colorado state university	university of canberra	2	['2014', '2018']	trans-continental
+new york blood center	mcgill university	2	['2012', '2012']	international
+new york blood center	university of ghana	2	['2012', '2012']	trans-continental
+new york blood center	council for scientific and industrial research	2	['2012', '2012']	international
+georgetown university	university of queensland	3	['2014', '2014', '2018']	domestic
+georgetown university	university of nairobi	2	['2013', '2016']	trans-continental
+georgetown university	university of bergen	2	['2014', '2014']	trans-continental
+universidade aberta	university of coimbra	2	['2013', '2018']	domestic
+universidade aberta	universidade nova de lisboa	2	['2013', '2018']	domestic
+universidade aberta	university of aveiro	3	['2017', '2018', '2018']	domestic
+universidade aberta	universidade de passo fundo	2	['2018', '2018']	trans-continental
+northumbria university	stanford university	2	['2016', '2016']	trans-continental
+northumbria university	duke university	2	['2016', '2016']	trans-continental
+northumbria university	conservation international	2	['2016', '2016']	trans-continental
+northumbria university	rutgers university	2	['2016', '2016']	trans-continental
+northumbria university	national oceanic and atmospheric administration	2	['2016', '2016']	trans-continental
+northumbria university	san diego state university	2	['2016', '2016']	trans-continental
+northumbria university	university of alaska fairbanks	2	['2016', '2016']	trans-continental
+northumbria university	university of rhode island	2	['2016', '2016']	trans-continental
+monash university	university of cape town	2	['2016', '2017']	trans-continental
+monash university	commonwealth scientific and industrial research organisation	3	['2014', '2017', '2018']	domestic
+monash university	australian national university	2	['2014', '2018']	domestic
+monash university	university of melbourne	2	['2018', '2018']	domestic
+monash university	rmit university	2	['2014', '2017']	domestic
+monash university	university of new south wales	2	['2017', '2017']	domestic
+monash university	stellenbosch university	2	['2016', '2017']	trans-continental
+monash university	cooperative research centre	2	['2013', '2017']	trans-continental
+eth zurich	swiss federal laboratories for materials science and technology	2	['2011', '2016']	domestic
+pennsylvania state university	washington state university	2	['2011', '2012']	domestic
+pennsylvania state university	purdue university	2	['2012', '2018']	domestic
+bill melinda gates foundation	world bank	3	['2010', '2010', '2018']	domestic
+bill melinda gates foundation	johns hopkins university	5	['2009', '2010', '2013', '2017', '2018']	domestic
+bill melinda gates foundation	university of london	4	['2013', '2014', '2016', '2017']	trans-continental
+bill melinda gates foundation	university of pittsburgh	2	['2012', '2012']	domestic
+bill melinda gates foundation	university college london	3	['2013', '2015', '2017']	trans-continental
+bill melinda gates foundation	national university of rwanda	2	['2013', '2016']	trans-continental
+bill melinda gates foundation	university of the witwatersrand	2	['2015', '2016']	trans-continental
+macquarie university	edith cowan university	2	['2012', '2015']	domestic
+radboud university nijmegen	maastricht university	2	['2015', '2016']	domestic
+university of buea	university of london	2	['2017', '2018']	trans-continental
+university of tennessee	oak ridge national laboratory	4	['2010', '2015', '2015', '2018']	domestic
+university of tennessee	purdue university	3	['2010', '2010', '2012']	domestic
+university of tennessee	chinese academy of sciences	2	['2010', '2010']	trans-continental
+university of tennessee	shandong university	2	['2011', '2013']	trans-continental
+university of tennessee	university of victoria	2	['2018', '2018']	international
+world bank group	university of london	2	['2016', '2016']	trans-continental
+world bank group	northwestern university	2	['2016', '2018']	domestic
+bocconi university	world bank	2	['2017', '2018']	trans-continental
+bocconi university	potsdam institute for climate impact research	2	['2017', '2018']	international
+bocconi university	netherlands environmental assessment agency	2	['2017', '2018']	international
+global biodiversity information facility	commonwealth scientific and industrial research organisation	2	['2018', '2018']	trans-continental
+global biodiversity information facility	university of amsterdam	2	['2018', '2018']	international
+global biodiversity information facility	university of twente	2	['2018', '2018']	international
+global biodiversity information facility	martin luther university of halle wittenberg	2	['2018', '2018']	international
+global biodiversity information facility	woodrow wilson international center for scholars	2	['2018', '2018']	trans-continental
+global biodiversity information facility	florida museum of natural history	2	['2018', '2018']	trans-continental
+california institute of technology	cornell university	2	['2014', '2014']	domestic
+university of waterloo	national dong hwa university	2	['2016', '2017']	trans-continental
+university of waterloo	university of lethbridge	3	['2016', '2018', '2018']	domestic
+university of waterloo	simon fraser university	2	['2017', '2018']	domestic
+university of waterloo	university of guelph	2	['2018', '2018']	domestic
+trinity college	stellenbosch university	2	['2015', '2016']	trans-continental
+european observatory on health systems and policies	university of london	2	['2011', '2013']	international
+university of chicago	johns hopkins university	2	['2013', '2018']	domestic
+university of chicago	duke university	2	['2013', '2016']	domestic
+lancaster university	united states department of agriculture	2	['2015', '2016']	trans-continental
+lancaster university	wageningen university and research centre	2	['2015', '2016']	international
+lancaster university	aarhus university	2	['2018', '2018']	international
+lancaster university	university of nottingham	2	['2015', '2018']	domestic
+university of tasmania	commonwealth scientific and industrial research organisation	3	['2017', '2017', '2018']	domestic
+university of tasmania	hobart corporation	4	['2009', '2017', '2017', '2017']	trans-continental
+university of tasmania	national oceanic and atmospheric administration	3	['2017', '2017', '2018']	trans-continental
+university of twente	stanford university	2	['2016', '2018']	trans-continental
+university of twente	flinders university	2	['2016', '2018']	trans-continental
+university of twente	commonwealth scientific and industrial research organisation	3	['2016', '2018', '2018']	trans-continental
+university of twente	australian national university	3	['2011', '2016', '2017']	trans-continental
+university of twente	wageningen university and research centre	5	['2010', '2011', '2012', '2012', '2018']	domestic
+university of twente	international center for tropical agriculture	3	['2016', '2018', '2018']	trans-continental
+university of twente	columbia university	2	['2016', '2018']	trans-continental
+university of twente	university of melbourne	2	['2016', '2018']	trans-continental
+university of twente	university of queensland	2	['2017', '2017']	trans-continental
+university of twente	international food policy research institute	3	['2016', '2017', '2018']	trans-continental
+university of twente	king s college london	2	['2016', '2018']	international
+university of twente	international water management institute	2	['2016', '2018']	trans-continental
+university of twente	university of amsterdam	2	['2018', '2018']	domestic
+university of twente	university of arizona	2	['2018', '2018']	trans-continental
+university of twente	tilburg university	2	['2012', '2012']	domestic
+university of twente	aston university	2	['2016', '2018']	international
+university of twente	bioversity international	2	['2016', '2018']	international
+university of twente	washington state university	2	['2016', '2018']	trans-continental
+university of twente	africa rice center	2	['2017', '2018']	trans-continental
+university of twente	woodrow wilson international center for scholars	2	['2018', '2018']	trans-continental
+university of twente	martin luther university of halle wittenberg	2	['2018', '2018']	international
+university of twente	florida museum of natural history	2	['2018', '2018']	trans-continental
+sodertorn university	royal institute of technology	2	['2013', '2016']	domestic
+royal institute of technology	university of illinois at urbana champaign	2	['2013', '2017']	trans-continental
+royal institute of technology	australian national university	2	['2017', '2018']	trans-continental
+royal institute of technology	columbia university	2	['2017', '2017']	trans-continental
+children s memorial hospital	duke university	2	['2016', '2017']	domestic
+children s memorial hospital	university of toronto	2	['2016', '2018']	international
+children s memorial hospital	northwestern university	3	['2016', '2017', '2018']	domestic
+children s memorial hospital	boston children s hospital	2	['2016', '2017']	domestic
+federal reserve bank of new york	columbia university	2	['2014', '2014']	domestic
+lund university	university of london	2	['2012', '2016']	international
+lund university	king s college london	2	['2016', '2018']	international
+lund university	university of california san francisco	2	['2016', '2018']	trans-continental
+yale university	university of california berkeley	2	['2017', '2017']	domestic
+yale university	stanford university	3	['2014', '2015', '2017']	domestic
+yale university	commonwealth scientific and industrial research organisation	2	['2017', '2018']	trans-continental
+yale university	johns hopkins university	4	['2009', '2017', '2018', '2018']	domestic
+yale university	columbia university	4	['2015', '2017', '2017', '2018']	domestic
+yale university	university of ottawa	2	['2010', '2016']	international
+yale university	university of copenhagen	2	['2014', '2017']	trans-continental
+yale university	ryerson university	2	['2015', '2016']	international
+yale university	prevention institute	2	['2016', '2016']	domestic
+yale university	new york university	3	['2016', '2016', '2017']	domestic
+yale university	university of pennsylvania	2	['2017', '2017']	domestic
+yale university	university of hong kong	2	['2017', '2017']	trans-continental
+yale university	bioversity international	2	['2017', '2018']	trans-continental
+yale university	stellenbosch university	2	['2017', '2017']	trans-continental
+yale university	university of california san francisco	2	['2017', '2018']	domestic
+birdlife international	united nations environment programme	3	['2013', '2015', '2016']	trans-continental
+birdlife international	university of queensland	2	['2012', '2016']	trans-continental
+birdlife international	conservation international	2	['2015', '2016']	trans-continental
+university of zurich	aarhus university	2	['2017', '2018']	international
+princeton university	johns hopkins university	3	['2009', '2018', '2018']	domestic
+princeton university	national university of singapore	2	['2011', '2017']	trans-continental
+princeton university	new york university	2	['2013', '2013']	domestic
+princeton university	university of melbourne	2	['2017', '2018']	trans-continental
+university of brasilia	humboldt university of berlin	2	['2014', '2018']	trans-continental
+university of illinois at urbana champaign	international food policy research institute	2	['2012', '2017']	domestic
+university of illinois at urbana champaign	george mason university	2	['2012', '2013']	domestic
+university of illinois at urbana champaign	virginia tech	2	['2013', '2017']	domestic
+university of illinois at urbana champaign	chinese academy of sciences	2	['2018', '2018']	trans-continental
+shandong university	tsinghua university	2	['2011', '2018']	domestic
+university of warwick	commonwealth scientific and industrial research organisation	2	['2018', '2018']	trans-continental
+university of warwick	university of london	2	['2015', '2015']	domestic
+virginia tech	massachusetts institute of technology	2	['2011', '2018']	domestic
+virginia tech	texas a m university	2	['2017', '2017']	domestic
+virginia tech	uppsala university	2	['2015', '2017']	trans-continental
+virginia tech	george mason university	2	['2013', '2017']	domestic
+ghent university	johns hopkins university	2	['2013', '2018']	trans-continental
+ghent university	university of london	3	['2013', '2017', '2018']	international
+ghent university	university of liege	2	['2014', '2018']	domestic
+ghent university	universite catholique de louvain	2	['2014', '2018']	domestic
+ghent university	university of copenhagen	2	['2013', '2018']	international
+ghent university	university of the witwatersrand	2	['2013', '2018']	trans-continental
+ghent university	katholieke universiteit leuven	2	['2014', '2018']	domestic
+ghent university	czech university of life sciences prague	2	['2013', '2018']	international
+university of gothenburg	stockholm environment institute	2	['2011', '2018']	trans-continental
+university of gothenburg	environmental defense fund	2	['2012', '2014']	trans-continental
+university of illinois at chicago	new york university	2	['2012', '2018']	domestic
+vancouver island university	university of victoria	2	['2015', '2016']	domestic
+university of auckland	johns hopkins university	2	['2014', '2018']	trans-continental
+university of auckland	university of london	3	['2014', '2014', '2015']	trans-continental
+university of auckland	university of toronto	2	['2017', '2018']	trans-continental
+university of auckland	south african medical research council	2	['2014', '2018']	trans-continental
+university of auckland	university of nairobi	2	['2013', '2014']	trans-continental
+royal veterinary college	university of london	2	['2015', '2017']	domestic
+royal veterinary college	university college london	2	['2015', '2017']	domestic
+university of barcelona	tel aviv university	2	['2012', '2016']	trans-continental
+university of barcelona	autonomous university of barcelona	2	['2017', '2018']	domestic
+university of barcelona	king s college london	2	['2017', '2017']	international
+university of barcelona	the chinese university of hong kong	2	['2017', '2017']	trans-continental
+university of western australia	university of queensland	2	['2011', '2017']	trans-continental
+university of western australia	university of the witwatersrand	2	['2014', '2017']	trans-continental
+st michael s hospital	university of toronto	3	['2012', '2015', '2018']	international
+marie stopes international	university of london	2	['2011', '2018']	domestic
+university of science and technology beijing	university of victoria	2	['2017', '2018']	trans-continental
+university of malaya	curtin university	2	['2016', '2016']	trans-continental
+university of malaya	national university of malaysia	2	['2017', '2018']	domestic
+university of malaya	auckland university of technology	2	['2015', '2017']	trans-continental
+university of malaya	universiti tunku abdul rahman	2	['2018', '2018']	domestic
+curtin university	university of melbourne	2	['2018', '2018']	domestic
+university of aveiro	university of lisbon	3	['2017', '2017', '2018']	domestic
+university of aveiro	university of coimbra	4	['2012', '2012', '2018', '2018']	domestic
+university of aveiro	universidade nova de lisboa	2	['2018', '2018']	domestic
+university of aveiro	university of minho	2	['2013', '2013']	domestic
+university of aveiro	universidade de passo fundo	2	['2018', '2018']	trans-continental
+swinburne university of technology	university of melbourne	2	['2012', '2018']	domestic
+university of the basque country	linkoping university	2	['2017', '2017']	international
+university of hull	carleton university	2	['2016', '2017']	trans-continental
+university of hull	united states geological survey	2	['2016', '2017']	trans-continental
+university of amsterdam	commonwealth scientific and industrial research organisation	2	['2018', '2018']	trans-continental
+university of amsterdam	wageningen university and research centre	2	['2016', '2016']	domestic
+university of amsterdam	university of ghana	4	['2012', '2013', '2015', '2016']	trans-continental
+university of amsterdam	cardiff university	2	['2012', '2018']	international
+university of amsterdam	woodrow wilson international center for scholars	2	['2018', '2018']	trans-continental
+university of amsterdam	martin luther university of halle wittenberg	2	['2018', '2018']	international
+university of amsterdam	florida museum of natural history	2	['2018', '2018']	trans-continental
+university of north carolina at chapel hill	university of surrey	3	['2010', '2012', '2012']	trans-continental
+university of north carolina at chapel hill	university of east anglia	3	['2016', '2018', '2018']	trans-continental
+university of north carolina at chapel hill	north carolina state university	2	['2015', '2017']	domestic
+university of north carolina at chapel hill	university of southampton	3	['2010', '2012', '2017']	trans-continental
+university of north carolina at chapel hill	university of london	7	['2013', '2013', '2013', '2014', '2018', '2018', '2018']	trans-continental
+university of north carolina at chapel hill	duke university	4	['2012', '2012', '2013', '2017']	domestic
+university of north carolina at chapel hill	university of bristol	2	['2012', '2018']	trans-continental
+university of north carolina at chapel hill	durham university	2	['2013', '2018']	trans-continental
+university of north carolina at chapel hill	university of michigan	3	['2009', '2016', '2017']	domestic
+university of north carolina at chapel hill	emory university	2	['2010', '2018']	domestic
+university of north carolina at chapel hill	national institutes of health	2	['2010', '2013']	domestic
+university of north carolina at chapel hill	university of the witwatersrand	4	['2010', '2013', '2017', '2018']	trans-continental
+university of north carolina at chapel hill	university of pittsburgh	2	['2012', '2018']	domestic
+michigan technological university	oak ridge national laboratory	2	['2015', '2015']	domestic
+united states forest service	australian national university	2	['2011', '2016']	trans-continental
+united states forest service	griffith university	2	['2011', '2016']	trans-continental
+united states forest service	conservation international	2	['2016', '2016']	domestic
+university of the free state	university of cape town	2	['2011', '2016']	domestic
+university of the free state	university of kwazulu natal	2	['2011', '2016']	domestic
+university of the free state	stellenbosch university	3	['2011', '2016', '2018']	domestic
+university of the free state	walter sisulu university	2	['2016', '2016']	trans-continental
+spanish national research council	commonwealth scientific and industrial research organisation	2	['2017', '2018']	trans-continental
+spanish national research council	university of cordoba	2	['2014', '2018']	domestic
+spanish national research council	university of melbourne	2	['2013', '2018']	trans-continental
+spanish national research council	conservation international	2	['2017', '2018']	trans-continental
+spanish national research council	university of eastern finland	2	['2017', '2018']	international
+spanish national research council	university of toulouse	2	['2018', '2018']	international
+university of gondar	addis continental institute of public health	2	['2013', '2018']	domestic
+university of gondar	addis ababa university	3	['2013', '2018', '2018']	domestic
+university of gondar	jimma university	2	['2013', '2018']	domestic
+norwegian university of life sciences	united states department of agriculture	2	['2013', '2015']	trans-continental
+university of st andrews	university of malawi	2	['2014', '2015']	trans-continental
+kyushu university	massachusetts institute of technology	2	['2015', '2016']	trans-continental
+suny downstate medical center	temple university	2	['2017', '2017']	domestic
+suny downstate medical center	johns hopkins university	2	['2017', '2017']	domestic
+suny downstate medical center	rutgers university	2	['2017', '2017']	domestic
+suny downstate medical center	university at buffalo	2	['2017', '2018']	domestic
+suny downstate medical center	east carolina university	2	['2017', '2017']	domestic
+suny downstate medical center	university of toledo	2	['2017', '2017']	domestic
+suny downstate medical center	mercy medical center	2	['2017', '2017']	domestic
+suny downstate medical center	summa health system	2	['2017', '2017']	domestic
+flinders university	university of new south wales	2	['2015', '2018']	domestic
+flinders university	commonwealth scientific and industrial research organisation	2	['2016', '2018']	domestic
+flinders university	international water management institute	2	['2018', '2018']	trans-continental
+international center for agricultural research in the dry areas	stanford university	2	['2016', '2017']	trans-continental
+international center for agricultural research in the dry areas	cgiar	2	['2016', '2017']	trans-continental
+international center for agricultural research in the dry areas	international water management institute	2	['2016', '2017']	international
+international center for agricultural research in the dry areas	bioversity international	2	['2016', '2017']	trans-continental
+american museum of natural history	university of basel	2	['2015', '2016']	trans-continental
+cornell university	university of california berkeley	2	['2011', '2017']	domestic
+cornell university	stanford university	2	['2011', '2015']	domestic
+cornell university	world bank	2	['2013', '2018']	domestic
+cornell university	united states department of agriculture	3	['2010', '2011', '2015']	domestic
+cornell university	australian national university	2	['2011', '2018']	trans-continental
+cornell university	northwestern university	2	['2011', '2016']	domestic
+cornell university	duke university	2	['2011', '2016']	domestic
+cornell university	boston children s hospital	2	['2016', '2017']	domestic
+universiti utara malaysia	national university of malaysia	2	['2018', '2018']	domestic
+university of kiel	kiel institute for the world economy	4	['2014', '2014', '2014', '2016']	domestic
+national institute for space research	federal university of rio de janeiro	2	['2014', '2018']	domestic
+national institute for space research	university of sao paulo	2	['2013', '2018']	domestic
+national institutes of health	johns hopkins university	2	['2009', '2012']	domestic
+national institutes of health	university of london	3	['2015', '2017', '2018']	trans-continental
+national institutes of health	university of melbourne	3	['2014', '2015', '2018']	trans-continental
+national institutes of health	wellcome trust	2	['2013', '2014']	domestic
+national institutes of health	stellenbosch university	2	['2013', '2013']	trans-continental
+national institutes of health	university of maryland baltimore	2	['2010', '2012']	domestic
+national institutes of health	rti international	3	['2010', '2015', '2018']	domestic
+national institutes of health	jawaharlal nehru medical college aligarh	2	['2010', '2014']	trans-continental
+national institutes of health	national institute on drug abuse	2	['2014', '2014']	domestic
+uganda christian university	makerere university	2	['2012', '2012']	domestic
+addis continental institute of public health	addis ababa university	4	['2012', '2013', '2013', '2018']	domestic
+ecole polytechnique federale de lausanne	university college london	2	['2012', '2017']	international
+university of technology sydney	university of new south wales	3	['2011', '2014', '2014']	domestic
+humboldt university of berlin	wageningen university and research centre	2	['2018', '2018']	international
+humboldt university of berlin	university of potsdam	2	['2017', '2018']	domestic
+humboldt university of berlin	potsdam institute for climate impact research	4	['2011', '2017', '2018', '2018']	domestic
+university of edinburgh	university of cape town	2	['2012', '2018']	trans-continental
+university of edinburgh	johns hopkins university	8	['2009', '2010', '2010', '2011', '2012', '2013', '2013', '2017']	trans-continental
+university of edinburgh	university of london	4	['2010', '2010', '2012', '2017']	domestic
+university of edinburgh	university of melbourne	3	['2010', '2011', '2017']	trans-continental
+university of edinburgh	university of queensland	2	['2009', '2017']	trans-continental
+university of edinburgh	university of split	2	['2010', '2011']	international
+university of edinburgh	public health foundation of india	2	['2011', '2012']	trans-continental
+university of edinburgh	newcastle university	2	['2011', '2012']	domestic
+university of edinburgh	institute of tropical medicine antwerp	3	['2013', '2015', '2017']	international
+university of edinburgh	university of the witwatersrand	2	['2013', '2018']	trans-continental
+university of edinburgh	university of nairobi	2	['2013', '2017']	trans-continental
+university of edinburgh	china agricultural university	2	['2018', '2018']	trans-continental
+public health england	united nations	2	['2016', '2017']	domestic
+universite catholique de louvain	university of liege	2	['2014', '2018']	domestic
+universite catholique de louvain	katholieke universiteit leuven	2	['2014', '2018']	domestic
+university of valencia	wageningen university and research centre	2	['2016', '2018']	international
+university of valencia	polytechnic university of valencia	2	['2013', '2015']	domestic
+university of valencia	university of palermo	2	['2018', '2018']	international
+university of reading	university of exeter	2	['2017', '2018']	domestic
+university of reading	commonwealth scientific and industrial research organisation	2	['2017', '2017']	trans-continental
+university of reading	wageningen university and research centre	2	['2018', '2018']	international
+university of reading	columbia university	2	['2017', '2017']	trans-continental
+university of reading	university college london	2	['2017', '2017']	domestic
+university of reading	international livestock research institute	2	['2017', '2018']	trans-continental
+university of reading	rothamsted research	3	['2009', '2018', '2018']	domestic
+university of reading	university of dundee	2	['2013', '2016']	domestic
+university of reading	world meteorological organization	2	['2017', '2017']	international
+all india institute of medical sciences	public health foundation of india	2	['2014', '2017']	domestic
+wake forest university	university college london	2	['2015', '2016']	trans-continental
+ucl institute of child health	johns hopkins university	2	['2013', '2016']	trans-continental
+ucl institute of child health	university of london	2	['2013', '2016']	domestic
+national university of singapore	australian national university	3	['2017', '2018', '2018']	trans-continental
+national university of singapore	australian catholic university	2	['2015', '2015']	trans-continental
+texas a m university	university of queensland	2	['2013', '2017']	domestic
+columbia university medical center	world bank	2	['2017', '2018']	domestic
+kwame nkrumah university of science and technology	university of michigan	3	['2012', '2012', '2013']	trans-continental
+kwame nkrumah university of science and technology	university of ghana	2	['2012', '2013']	domestic
+nationwide children s hospital	johns hopkins university	2	['2015', '2017']	domestic
+polytechnic university of catalonia	autonomous university of barcelona	2	['2010', '2017']	domestic
+polytechnic university of catalonia	stockholm international water institute	3	['2016', '2017', '2017']	international
+federal fluminense university	federal university of rio de janeiro	2	['2013', '2018']	domestic
+federal fluminense university	university of sao paulo	3	['2014', '2014', '2014']	domestic
+federal fluminense university	oswaldo cruz foundation	2	['2014', '2014']	domestic
+kansas state university	university of nebraska lincoln	2	['2009', '2013']	domestic
+universidade de passo fundo	university of coimbra	2	['2017', '2018']	trans-continental
+mercy medical center	temple university	2	['2017', '2017']	domestic
+mercy medical center	johns hopkins university	2	['2017', '2017']	domestic
+mercy medical center	rutgers university	2	['2017', '2017']	domestic
+mercy medical center	east carolina university	2	['2017', '2017']	domestic
+mercy medical center	university of toledo	2	['2017', '2017']	domestic
+mercy medical center	summa health system	2	['2017', '2017']	domestic
+johns hopkins university	university of california berkeley	2	['2016', '2018']	domestic
+johns hopkins university	university of cape town	2	['2013', '2018']	trans-continental
+johns hopkins university	dartmouth college	2	['2010', '2011']	domestic
+johns hopkins university	temple university	2	['2017', '2017']	domestic
+johns hopkins university	university of sao paulo	2	['2010', '2014']	trans-continental
+johns hopkins university	university of virginia	3	['2013', '2013', '2017']	domestic
+johns hopkins university	mcgill university	2	['2011', '2018']	international
+johns hopkins university	university of manchester	2	['2014', '2016']	trans-continental
+johns hopkins university	tufts university	3	['2010', '2015', '2017']	domestic
+johns hopkins university	world bank	9	['2010', '2010', '2011', '2012', '2014', '2016', '2018', '2018', '2018']	domestic
+johns hopkins university	makerere university	6	['2011', '2011', '2012', '2013', '2014', '2016']	trans-continental
+johns hopkins university	university of york	2	['2017', '2018']	trans-continental
+johns hopkins university	university of london	28	['2009', '2010', '2010', '2010', '2011', '2011', '2012', '2012', '2013', '2013', '2013', '2014', '2014', '2015', '2015', '2016', '2016', '2016', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2018', '2018', '2018']	trans-continental
+johns hopkins university	university of liverpool	2	['2013', '2014']	trans-continental
+johns hopkins university	university of toronto	3	['2013', '2016', '2017']	international
+johns hopkins university	south african medical research council	2	['2013', '2018']	domestic
+johns hopkins university	university of california san francisco	7	['2010', '2011', '2013', '2015', '2015', '2018', '2018']	domestic
+johns hopkins university	university of melbourne	5	['2010', '2011', '2012', '2017', '2018']	trans-continental
+johns hopkins university	medical research council	2	['2011', '2018']	international
+johns hopkins university	university of split	2	['2010', '2011']	trans-continental
+johns hopkins university	university of pretoria	3	['2009', '2010', '2016']	trans-continental
+johns hopkins university	emory university	2	['2009', '2018']	domestic
+johns hopkins university	rand corporation	2	['2009', '2014']	domestic
+johns hopkins university	university of pennsylvania	2	['2009', '2013']	domestic
+johns hopkins university	johns hopkins university school of medicine	2	['2010', '2011']	domestic
+johns hopkins university	university of the western cape	3	['2011', '2013', '2015']	trans-continental
+johns hopkins university	international medical corps	2	['2011', '2017']	domestic
+johns hopkins university	royal children s hospital	2	['2012', '2014']	domestic
+johns hopkins university	university of the witwatersrand	5	['2012', '2013', '2014', '2015', '2016']	trans-continental
+johns hopkins university	american university of beirut	2	['2012', '2016']	trans-continental
+johns hopkins university	university college london	5	['2012', '2016', '2016', '2017', '2017']	trans-continental
+johns hopkins university	duke university	3	['2013', '2016', '2017']	domestic
+johns hopkins university	united nations	5	['2013', '2013', '2015', '2016', '2016']	domestic
+johns hopkins university	national university of rwanda	2	['2013', '2015']	trans-continental
+johns hopkins university	karolinska institutet	2	['2013', '2018']	trans-continental
+johns hopkins university	jhpiego	2	['2014', '2015']	domestic
+johns hopkins university	new york university	2	['2015', '2017']	domestic
+johns hopkins university	columbia university	9	['2015', '2016', '2017', '2017', '2017', '2018', '2018', '2018', '2018']	domestic
+johns hopkins university	united states agency for international development	2	['2016', '2017']	domestic
+johns hopkins university	university of malawi	3	['2016', '2016', '2018']	trans-continental
+johns hopkins university	university of bristol	2	['2016', '2017']	trans-continental
+johns hopkins university	the george institute for global health	2	['2016', '2018']	international
+johns hopkins university	northwestern university	3	['2016', '2017', '2018']	domestic
+johns hopkins university	sichuan university	2	['2016', '2017']	trans-continental
+johns hopkins university	bioversity international	2	['2017', '2018']	trans-continental
+johns hopkins university	king s college london	2	['2017', '2018']	trans-continental
+johns hopkins university	university of toledo	2	['2017', '2017']	domestic
+johns hopkins university	east carolina university	2	['2017', '2017']	domestic
+johns hopkins university	summa health system	2	['2017', '2017']	domestic
+johns hopkins university	rutgers university	3	['2017', '2017', '2018']	domestic
+university of tsukuba	china university of geosciences	2	['2013', '2013']	international
+university of pretoria	university of cape town	5	['2014', '2014', '2016', '2016', '2016']	domestic
+university of pretoria	international food policy research institute	2	['2016', '2018']	trans-continental
+university of pretoria	rhodes university	2	['2013', '2016']	domestic
+university of pretoria	university of the western cape	3	['2009', '2014', '2014']	domestic
+university of pretoria	university of south africa	2	['2012', '2016']	domestic
+university of pretoria	university of kwazulu natal	4	['2011', '2014', '2014', '2016']	domestic
+university of pretoria	north west university	3	['2011', '2014', '2016']	trans-continental
+world bank	university of cape town	2	['2014', '2015']	trans-continental
+world bank	united nations development programme	2	['2011', '2012']	domestic
+world bank	tufts university	3	['2010', '2015', '2017']	domestic
+world bank	university of london	4	['2010', '2014', '2015', '2017']	trans-continental
+world bank	united nations	2	['2010', '2011']	domestic
+world bank	university of southern california	2	['2011', '2012']	domestic
+world bank	rand corporation	2	['2011', '2012']	domestic
+world bank	brookings institution	2	['2012', '2018']	domestic
+world bank	potsdam institute for climate impact research	2	['2014', '2018']	trans-continental
+world bank	netherlands environmental assessment agency	2	['2014', '2018']	trans-continental
+world bank	durham university	2	['2015', '2017']	trans-continental
+world bank	university of melbourne	2	['2015', '2018']	trans-continental
+international food policy research institute	stanford university	2	['2016', '2018']	domestic
+international food policy research institute	university of bonn	2	['2015', '2016']	trans-continental
+international food policy research institute	food and agriculture organization	3	['2010', '2014', '2015']	domestic
+international food policy research institute	wageningen university and research centre	3	['2014', '2015', '2018']	trans-continental
+international food policy research institute	university of california davis	2	['2012', '2014']	domestic
+international food policy research institute	international center for tropical agriculture	2	['2016', '2018']	domestic
+international food policy research institute	cgiar	2	['2014', '2016']	domestic
+international food policy research institute	columbia university	4	['2015', '2015', '2016', '2018']	domestic
+international food policy research institute	washington state university	3	['2014', '2016', '2018']	domestic
+international food policy research institute	bioversity international	3	['2016', '2018', '2018']	trans-continental
+international food policy research institute	king s college london	2	['2016', '2018']	trans-continental
+university of western sydney	university of sydney	2	['2012', '2012']	trans-continental
+graz university of technology	potsdam institute for climate impact research	2	['2016', '2016']	international
+university of antwerp	university of queensland	3	['2015', '2017', '2017']	trans-continental
+university of antwerp	university of toronto	4	['2013', '2014', '2017', '2017']	trans-continental
+university of antwerp	institute of tropical medicine antwerp	3	['2015', '2017', '2017']	domestic
+university of antwerp	university of nairobi	4	['2013', '2014', '2017', '2017']	trans-continental
+university of antwerp	nhtv breda university of applied sciences	2	['2017', '2018']	international
+london school of economics and political science	vu university amsterdam	2	['2015', '2018']	international
+london school of economics and political science	rand corporation	2	['2012', '2012']	trans-continental
+united nations office on drugs and crime	columbia university	2	['2014', '2015']	trans-continental
+united nations office on drugs and crime	university of porto	2	['2014', '2015']	international
+united nations office on drugs and crime	kaduna state university	2	['2014', '2015']	trans-continental
+university of the west of england	university of bristol	2	['2015', '2017']	domestic
+university of pennsylvania	university of california berkeley	2	['2017', '2017']	domestic
+university of pennsylvania	duke university	2	['2013', '2017']	domestic
+university of pennsylvania	university of botswana	2	['2013', '2014']	trans-continental
+university of pennsylvania	university college london	2	['2017', '2017']	trans-continental
+university of pennsylvania	northwestern university	2	['2010', '2017']	domestic
+university of pennsylvania	american university	3	['2014', '2015', '2017']	domestic
+university of pennsylvania	university of the witwatersrand	2	['2017', '2017']	trans-continental
+university of pennsylvania	university of california los angeles	2	['2017', '2018']	domestic
+university of pennsylvania	boston children s hospital	2	['2017', '2017']	domestic
+hobart corporation	commonwealth scientific and industrial research organisation	3	['2015', '2017', '2017']	trans-continental
+hobart corporation	university of new south wales	2	['2015', '2017']	trans-continental
+hobart corporation	national oceanic and atmospheric administration	2	['2017', '2017']	domestic
+durham university	university of southampton	2	['2015', '2015']	domestic
+durham university	duke university	4	['2010', '2014', '2016', '2017']	trans-continental
+wellcome trust	university of london	3	['2015', '2016', '2018']	trans-continental
+international union against tuberculosis and lung disease	university of london	5	['2010', '2011', '2012', '2013', '2016']	international
+international union against tuberculosis and lung disease	university college london	2	['2010', '2012']	international
+international union against tuberculosis and lung disease	medecins sans frontieres	4	['2011', '2013', '2016', '2018']	trans-continental
+international union against tuberculosis and lung disease	royal children s hospital	3	['2010', '2012', '2014']	trans-continental
+centre national de la recherche scientifique	commonwealth scientific and industrial research organisation	2	['2016', '2018']	trans-continental
+centre national de la recherche scientifique	university of bordeaux	2	['2014', '2018']	domestic
+centre national de la recherche scientifique	university of lorraine	2	['2016', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	university of cape town	2	['2016', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	australian national university	9	['2011', '2011', '2014', '2016', '2016', '2016', '2018', '2018', '2018']	domestic
+commonwealth scientific and industrial research organisation	university of melbourne	5	['2015', '2016', '2018', '2018', '2018']	domestic
+commonwealth scientific and industrial research organisation	university of alaska fairbanks	2	['2011', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	university of the witwatersrand	2	['2014', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	international center for tropical agriculture	2	['2014', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	united nations	2	['2014', '2016']	trans-continental
+commonwealth scientific and industrial research organisation	university of queensland	4	['2014', '2017', '2018', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	university of new south wales	3	['2015', '2016', '2017']	domestic
+commonwealth scientific and industrial research organisation	wageningen university and research centre	2	['2015', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	university of sydney	3	['2016', '2018', '2018']	domestic
+commonwealth scientific and industrial research organisation	stellenbosch university	3	['2016', '2017', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	netherlands environmental assessment agency	2	['2016', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	chinese academy of sciences	3	['2016', '2016', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	stockholm resilience centre	2	['2016', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	concordia university	2	['2016', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	columbia university	2	['2017', '2017']	trans-continental
+commonwealth scientific and industrial research organisation	university of eastern finland	2	['2017', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	national oceanic and atmospheric administration	2	['2017', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	conservation international	2	['2017', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	nagoya university	3	['2018', '2018', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	woodrow wilson international center for scholars	2	['2018', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	martin luther university of halle wittenberg	3	['2018', '2018', '2018']	trans-continental
+commonwealth scientific and industrial research organisation	florida museum of natural history	2	['2018', '2018']	trans-continental
+universite de montreal	mcgill university	2	['2009', '2017']	domestic
+tsinghua university	university of the western cape	3	['2011', '2017', '2018']	trans-continental
+tsinghua university	chinese academy of sciences	2	['2013', '2018']	domestic
+tsinghua university	beijing institute of technology	2	['2015', '2018']	domestic
+tsinghua university	university of chile	2	['2017', '2018']	trans-continental
+tsinghua university	auckland university of technology	2	['2017', '2018']	trans-continental
+north west university	united nations	2	['2011', '2015']	domestic
+north west university	university of the western cape	2	['2013', '2014']	trans-continental
+north west university	university of kwazulu natal	3	['2011', '2014', '2016']	trans-continental
+saint mary s college of california	fraunhofer society	2	['2016', '2016']	trans-continental
+erasmus university rotterdam	university of the witwatersrand	2	['2017', '2017']	trans-continental
+george mason university	wageningen university and research centre	4	['2015', '2016', '2017', '2017']	trans-continental
+george mason university	university of toronto	2	['2010', '2017']	international
+george mason university	university of southern california	2	['2010', '2013']	domestic
+university of california los angeles	inter american development bank	2	['2015', '2017']	domestic
+university of california los angeles	duke university	2	['2010', '2015']	domestic
+rutgers university	stanford university	2	['2016', '2016']	domestic
+rutgers university	temple university	2	['2017', '2017']	domestic
+rutgers university	columbia university	2	['2009', '2018']	domestic
+rutgers university	duke university	2	['2016', '2016']	domestic
+rutgers university	conservation international	2	['2016', '2016']	domestic
+rutgers university	national oceanic and atmospheric administration	2	['2016', '2016']	domestic
+rutgers university	university of alaska fairbanks	2	['2016', '2016']	domestic
+rutgers university	university of rhode island	2	['2016', '2016']	domestic
+rutgers university	san diego state university	2	['2016', '2016']	domestic
+rutgers university	university of toledo	2	['2017', '2017']	domestic
+rutgers university	east carolina university	2	['2017', '2017']	domestic
+rutgers university	summa health system	2	['2017', '2017']	domestic
+east carolina university	temple university	2	['2017', '2017']	domestic
+east carolina university	university of toledo	2	['2017', '2017']	domestic
+east carolina university	summa health system	2	['2017', '2017']	domestic
+the nature conservancy	australian national university	2	['2012', '2016']	trans-continental
+the nature conservancy	griffith university	3	['2016', '2018', '2018']	trans-continental
+the nature conservancy	university of california davis	2	['2012', '2013']	domestic
+the nature conservancy	university of queensland	4	['2012', '2016', '2018', '2018']	domestic
+the nature conservancy	world wide fund for nature	4	['2012', '2013', '2016', '2018']	domestic
+umea university	university of cape town	2	['2014', '2017']	trans-continental
+umea university	university of london	3	['2014', '2014', '2017']	international
+umea university	university of the witwatersrand	2	['2011', '2013']	trans-continental
+umea university	uppsala university	2	['2013', '2014']	domestic
+umea university	karolinska institutet	2	['2013', '2014']	domestic
+umea university	fudan university	2	['2013', '2014']	trans-continental
+umea university	stellenbosch university	2	['2014', '2017']	trans-continental
+kiel institute for the world economy	university of gottingen	2	['2011', '2017']	domestic
+city college of new york	griffith university	2	['2016', '2018']	trans-continental
+university of maryland college park	masaryk university	2	['2017', '2017']	trans-continental
+aarhus university	wageningen university and research centre	4	['2013', '2014', '2018', '2018']	international
+aarhus university	institut national de la recherche agronomique	4	['2013', '2015', '2018', '2018']	trans-continental
+aarhus university	university of copenhagen	2	['2010', '2018']	domestic
+university of geneva	university of london	2	['2016', '2018']	international
+university of sheffield	university college london	2	['2011', '2018']	domestic
+king s college london	university of cape town	4	['2014', '2017', '2017', '2018']	trans-continental
+king s college london	stanford university	3	['2015', '2016', '2018']	trans-continental
+king s college london	international center for tropical agriculture	2	['2016', '2018']	trans-continental
+king s college london	university of london	6	['2014', '2015', '2016', '2016', '2017', '2018']	domestic
+king s college london	columbia university	2	['2016', '2018']	trans-continental
+king s college london	university of melbourne	2	['2015', '2018']	trans-continental
+king s college london	university of toronto	2	['2016', '2017']	trans-continental
+king s college london	university of california san francisco	2	['2016', '2018']	trans-continental
+king s college london	international water management institute	3	['2016', '2016', '2018']	trans-continental
+king s college london	university of the witwatersrand	2	['2018', '2018']	trans-continental
+king s college london	university college london	2	['2015', '2017']	domestic
+king s college london	st george s hospital	2	['2015', '2017']	domestic
+king s college london	bioversity international	2	['2016', '2018']	international
+king s college london	washington state university	2	['2016', '2018']	trans-continental
+king s college london	the chinese university of hong kong	2	['2017', '2017']	trans-continental
+king s college london	university of ibadan	2	['2018', '2018']	trans-continental
+fraunhofer society	technical university of berlin	3	['2015', '2017', '2018']	domestic
+woodrow wilson international center for scholars	martin luther university of halle wittenberg	2	['2018', '2018']	trans-continental
+woodrow wilson international center for scholars	florida museum of natural history	2	['2018', '2018']	domestic
+north carolina state university	duke university	2	['2016', '2017']	domestic
+ifakara health institute	university of london	2	['2015', '2016']	trans-continental
+ifakara health institute	columbia university	3	['2013', '2013', '2013']	trans-continental
+ifakara health institute	ministry of health and social welfare	4	['2013', '2015', '2015', '2016']	trans-continental
+university for development studies	university of ghana	2	['2016', '2018']	domestic
+georgia institute of technology	illinois institute of technology	2	['2009', '2015']	domestic
+university college london	lawrence berkeley national laboratory	2	['2011', '2015']	trans-continental
+university college london	university of cape town	3	['2016', '2018', '2018']	trans-continental
+university college london	australian national university	3	['2011', '2011', '2011']	trans-continental
+university college london	griffith university	2	['2011', '2016']	trans-continental
+university college london	university of southampton	2	['2009', '2017']	domestic
+university college london	university of london	16	['2010', '2010', '2011', '2011', '2012', '2013', '2015', '2016', '2016', '2016', '2016', '2016', '2017', '2017', '2017', '2018']	domestic
+university college london	columbia university	4	['2010', '2010', '2017', '2018']	trans-continental
+university college london	university of melbourne	3	['2012', '2012', '2018']	trans-continental
+university college london	united nations	2	['2011', '2017']	trans-continental
+university college london	university of nottingham	2	['2015', '2017']	domestic
+university college london	university of the witwatersrand	6	['2010', '2012', '2015', '2016', '2017', '2018']	trans-continental
+university college london	boston children s hospital	4	['2010', '2012', '2013', '2017']	trans-continental
+university college london	royal children s hospital	3	['2010', '2012', '2012']	trans-continental
+university college london	karolinska institutet	3	['2011', '2012', '2012']	international
+university college london	potsdam institute for climate impact research	3	['2011', '2017', '2018']	international
+university college london	public health foundation of india	2	['2011', '2015']	trans-continental
+university college london	kenya medical research institute	2	['2012', '2012']	trans-continental
+university college london	rti international	2	['2016', '2017']	trans-continental
+university college london	university of malawi	3	['2016', '2016', '2016']	trans-continental
+university college london	international livestock research institute	2	['2017', '2018']	trans-continental
+university college london	netherlands environmental assessment agency	2	['2017', '2018']	international
+emory university	stanford university	2	['2011', '2018']	domestic
+emory university	university of london	3	['2017', '2018', '2018']	trans-continental
+emory university	university of california san francisco	2	['2012', '2018']	domestic
+emory university	university of the witwatersrand	2	['2010', '2017']	trans-continental
+emory university	carter center	4	['2013', '2015', '2015', '2018']	domestic
+baylor college of medicine	boston children s hospital	4	['2010', '2013', '2014', '2016']	domestic
+tufts university	university of queensland	2	['2010', '2016']	domestic
+tufts university	university of london	2	['2015', '2017']	trans-continental
+stanford university	university of california berkeley	2	['2016', '2017']	domestic
+stanford university	australian national university	6	['2009', '2011', '2011', '2012', '2016', '2017']	trans-continental
+stanford university	chinese academy of sciences	3	['2010', '2018', '2018']	trans-continental
+stanford university	university of alaska fairbanks	3	['2011', '2016', '2016']	domestic
+stanford university	university of california	2	['2012', '2013']	domestic
+stanford university	columbia university	3	['2012', '2016', '2018']	domestic
+stanford university	bioversity international	4	['2012', '2016', '2017', '2018']	trans-continental
+stanford university	university of california davis	3	['2012', '2013', '2016']	domestic
+stanford university	university of arizona	2	['2013', '2018']	domestic
+stanford university	university of utah	2	['2013', '2015']	domestic
+stanford university	university of london	3	['2014', '2014', '2016']	trans-continental
+stanford university	united states department of agriculture	2	['2015', '2016']	domestic
+stanford university	university of sydney	2	['2015', '2018']	trans-continental
+stanford university	duke university	3	['2016', '2016', '2016']	domestic
+stanford university	national oceanic and atmospheric administration	2	['2016', '2016']	domestic
+stanford university	conservation international	2	['2016', '2016']	domestic
+stanford university	university of rhode island	2	['2016', '2016']	domestic
+stanford university	san diego state university	2	['2016', '2016']	domestic
+stanford university	northwest university	2	['2016', '2018']	domestic
+stanford university	university of the witwatersrand	2	['2016', '2017']	trans-continental
+stanford university	stockholm resilience centre	2	['2016', '2016']	trans-continental
+stanford university	cgiar	2	['2016', '2017']	domestic
+stanford university	international center for tropical agriculture	2	['2016', '2018']	domestic
+stanford university	washington state university	2	['2016', '2018']	domestic
+stanford university	international water management institute	2	['2016', '2017']	trans-continental
+university of kwazulu natal	university of cape town	12	['2009', '2009', '2011', '2012', '2012', '2016', '2016', '2016', '2016', '2016', '2017', '2018']	domestic
+university of kwazulu natal	columbia university	2	['2009', '2012']	trans-continental
+university of kwazulu natal	university of the western cape	4	['2009', '2009', '2014', '2016']	domestic
+university of kwazulu natal	stellenbosch university	3	['2011', '2016', '2018']	domestic
+university of kwazulu natal	medical research council	2	['2009', '2012']	trans-continental
+university of kwazulu natal	university of the witwatersrand	12	['2009', '2009', '2009', '2011', '2012', '2014', '2015', '2016', '2016', '2016', '2018', '2018']	domestic
+university of kwazulu natal	centre for the aids programme of research in south africa	5	['2009', '2012', '2012', '2016', '2017']	domestic
+university of cape coast	university of ghana	2	['2016', '2017']	domestic
+university of cape coast	university of health and allied sciences	2	['2016', '2018']	trans-continental
+stockholm environment institute	university of sao paulo	2	['2017', '2017']	trans-continental
+stockholm environment institute	university of london	2	['2017', '2017']	trans-continental
+stockholm environment institute	duke university	2	['2017', '2017']	domestic
+stockholm environment institute	potsdam institute for climate impact research	3	['2018', '2018', '2018']	trans-continental
+mcmaster university	university of toronto	2	['2013', '2017']	domestic
+university of maryland baltimore	rti international	2	['2010', '2017']	domestic
+university of lisbon	universidade nova de lisboa	2	['2009', '2014']	domestic
+jomo kenyatta university of agriculture and technology	kenya medical research institute	3	['2011', '2015', '2016']	domestic
+cawthron institute	environment canterbury	2	['2010', '2010']	domestic
+international water management institute	australian national university	3	['2012', '2016', '2017']	trans-continental
+international water management institute	cgiar	2	['2016', '2017']	trans-continental
+international water management institute	bioversity international	2	['2016', '2017']	trans-continental
+university of malawi	university of london	5	['2016', '2016', '2016', '2016', '2018']	trans-continental
+university of malawi	columbia university	3	['2011', '2013', '2017']	trans-continental
+university of malawi	university of toronto	2	['2016', '2017']	trans-continental
+university of malawi	university of california san francisco	2	['2014', '2018']	trans-continental
+university of malawi	university of namibia	2	['2014', '2015']	international
+university of malawi	university of strathclyde	3	['2009', '2011', '2018']	trans-continental
+university of basel	swiss federal institute of aquatic science and technology	2	['2017', '2018']	domestic
+university of basel	karolinska institutet	2	['2013', '2015']	international
+university of basel	swiss tropical and public health institute	10	['2013', '2013', '2015', '2015', '2016', '2016', '2017', '2018', '2018', '2018']	domestic
+finnish environment institute	university of eastern finland	2	['2014', '2018']	domestic
+charles sturt university	university of california	2	['2017', '2017']	international
+march of dimes	university of london	2	['2013', '2016']	trans-continental
+massachusetts institute of technology	university of california berkeley	2	['2009', '2011']	domestic
+massachusetts institute of technology	purdue university	2	['2009', '2015']	domestic
+massachusetts institute of technology	united nations	3	['2014', '2016', '2016']	domestic
+massachusetts institute of technology	masdar institute of science and technology	2	['2015', '2017']	trans-continental
+chinese academy of sciences	australian national university	4	['2016', '2017', '2018', '2018']	trans-continental
+chinese academy of sciences	wageningen university and research centre	2	['2015', '2017']	trans-continental
+chinese academy of sciences	south china agricultural university	3	['2009', '2015', '2018']	domestic
+chinese academy of sciences	purdue university	4	['2009', '2010', '2010', '2018']	trans-continental
+chinese academy of sciences	jilin university	2	['2012', '2018']	domestic
+chinese academy of sciences	sun yat sen university	3	['2015', '2017', '2018']	domestic
+chinese academy of sciences	university of guelph	2	['2016', '2017']	trans-continental
+chinese academy of sciences	university of sydney	2	['2016', '2018']	trans-continental
+chinese academy of sciences	center for excellence in education	2	['2017', '2018']	trans-continental
+united nations	university of cape town	2	['2013', '2018']	trans-continental
+united nations	australian national university	2	['2011', '2014']	trans-continental
+united nations	united nations development programme	3	['2011', '2015', '2016']	domestic
+united nations	university of london	4	['2013', '2015', '2015', '2017']	trans-continental
+united nations	columbia university	2	['2009', '2015']	domestic
+united nations	tokyo institute of technology	2	['2014', '2014']	trans-continental
+united nations	university of new south wales	2	['2017', '2017']	trans-continental
+medical research council	university of cape town	5	['2009', '2012', '2013', '2014', '2018']	trans-continental
+medical research council	university of london	5	['2010', '2011', '2014', '2014', '2015']	trans-continental
+medical research council	columbia university	2	['2009', '2012']	international
+medical research council	university of the western cape	3	['2009', '2009', '2014']	trans-continental
+medical research council	stellenbosch university	2	['2014', '2014']	trans-continental
+medical research council	university of ghana	2	['2009', '2010']	trans-continental
+medical research council	university of the witwatersrand	3	['2009', '2009', '2012']	trans-continental
+medical research council	centre for the aids programme of research in south africa	2	['2009', '2012']	trans-continental
+office of environment and heritage	conservation international	2	['2016', '2018']	trans-continental
+office of environment and heritage	australian museum	2	['2016', '2018']	domestic
+denver federal center	united states geological survey	2	['2009', '2018']	domestic
+university of michigan	university of california berkeley	2	['2012', '2013']	domestic
+university of michigan	university of sao paulo	2	['2017', '2018']	trans-continental
+university of michigan	united nations development programme	2	['2014', '2016']	domestic
+university of michigan	university of london	2	['2016', '2017']	trans-continental
+university of michigan	columbia university	3	['2009', '2011', '2016']	domestic
+university of michigan	university of ghana	3	['2011', '2012', '2013']	trans-continental
+university of michigan	national oceanic and atmospheric administration	2	['2016', '2017']	domestic
+university of michigan	maastricht university	2	['2016', '2017']	trans-continental
+john snow inc	united states agency for international development	2	['2009', '2017']	domestic
+world wide fund for nature	australian national university	2	['2012', '2016']	trans-continental
+world wide fund for nature	griffith university	2	['2016', '2018']	trans-continental
+world wide fund for nature	university of california davis	2	['2012', '2013']	domestic
+world wide fund for nature	university of queensland	4	['2012', '2013', '2016', '2018']	domestic
+university of atlanta	university of nairobi	2	['2016', '2017']	trans-continental
+northwestern university	university of london	2	['2016', '2016']	trans-continental
+northwestern university	duke university	3	['2016', '2016', '2017']	domestic
+northwestern university	university of toronto	2	['2016', '2018']	international
+northwestern university	boston children s hospital	2	['2016', '2017']	domestic
+mediterranea university of reggio calabria	san diego state university	2	['2014', '2014']	trans-continental
+university of sao paulo	university of cape town	2	['2011', '2017']	trans-continental
+university of sao paulo	sao paulo state university	2	['2012', '2015']	domestic
+university of sao paulo	federal university of sao carlos	2	['2012', '2015']	domestic
+university of sao paulo	oswaldo cruz foundation	4	['2014', '2014', '2017', '2018']	domestic
+university of sao paulo	universidade nova de lisboa	2	['2015', '2017']	trans-continental
+university of sao paulo	oak ridge national laboratory	2	['2015', '2017']	trans-continental
+university of sao paulo	federal university of bahia	3	['2016', '2017', '2018']	domestic
+university of gloucestershire	university of new south wales	2	['2017', '2018']	trans-continental
+united nations environment programme	conservation international	2	['2015', '2016']	domestic
+united nations environment programme	national oceanic and atmospheric administration	2	['2017', '2018']	domestic
+assiut university	university of california san francisco	2	['2010', '2013']	trans-continental
+boston children s hospital	university of cape town	3	['2014', '2014', '2018']	trans-continental
+boston children s hospital	university of virginia	2	['2013', '2017']	domestic
+boston children s hospital	university of london	3	['2010', '2013', '2016']	trans-continental
+boston children s hospital	duke university	2	['2016', '2017']	domestic
+boston children s hospital	university of the witwatersrand	2	['2010', '2017']	trans-continental
+medecins sans frontieres	university of london	4	['2011', '2013', '2016', '2018']	trans-continental
+ohio state university	university of vermont	3	['2011', '2017', '2017']	domestic
+umea centre for global health research	university of the witwatersrand	2	['2013', '2015']	trans-continental
+university of papua new guinea	university of melbourne	3	['2009', '2010', '2013']	international
+food and agriculture organization	united states department of agriculture	2	['2010', '2014']	domestic
+food and agriculture organization	wageningen university and research centre	2	['2014', '2018']	trans-continental
+united states department of agriculture	university of california berkeley	2	['2011', '2018']	domestic
+united states department of agriculture	university of california davis	2	['2014', '2018']	domestic
+united states department of agriculture	washington state university	2	['2010', '2014']	domestic
+united states department of agriculture	wageningen university and research centre	4	['2010', '2011', '2014', '2015']	trans-continental
+united states department of agriculture	duke university	2	['2011', '2016']	domestic
+united states department of agriculture	university of alaska fairbanks	2	['2011', '2016']	domestic
+georgetown university law center	university of toronto	2	['2013', '2014']	international
+georgetown university law center	institute of tropical medicine antwerp	2	['2011', '2013']	trans-continental
+georgetown university law center	university of nairobi	2	['2013', '2014']	trans-continental
+simon fraser university	university of east anglia	2	['2016', '2017']	trans-continental
+pacific northwest university of health sciences	university of utah	2	['2016', '2016']	domestic
+pacific northwest university of health sciences	addis ababa university	2	['2016', '2016']	trans-continental
+university of massachusetts amherst	university of california berkeley	2	['2015', '2016']	domestic
+edith cowan university	australian national university	2	['2011', '2012']	domestic
+asian development bank	brookings institution	2	['2013', '2014']	domestic
+university of wollongong	university of new south wales	2	['2013', '2017']	domestic
+martin luther university of halle wittenberg	international center for tropical agriculture	2	['2017', '2018']	trans-continental
+martin luther university of halle wittenberg	florida museum of natural history	2	['2018', '2018']	trans-continental
+vu university amsterdam	wageningen university and research centre	2	['2009', '2018']	domestic
+hanoi university	australian national university	2	['2018', '2018']	trans-continental
+hanoi university	university of queensland	2	['2018', '2018']	trans-continental
+university of rhode island	duke university	2	['2016', '2016']	domestic
+university of rhode island	conservation international	2	['2016', '2016']	domestic
+university of rhode island	national oceanic and atmospheric administration	2	['2016', '2016']	domestic
+university of rhode island	san diego state university	2	['2016', '2016']	domestic
+university of rhode island	university of alaska fairbanks	2	['2016', '2016']	domestic
+university of california davis	university of california berkeley	3	['2013', '2016', '2018']	domestic
+university of california davis	australian national university	2	['2012', '2016']	trans-continental
+university of california davis	washington state university	2	['2012', '2014']	domestic
+university of california davis	university of copenhagen	2	['2014', '2015']	trans-continental
+university of nairobi	university of london	2	['2014', '2017']	trans-continental
+university of nairobi	university of queensland	2	['2017', '2017']	trans-continental
+university of nairobi	university of toronto	5	['2013', '2013', '2014', '2017', '2017']	trans-continental
+university of nairobi	institute of tropical medicine antwerp	2	['2013', '2017']	trans-continental
+university of nairobi	indian ministry of environment and forests	2	['2013', '2013']	trans-continental
+university of nairobi	university of the witwatersrand	2	['2013', '2014']	international
+university of adelaide	university of bristol	2	['2017', '2018']	trans-continental
+university of adelaide	royal tropical institute	2	['2017', '2018']	trans-continental
+princess margaret cancer centre	university of toronto	2	['2015', '2016']	domestic
+tilburg university	wageningen university and research centre	3	['2011', '2012', '2012']	domestic
+national university of rwanda	duke university	2	['2012', '2018']	trans-continental
+national university of rwanda	partners in health	2	['2011', '2016']	trans-continental
+national university of rwanda	university of namibia	2	['2015', '2018']	international
+rti international	makerere university	2	['2015', '2016']	trans-continental
+rti international	university of london	2	['2016', '2018']	trans-continental
+rti international	the george institute for global health	2	['2018', '2018']	international
+carter center	university of california san francisco	2	['2012', '2018']	domestic
+partners in health	columbia university	2	['2013', '2017']	domestic
+university of porto	kaduna state university	2	['2014', '2015']	trans-continental
+university of chile	university of the western cape	2	['2017', '2018']	trans-continental
+university of chile	auckland university of technology	3	['2017', '2018', '2018']	trans-continental
+university of delhi	university of manchester	2	['2009', '2010']	trans-continental
+united nations development programme	global environment facility	2	['2011', '2014']	domestic
+university of pittsburgh	duke university	2	['2012', '2016']	domestic
+american university	university of new mexico	2	['2014', '2016']	domestic
+duke university	university of miami	2	['2015', '2016']	domestic
+duke university	university of california berkeley	2	['2011', '2016']	domestic
+duke university	australian national university	2	['2016', '2018']	trans-continental
+duke university	university of london	5	['2016', '2016', '2017', '2017', '2018']	trans-continental
+duke university	university of alaska fairbanks	4	['2011', '2016', '2016', '2018']	domestic
+duke university	conservation international	3	['2013', '2016', '2016']	domestic
+duke university	national oceanic and atmospheric administration	4	['2013', '2016', '2016', '2018']	domestic
+duke university	san diego state university	2	['2016', '2016']	domestic
+duke university	university of california san francisco	2	['2016', '2016']	domestic
+royal tropical institute	university of bristol	2	['2017', '2018']	international
+uppsala university	karolinska institutet	3	['2011', '2013', '2014']	domestic
+uppsala university	fudan university	2	['2013', '2014']	trans-continental
+maastricht university medical centre	maastricht university	2	['2015', '2016']	domestic
+columbia university	university of california berkeley	3	['2014', '2017', '2018']	domestic
+columbia university	federal university of rio de janeiro	2	['2010', '2014']	trans-continental
+columbia university	university of cape town	2	['2009', '2012']	trans-continental
+columbia university	national autonomous university of mexico	3	['2012', '2014', '2016']	international
+columbia university	wageningen university and research centre	3	['2012', '2015', '2016']	trans-continental
+columbia university	international center for tropical agriculture	2	['2016', '2018']	domestic
+columbia university	university of london	4	['2010', '2010', '2015', '2017']	trans-continental
+columbia university	university of toronto	4	['2009', '2015', '2017', '2017']	international
+columbia university	university of the witwatersrand	4	['2009', '2010', '2012', '2016']	trans-continental
+columbia university	centre for the aids programme of research in south africa	2	['2009', '2012']	trans-continental
+columbia university	university of the western cape	3	['2009', '2011', '2015']	trans-continental
+columbia university	university of ghana	2	['2011', '2015']	trans-continental
+columbia university	bioversity international	6	['2012', '2016', '2016', '2017', '2018', '2018']	trans-continental
+columbia university	stockholm resilience centre	2	['2014', '2016']	trans-continental
+columbia university	potsdam institute for climate impact research	3	['2014', '2017', '2018']	trans-continental
+columbia university	university of arizona	2	['2014', '2018']	domestic
+columbia university	addis ababa university	2	['2015', '2018']	trans-continental
+columbia university	rothamsted research	2	['2015', '2016']	trans-continental
+columbia university	new york university	4	['2016', '2016', '2017', '2017']	domestic
+columbia university	washington state university	2	['2016', '2018']	domestic
+columbia university	netherlands environmental assessment agency	2	['2017', '2018']	trans-continental
+university of potsdam	potsdam institute for climate impact research	2	['2017', '2018']	domestic
+swiss tropical and public health institute	university of cape town	3	['2013', '2017', '2017']	trans-continental
+swiss tropical and public health institute	makerere university	2	['2013', '2015']	trans-continental
+swiss tropical and public health institute	university of london	2	['2013', '2017']	international
+swiss tropical and public health institute	university of dar es salaam	2	['2013', '2013']	trans-continental
+swiss tropical and public health institute	karolinska institutet	2	['2013', '2015']	international
+university of southampton	university of exeter	3	['2015', '2016', '2018']	domestic
+university of southampton	kenya medical research institute	2	['2017', '2018']	trans-continental
+university of southampton	university of bristol	2	['2011', '2012']	domestic
+university of southampton	university of the witwatersrand	2	['2010', '2017']	trans-continental
+university of southampton	university of dundee	2	['2014', '2016']	domestic
+university of southampton	university of london	3	['2016', '2016', '2017']	domestic
+university of guelph	university of nottingham	2	['2013', '2017']	trans-continental
+university of california san diego	university of toronto	2	['2014', '2017']	international
+new york university	university of virginia	2	['2011', '2012']	domestic
+new york university	prevention institute	2	['2016', '2016']	domestic
+cgiar	university of cape town	2	['2016', '2017']	trans-continental
+cgiar	wageningen university and research centre	2	['2014', '2015']	trans-continental
+cgiar	university of vermont	2	['2014', '2017']	domestic
+cgiar	washington state university	2	['2014', '2016']	domestic
+cgiar	university of copenhagen	2	['2014', '2018']	trans-continental
+cgiar	bioversity international	2	['2016', '2017']	trans-continental
+cgiar	international livestock research institute	3	['2017', '2018', '2018']	trans-continental
+university of vermont	wageningen university and research centre	2	['2014', '2018']	trans-continental
+mathematica policy research	university of california berkeley	2	['2016', '2018']	domestic
+netherlands environmental assessment agency	wageningen university and research centre	5	['2015', '2017', '2017', '2017', '2018']	domestic
+netherlands environmental assessment agency	potsdam institute for climate impact research	6	['2014', '2016', '2017', '2017', '2018', '2018']	international
+university of london	university of california berkeley	2	['2009', '2016']	trans-continental
+university of london	university of cape town	9	['2010', '2012', '2013', '2014', '2016', '2017', '2018', '2018', '2018']	trans-continental
+university of london	university of east anglia	3	['2018', '2018', '2018']	domestic
+university of london	university of otago	2	['2014', '2015']	trans-continental
+university of london	australian national university	2	['2009', '2010']	trans-continental
+university of london	university of oslo	2	['2010', '2018']	international
+university of london	makerere university	2	['2016', '2018']	trans-continental
+university of london	university of york	2	['2010', '2017']	domestic
+university of london	university of california san francisco	5	['2010', '2011', '2016', '2018', '2018']	trans-continental
+university of london	university of the western cape	3	['2011', '2013', '2015']	trans-continental
+university of london	university of bristol	2	['2017', '2018']	domestic
+university of london	university of toronto	8	['2010', '2014', '2016', '2016', '2016', '2016', '2017', '2017']	trans-continental
+university of london	south african medical research council	3	['2013', '2017', '2018']	trans-continental
+university of london	institute of tropical medicine antwerp	4	['2010', '2015', '2017', '2018']	international
+university of london	university of queensland	2	['2011', '2017']	trans-continental
+university of london	karolinska institutet	4	['2011', '2013', '2017', '2018']	international
+university of london	ministry of health and social welfare	2	['2015', '2016']	trans-continental
+university of london	university of melbourne	4	['2010', '2012', '2017', '2018']	trans-continental
+university of london	university of the witwatersrand	10	['2009', '2010', '2013', '2014', '2015', '2015', '2016', '2017', '2018', '2018']	trans-continental
+university of london	university of liverpool	3	['2009', '2014', '2016']	domestic
+university of london	royal children s hospital	2	['2010', '2012']	trans-continental
+university of london	graduate institute of international and development studies	2	['2012', '2017']	international
+university of london	pan american health organization	4	['2012', '2013', '2016', '2018']	trans-continental
+university of london	university of copenhagen	2	['2012', '2013']	international
+university of london	mahidol university	2	['2013', '2014']	trans-continental
+university of london	ministry of health and family welfare	2	['2014', '2016']	trans-continental
+university of london	united states agency for international development	2	['2014', '2017']	trans-continental
+university of london	public health foundation of india	2	['2014', '2017']	trans-continental
+university of london	sichuan university	4	['2015', '2015', '2016', '2017']	trans-continental
+university of london	norwegian institute of public health	2	['2016', '2017']	international
+university of london	university of utah	2	['2016', '2018']	trans-continental
+university of london	the george institute for global health	2	['2016', '2018']	trans-continental
+university of london	international livestock research institute	3	['2017', '2017', '2018']	trans-continental
+university of london	heidelberg university	2	['2017', '2017']	trans-continental
+university of london	international organization for migration	2	['2018', '2018']	trans-continental
+mcgill university	council for scientific and industrial research	2	['2012', '2012']	domestic
+mcgill university	university of ghana	2	['2012', '2012']	trans-continental
+university of glasgow	washington state university	2	['2017', '2018']	trans-continental
+universiti tunku abdul rahman	heriot watt university	2	['2017', '2018']	trans-continental
+institute of tropical medicine antwerp	makerere university	2	['2013', '2018']	trans-continental
+institute of tropical medicine antwerp	university of queensland	3	['2014', '2015', '2017']	trans-continental
+institute of tropical medicine antwerp	university of toronto	2	['2013', '2017']	trans-continental
+institute of tropical medicine antwerp	university of the western cape	2	['2011', '2015']	trans-continental
+oak ridge national laboratory	conservation international	2	['2015', '2016']	domestic
+karolinska institutet	makerere university	4	['2013', '2015', '2015', '2018']	trans-continental
+karolinska institutet	university of ottawa	2	['2009', '2010']	trans-continental
+karolinska institutet	fudan university	3	['2013', '2013', '2014']	trans-continental
+st george s university of london	university of nottingham	2	['2010', '2011']	domestic
+centre for the aids programme of research in south africa	university of cape town	3	['2009', '2012', '2012']	domestic
+centre for the aids programme of research in south africa	university of the witwatersrand	2	['2009', '2012']	domestic
+sichuan university	chinese center for disease control and prevention	2	['2016', '2018']	domestic
+hanoi school of public health	seoul national university hospital	2	['2016', '2016']	trans-continental
+university of copenhagen	wageningen university and research centre	2	['2014', '2018']	international
+university of copenhagen	university of new south wales	2	['2015', '2017']	trans-continental
+university of canberra	griffith university	2	['2012', '2018']	domestic
+university of canberra	university of melbourne	2	['2018', '2018']	domestic
+national oceanic and atmospheric administration	conservation international	3	['2016', '2016', '2017']	domestic
+national oceanic and atmospheric administration	university of alaska fairbanks	3	['2016', '2016', '2018']	domestic
+national oceanic and atmospheric administration	san diego state university	2	['2016', '2016']	domestic
+national oceanic and atmospheric administration	marine biological association of the united kingdom	2	['2017', '2018']	trans-continental
+university of toledo	temple university	2	['2017', '2017']	domestic
+university of toledo	summa health system	2	['2017', '2017']	domestic
+wageningen university and research centre	national autonomous university of mexico	2	['2012', '2016']	trans-continental
+wageningen university and research centre	international livestock research institute	2	['2009', '2016']	trans-continental
+wageningen university and research centre	institut national de la recherche agronomique	5	['2009', '2013', '2014', '2018', '2018']	trans-continental
+wageningen university and research centre	washington state university	2	['2010', '2014']	trans-continental
+wageningen university and research centre	potsdam institute for climate impact research	3	['2011', '2017', '2018']	international
+wageningen university and research centre	international center for tropical agriculture	2	['2011', '2017']	trans-continental
+wageningen university and research centre	bioversity international	3	['2012', '2016', '2018']	international
+wageningen university and research centre	university of nottingham	2	['2015', '2018']	international
+wageningen university and research centre	rothamsted research	4	['2015', '2015', '2018', '2018']	international
+wageningen university and research centre	world resources institute	2	['2017', '2018']	trans-continental
+wageningen university and research centre	cranfield university	2	['2018', '2018']	international
+icahn school of medicine at mount sinai	public health foundation of india	3	['2011', '2012', '2016']	trans-continental
+summa health system	temple university	2	['2017', '2017']	domestic
+university of california	university of nottingham	2	['2011', '2015']	trans-continental
+university of toronto	university of cape town	3	['2014', '2014', '2018']	trans-continental
+university of toronto	university of queensland	6	['2015', '2017', '2017', '2017', '2017', '2018']	international
+university of toronto	university of california san francisco	2	['2015', '2016']	international
+university of toronto	moi university	2	['2013', '2017']	international
+university of toronto	stellenbosch university	3	['2013', '2014', '2014']	trans-continental
+university of toronto	university of bergen	2	['2015', '2017']	trans-continental
+norwegian institute of public health	university of bergen	3	['2011', '2012', '2016']	domestic
+empresa brasileira de pesquisa agropecuaria	federal university of rio de janeiro	2	['2014', '2014']	domestic
+university of east anglia	university of cape town	3	['2011', '2017', '2017']	trans-continental
+university of east anglia	university of exeter	3	['2011', '2013', '2018']	domestic
+university of east anglia	rothamsted research	2	['2011', '2018']	domestic
+university of east anglia	university of oslo	2	['2013', '2013']	international
+university of east anglia	university of bristol	2	['2018', '2018']	domestic
+university of exeter	university of cape town	2	['2016', '2017']	trans-continental
+university of exeter	rothamsted research	2	['2011', '2018']	domestic
+university of exeter	university of york	2	['2015', '2017']	domestic
+agro paristech	institut national de la recherche agronomique	4	['2010', '2013', '2016', '2017']	trans-continental
+technical university of berlin	potsdam institute for climate impact research	4	['2016', '2016', '2017', '2018']	domestic
+university of southern california	australian national university	2	['2010', '2012']	trans-continental
+university of southern california	rand corporation	2	['2011', '2012']	domestic
+royal children s hospital	university of melbourne	5	['2009', '2012', '2012', '2013', '2018']	trans-continental
+royal children s hospital	university of the witwatersrand	2	['2010', '2012']	trans-continental
+university of arizona	university of california berkeley	2	['2014', '2018']	domestic
+university of arizona	national autonomous university of mexico	2	['2011', '2014']	international
+potsdam institute for climate impact research	stockholm resilience centre	2	['2014', '2016']	international
+universidade nova de lisboa	university of cape town	2	['2011', '2017']	trans-continental
+universidade nova de lisboa	university of coimbra	2	['2013', '2018']	domestic
+universidade nova de lisboa	university of strathclyde	2	['2016', '2018']	international
+stellenbosch university	university of cape town	8	['2011', '2012', '2014', '2014', '2016', '2016', '2017', '2018']	domestic
+stellenbosch university	university of queensland	2	['2011', '2017']	trans-continental
+stellenbosch university	university of the western cape	2	['2014', '2016']	domestic
+stellenbosch university	conservation international	2	['2016', '2017']	trans-continental
+stellenbosch university	council for scientific and industrial research	2	['2011', '2017']	trans-continental
+stellenbosch university	university of the witwatersrand	3	['2011', '2017', '2018']	domestic
+stellenbosch university	stockholm resilience centre	2	['2015', '2017']	trans-continental
+university of new mexico	united states geological survey	2	['2015', '2016']	domestic
+university of new mexico	university of alaska fairbanks	2	['2011', '2015']	domestic
+university of bergen	university of queensland	4	['2014', '2014', '2014', '2017']	trans-continental
+university of bergen	university of california san francisco	2	['2014', '2015']	trans-continental
+stockholm resilience centre	australian national university	3	['2016', '2016', '2017']	trans-continental
+united states geological survey	carleton university	2	['2016', '2017']	international
+united states geological survey	university of alaska fairbanks	2	['2015', '2018']	domestic
+bioversity international	national autonomous university of mexico	2	['2012', '2016']	trans-continental
+bioversity international	international center for tropical agriculture	2	['2016', '2018']	trans-continental
+bioversity international	washington state university	2	['2016', '2018']	trans-continental
+university of liege	katholieke universiteit leuven	2	['2014', '2018']	domestic
+university of johannesburg	university of otago	2	['2012', '2014']	trans-continental
+university of eastern finland	conservation international	2	['2017', '2018']	trans-continental
+university of limpopo	university of cape town	2	['2012', '2016']	domestic
+university of health and allied sciences	university of ghana	2	['2016', '2016']	trans-continental
+university of nottingham	rothamsted research	3	['2015', '2015', '2018']	domestic
+university of the witwatersrand	university of cape town	14	['2009', '2009', '2009', '2011', '2012', '2016', '2016', '2016', '2016', '2016', '2017', '2018', '2018', '2018']	domestic
+university of the witwatersrand	university of melbourne	2	['2012', '2017']	trans-continental
+university of the witwatersrand	university of california san francisco	2	['2013', '2018']	trans-continental
+university of the witwatersrand	university of the western cape	4	['2009', '2009', '2009', '2015']	domestic
+university of the witwatersrand	heidelberg university	2	['2013', '2018']	trans-continental
+university of the witwatersrand	university of ghana	3	['2015', '2017', '2017']	international
+university of california san francisco	makerere university	2	['2018', '2018']	trans-continental
+university of california san francisco	university of utah	3	['2015', '2016', '2018']	domestic
+council for scientific and industrial research	university of ghana	2	['2012', '2012']	trans-continental
+conservation international	university of cape town	2	['2016', '2017']	trans-continental
+conservation international	university of queensland	2	['2016', '2017']	domestic
+conservation international	university of alaska fairbanks	2	['2016', '2016']	domestic
+conservation international	san diego state university	2	['2016', '2016']	domestic
+conservation international	australian museum	2	['2016', '2018']	trans-continental
+pan american health organization	oswaldo cruz foundation	2	['2016', '2018']	trans-continental
+addis ababa university	university of utah	2	['2016', '2016']	trans-continental
+university of the western cape	university of cape town	7	['2009', '2009', '2013', '2014', '2014', '2016', '2016']	domestic
+university of the western cape	south african medical research council	4	['2011', '2013', '2016', '2016']	trans-continental
+university of the western cape	auckland university of technology	2	['2017', '2018']	trans-continental
+university of queensland	australian national university	5	['2012', '2016', '2017', '2018', '2018']	trans-continental
+university of queensland	griffith university	7	['2013', '2015', '2016', '2016', '2016', '2018', '2018']	trans-continental
+university of queensland	university of melbourne	5	['2013', '2013', '2013', '2015', '2018']	trans-continental
+university of queensland	university of sydney	2	['2012', '2017']	trans-continental
+university of queensland	heidelberg university	2	['2014', '2017']	domestic
+university of queensland	australian museum	2	['2015', '2016']	trans-continental
+university of queensland	university of new south wales	2	['2015', '2017']	trans-continental
+federal university of bahia	oswaldo cruz foundation	3	['2017', '2018', '2018']	domestic
+free university of berlin	australian national university	2	['2016', '2018']	trans-continental
+free university of berlin	university of tubingen	2	['2015', '2017']	domestic
+makerere university	johns hopkins university school of medicine	2	['2011', '2018']	trans-continental
+griffith university	australian national university	2	['2011', '2016']	domestic
+griffith university	university of melbourne	2	['2013', '2018']	domestic
+griffith university	australian museum	2	['2015', '2016']	domestic
+griffith university	university of new south wales	2	['2015', '2016']	domestic
+state university of campinas	australian national university	2	['2017', '2017']	trans-continental
+international center for tropical agriculture	washington state university	2	['2016', '2018']	domestic
+university of york	australian national university	2	['2010', '2016']	trans-continental
+university of new south wales	university of sydney	7	['2015', '2016', '2016', '2017', '2017', '2017', '2018']	domestic
+san diego state university	university of alaska fairbanks	2	['2016', '2016']	domestic
+public health foundation of india	mahidol university	2	['2012', '2015']	international
+university of cape town	university of sydney	2	['2016', '2018']	trans-continental
+university of cape town	south african medical research council	3	['2013', '2016', '2016']	trans-continental
+university of cape town	university of melbourne	2	['2018', '2018']	trans-continental
+university of zagreb	university of split	2	['2011', '2012']	domestic
+the george institute for global health	university of sydney	2	['2017', '2018']	trans-continental
+university of melbourne	australian national university	4	['2016', '2017', '2018', '2018']	domestic
+university of melbourne	university of sydney	2	['2017', '2018']	domestic
+university of melbourne	university of split	2	['2010', '2011']	trans-continental
+australian national university	university of sydney	5	['2016', '2016', '2017', '2018', '2018']	domestic

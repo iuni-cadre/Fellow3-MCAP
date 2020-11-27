@@ -1,0 +1,1400 @@
+chalmers university of technology	swedish institute for food and biotechnology	1	['1998']	domestic
+swedish institute for food and biotechnology	ecotrust	1	['2007']	trans-continental
+swedish institute for food and biotechnology	dalhousie university	1	['2007']	trans-continental
+indiana university	university of california berkeley	1	['2001']	domestic
+university of california berkeley	lawrence berkeley national laboratory	2	['1999', '1999']	domestic
+university of california berkeley	federal university of rio de janeiro	1	['1999']	trans-continental
+university of california berkeley	university of cape town	1	['1999']	trans-continental
+university of california berkeley	united states environmental protection agency	1	['1999']	domestic
+university of california berkeley	indian institute of science	1	['1999']	trans-continental
+university of california berkeley	national autonomous university of mexico	1	['1999']	international
+university of california berkeley	university of pennsylvania	1	['2007']	domestic
+university of california berkeley	university of toronto	1	['2007']	international
+university of california berkeley	university of maryland baltimore	1	['2007']	domestic
+university of california berkeley	emory university	1	['2007']	domestic
+university of california berkeley	dartmouth college	1	['2006']	domestic
+university of california berkeley	international monetary fund	1	['2005']	domestic
+university of california berkeley	university of michigan	1	['2008']	domestic
+university of california berkeley	environmental defense fund	1	['1998']	domestic
+university of california berkeley	international institute for environment and development	1	['2008']	international
+university of california berkeley	microsoft	1	['2006']	domestic
+university of california berkeley	national bureau of economic research	1	['2007']	domestic
+university of california berkeley	shelter insurance	1	['2007']	domestic
+university of california berkeley	university of california	1	['2008']	domestic
+university of california berkeley	monterey institute of international studies	1	['2008']	domestic
+university of california berkeley	health effects institute	1	['2006']	domestic
+university of california berkeley	lahore university of management sciences	1	['2007']	trans-continental
+lawrence berkeley national laboratory	federal university of rio de janeiro	1	['1999']	trans-continental
+lawrence berkeley national laboratory	indian institute of science	2	['2002', '1999']	trans-continental
+lawrence berkeley national laboratory	university of tennessee	1	['2005']	domestic
+lawrence berkeley national laboratory	university of cape town	1	['1999']	trans-continental
+lawrence berkeley national laboratory	united states environmental protection agency	1	['1999']	domestic
+lawrence berkeley national laboratory	national autonomous university of mexico	1	['1999']	international
+lawrence berkeley national laboratory	university of california san diego	1	['1999']	domestic
+federal university of rio de janeiro	harvard university	1	['2001']	trans-continental
+federal university of rio de janeiro	university of sao paulo	1	['2001']	domestic
+federal university of rio de janeiro	federal university of sao paulo	1	['2001']	domestic
+federal university of rio de janeiro	university of cape town	1	['1999']	trans-continental
+federal university of rio de janeiro	united states environmental protection agency	1	['1999']	trans-continental
+federal university of rio de janeiro	indian institute of science	1	['1999']	trans-continental
+federal university of rio de janeiro	national autonomous university of mexico	1	['1999']	trans-continental
+federal university of rio de janeiro	university of california san diego	1	['1999']	trans-continental
+university of cape town	oregon state university	1	['2003']	trans-continental
+university of cape town	wageningen university and research centre	1	['2003']	trans-continental
+university of cape town	international atomic energy agency	1	['2008']	trans-continental
+university of cape town	pontifical catholic university of chile	1	['2003']	trans-continental
+university of cape town	indian institute of science	1	['1999']	trans-continental
+university of cape town	university of california santa barbara	1	['2003']	trans-continental
+university of cape town	united states environmental protection agency	1	['1999']	trans-continental
+university of cape town	national autonomous university of mexico	1	['1999']	trans-continental
+university of cape town	university of california san diego	1	['1999']	trans-continental
+university of cape town	international institute for environment and development	1	['2003']	trans-continental
+university of cape town	united nations environment programme	1	['2003']	trans-continental
+university of cape town	curtin university	1	['2007']	trans-continental
+university of cape town	university college dublin	1	['2007']	trans-continental
+university of cape town	university of sydney	1	['2008']	trans-continental
+university of cape town	stellenbosch university	1	['1998']	domestic
+university of cape town	international union for conservation of nature and natural resources	1	['2008']	trans-continental
+university of cape town	plymouth university	1	['2008']	trans-continental
+university of cape town	university of adelaide	1	['2003']	trans-continental
+university of cape town	university of york	1	['2003']	trans-continental
+university of cape town	national marine fisheries service	1	['2003']	trans-continental
+university of cape town	overseas development institute	1	['2008']	trans-continental
+united states environmental protection agency	university of melbourne	2	['2005', '2008']	trans-continental
+united states environmental protection agency	indian institute of science	1	['1999']	trans-continental
+united states environmental protection agency	monash university	1	['2008']	trans-continental
+united states environmental protection agency	monsanto	1	['2008']	domestic
+united states environmental protection agency	calvin college	1	['2008']	domestic
+united states environmental protection agency	national autonomous university of mexico	1	['1999']	international
+united states environmental protection agency	university of california san diego	1	['1999']	domestic
+united states environmental protection agency	university of georgia	2	['2002', '2008']	domestic
+indian institute of science	national autonomous university of mexico	1	['1999']	trans-continental
+indian institute of science	university of california san diego	1	['1999']	trans-continental
+national autonomous university of mexico	university of california davis	1	['2003']	international
+national autonomous university of mexico	university of east anglia	1	['2007']	trans-continental
+national autonomous university of mexico	university of california san diego	1	['1999']	international
+national autonomous university of mexico	universidad michoacana de san nicolas de hidalgo	2	['2008', '2003']	domestic
+national autonomous university of mexico	brandeis university	1	['2007']	international
+national autonomous university of mexico	university of geneva	1	['2003']	trans-continental
+national autonomous university of mexico	international center for tropical agriculture	1	['2003']	international
+national autonomous university of mexico	chapingo autonomous university	1	['2003']	domestic
+national autonomous university of mexico	delaware state university	1	['2007']	international
+national autonomous university of mexico	smithsonian tropical research institute	1	['2007']	international
+university of pennsylvania	unicef	1	['2007']	domestic
+university of pennsylvania	university of toronto	1	['2007']	international
+university of pennsylvania	world bank	1	['2007']	domestic
+university of pennsylvania	united nations	1	['2006']	domestic
+university of pennsylvania	emory university	1	['2007']	domestic
+university of pennsylvania	levy economics institute	1	['2006']	domestic
+university of pennsylvania	world health organization	1	['2007']	domestic
+university of pennsylvania	university of maryland baltimore	1	['2007']	domestic
+university of toronto	university of california davis	2	['2008', '2007']	international
+university of toronto	unicef	1	['2007']	international
+university of toronto	university of brasilia	1	['2005']	trans-continental
+university of toronto	university of auckland	2	['2008', '2007']	trans-continental
+university of toronto	south african medical research council	1	['2007']	international
+university of toronto	world health organization	1	['2007']	international
+university of toronto	university of maryland baltimore	2	['2007', '2007']	international
+university of toronto	world bank	2	['2007', '2007']	international
+university of toronto	emory university	1	['2007']	international
+university of toronto	university of the free state	1	['2006']	trans-continental
+university of toronto	university of north carolina at chapel hill	1	['2007']	international
+university of toronto	university of cambridge	1	['2007']	trans-continental
+university of toronto	university of manitoba	1	['2005']	domestic
+university of toronto	university of edinburgh	2	['2008', '2007']	trans-continental
+university of toronto	university of the philippines	2	['2008', '2007']	trans-continental
+university of toronto	medical research council	1	['2008']	domestic
+university of toronto	universite du quebec a montreal	1	['2007']	domestic
+university of toronto	save the children	1	['2007']	international
+university of toronto	university of the west indies	1	['2007']	international
+university of toronto	international centre for diarrhoeal disease research bangladesh	1	['2007']	trans-continental
+university of maryland baltimore	university of london	1	['2007']	trans-continental
+university of maryland baltimore	university of california davis	1	['2007']	domestic
+university of maryland baltimore	unicef	1	['2007']	domestic
+university of maryland baltimore	university of auckland	1	['2007']	trans-continental
+university of maryland baltimore	south african medical research council	1	['2007']	domestic
+university of maryland baltimore	world bank	1	['2007']	domestic
+university of maryland baltimore	emory university	1	['2007']	domestic
+university of maryland baltimore	johns hopkins university	1	['2007']	domestic
+university of maryland baltimore	world health organization	1	['2007']	domestic
+university of maryland baltimore	save the children	1	['2007']	domestic
+university of maryland baltimore	international centre for diarrhoeal disease research bangladesh	1	['2007']	trans-continental
+university of maryland baltimore	university of edinburgh	1	['2007']	trans-continental
+university of maryland baltimore	university of the west indies	1	['2007']	international
+university of maryland baltimore	university of the philippines	1	['2007']	trans-continental
+emory university	unicef	1	['2007']	domestic
+emory university	world bank	1	['2007']	domestic
+emory university	university of los andes	2	['2007', '2007']	trans-continental
+dartmouth college	national renewable energy laboratory	1	['1999']	domestic
+international monetary fund	university of copenhagen	1	['2006']	trans-continental
+university of michigan	karolinska institutet	1	['2007']	trans-continental
+university of michigan	sri international	1	['2006']	domestic
+international institute for environment and development	wageningen university and research centre	1	['2003']	trans-continental
+international institute for environment and development	tufts university	1	['2003']	international
+international institute for environment and development	world health organization	1	['2007']	international
+international institute for environment and development	united nations environment programme	1	['2003']	international
+international institute for environment and development	university of the western cape	1	['2007']	trans-continental
+international institute for environment and development	boston university	1	['2001']	international
+international institute for environment and development	radboud university nijmegen	1	['2007']	trans-continental
+international institute for environment and development	bangladesh centre for advanced studies	1	['2003']	trans-continental
+international institute for environment and development	sustainable development policy institute	1	['2003']	trans-continental
+microsoft	delft university of technology	1	['2008']	trans-continental
+microsoft	new york university	1	['2008']	domestic
+microsoft	saarland university	1	['2000']	trans-continental
+national bureau of economic research	columbia university	1	['2007']	domestic
+national bureau of economic research	world bank	1	['2008']	domestic
+national bureau of economic research	peterson institute for international economics	1	['2007']	domestic
+national bureau of economic research	pomona college	1	['2008']	domestic
+national bureau of economic research	university of california san diego	1	['2007']	domestic
+university of california	universidade federal do rio grande do sul	1	['2008']	trans-continental
+university of california	world health organization	1	['2008']	domestic
+health effects institute	world health organization	1	['2006']	domestic
+stockholm university	australian national university	1	['2003']	trans-continental
+stockholm university	swedish university of agricultural sciences	1	['2008']	domestic
+stockholm university	mid sweden university	1	['2008']	domestic
+stockholm university	environmental protection agency	1	['2008']	trans-continental
+stockholm university	swedish board of agriculture	1	['2008']	domestic
+stockholm university	sodertorn university	1	['2008']	domestic
+stockholm university	international centre for diarrhoeal disease research bangladesh	1	['2006']	trans-continental
+australian national university	commonwealth scientific and industrial research organisation	1	['2008']	domestic
+australian national university	columbia university	1	['2004']	trans-continental
+australian national university	university of oslo	1	['2004']	trans-continental
+australian national university	depaul university	1	['1997']	trans-continental
+australian national university	charles darwin university	1	['2006']	trans-continental
+swedish university of agricultural sciences	poznan university of technology	1	['2002']	international
+swedish university of agricultural sciences	international institute for applied systems analysis	1	['2002']	international
+swedish university of agricultural sciences	carleton university	1	['2002']	trans-continental
+swedish university of agricultural sciences	mid sweden university	1	['2008']	domestic
+swedish university of agricultural sciences	environmental protection agency	1	['2008']	trans-continental
+swedish university of agricultural sciences	swedish board of agriculture	1	['2008']	domestic
+swedish university of agricultural sciences	sodertorn university	1	['2008']	domestic
+swedish university of agricultural sciences	lviv university	1	['2007']	international
+mid sweden university	environmental protection agency	1	['2008']	trans-continental
+mid sweden university	swedish board of agriculture	1	['2008']	domestic
+mid sweden university	sodertorn university	1	['2008']	domestic
+environmental protection agency	swedish board of agriculture	1	['2008']	trans-continental
+environmental protection agency	sodertorn university	1	['2008']	trans-continental
+swedish board of agriculture	sodertorn university	1	['2008']	domestic
+international centre for diarrhoeal disease research bangladesh	university of london	2	['2006', '2007']	trans-continental
+international centre for diarrhoeal disease research bangladesh	makerere university	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of california davis	1	['2007']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of auckland	1	['2007']	trans-continental
+international centre for diarrhoeal disease research bangladesh	south african medical research council	1	['2007']	trans-continental
+international centre for diarrhoeal disease research bangladesh	cornell university	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	world bank	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	johns hopkins university	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	aga khan university	2	['2006', '2007']	international
+international centre for diarrhoeal disease research bangladesh	karolinska institutet	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	save the children	1	['2007']	trans-continental
+international centre for diarrhoeal disease research bangladesh	universidade federal de pelotas	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	bill melinda gates foundation	1	['2006']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of the west indies	1	['2007']	trans-continental
+international centre for diarrhoeal disease research bangladesh	university of the philippines	1	['2007']	international
+university of london	university of indonesia	1	['2007']	trans-continental
+university of london	medical research council	1	['2008']	trans-continental
+university of london	karolinska institutet	1	['2008']	international
+university of london	center for global development	1	['2004']	trans-continental
+university of london	world bank	2	['2004', '2006']	trans-continental
+university of london	university of edinburgh	2	['2006', '2008']	domestic
+university of london	state university of campinas	2	['2006', '2005']	trans-continental
+university of london	universidade federal de pelotas	3	['2006', '2005', '2004']	trans-continental
+university of london	bill melinda gates foundation	1	['2006']	trans-continental
+university of london	cornell university	1	['2006']	trans-continental
+university of london	makerere university	1	['2006']	trans-continental
+university of london	university of aberdeen	5	['2008', '2006', '2008', '2006', '2006']	domestic
+university of london	uganda virus research institute	1	['2007']	trans-continental
+university of london	cayetano heredia university	1	['2008']	trans-continental
+university of london	university of bristol	2	['2008', '2007']	domestic
+university of london	universidade catolica de pelotas	1	['2005']	trans-continental
+university of london	international institute for applied systems analysis	1	['2007']	international
+university of london	health protection agency	1	['2008']	trans-continental
+university of london	university of east anglia	1	['2006']	domestic
+university of london	international development research centre	1	['2005']	trans-continental
+university of london	university of the philippines	2	['2008', '2007']	trans-continental
+university of london	overseas development institute	2	['2008', '2006']	domestic
+university of london	brac university	1	['2008']	trans-continental
+university of london	university of the west indies	1	['2007']	trans-continental
+university of london	bandim health project	1	['2007']	trans-continental
+university of london	chinese center for disease control and prevention	1	['2007']	trans-continental
+university of london	university for development studies	1	['2007']	trans-continental
+university of london	university of manchester	1	['2007']	domestic
+university of london	temple university	1	['2007']	trans-continental
+university of london	university of naples federico ii	1	['2007']	international
+university of london	centers for disease control and prevention	1	['2003']	trans-continental
+university of london	university of bern	1	['2006']	international
+university of london	technical university of berlin	1	['2005']	international
+university of indonesia	university of ghana	1	['2007']	trans-continental
+university of indonesia	university of aberdeen	2	['2007', '2007']	trans-continental
+university of indonesia	andalas university	1	['2008']	domestic
+university of indonesia	united nations population fund	1	['2008']	trans-continental
+medical research council	university of california davis	1	['2008']	international
+medical research council	university of auckland	1	['2008']	trans-continental
+medical research council	university of melbourne	1	['2008']	trans-continental
+medical research council	university of leeds	1	['2008']	trans-continental
+medical research council	johns hopkins university	3	['2008', '2008', '2008']	international
+medical research council	aga khan university	1	['2008']	trans-continental
+medical research council	karolinska institutet	1	['2008']	trans-continental
+medical research council	kamuzu central hospital	1	['2007']	trans-continental
+medical research council	uganda virus research institute	1	['2007']	trans-continental
+medical research council	all india institute of medical sciences	1	['2008']	trans-continental
+medical research council	london school of economics and political science	1	['2008']	trans-continental
+medical research council	brac university	2	['2008', '2008']	trans-continental
+medical research council	university of california san francisco	1	['2008']	international
+medical research council	university of edinburgh	2	['2008', '2008']	trans-continental
+medical research council	university of the philippines	1	['2008']	trans-continental
+medical research council	university of split	1	['2008']	trans-continental
+medical research council	aga khan university hospital	1	['2008']	trans-continental
+karolinska institutet	rti international	1	['2007']	trans-continental
+karolinska institutet	centers for disease control and prevention	1	['2007']	trans-continental
+karolinska institutet	orebro university	1	['2007']	domestic
+karolinska institutet	karolinska university hospital	1	['2007']	domestic
+karolinska institutet	southern general hospital	1	['2007']	trans-continental
+karolinska institutet	save the children	1	['2008']	trans-continental
+center for global development	world bank	2	['2006', '2004']	domestic
+center for global development	world health organization	1	['2004']	domestic
+center for global development	overseas development institute	1	['2006']	trans-continental
+center for global development	central european university	1	['2004']	trans-continental
+center for global development	westfield college	1	['2004']	domestic
+world bank	makerere university	2	['2006', '2003']	trans-continental
+world bank	unicef	1	['2007']	domestic
+world bank	harvard university	4	['2007', '2006', '2007', '2007']	domestic
+world bank	university of oslo	1	['2007']	trans-continental
+world bank	indian institute of management ahmedabad	1	['2008']	trans-continental
+world bank	international university of monaco	1	['2006']	trans-continental
+world bank	pomona college	1	['2008']	domestic
+world bank	yale university	1	['2005']	domestic
+world bank	university of rome tor vergata	1	['2005']	trans-continental
+world bank	university of manchester	3	['2006', '2005', '2005']	trans-continental
+world bank	paris school of economics	1	['2008']	trans-continental
+world bank	stockholm environment institute	1	['2008']	domestic
+world bank	international potato center	1	['2008']	trans-continental
+world bank	johns hopkins university	1	['2004']	domestic
+world bank	bill melinda gates foundation	2	['2004', '2006']	domestic
+world bank	american university	1	['2008']	domestic
+world bank	ministry of economy and finance	1	['2008']	trans-continental
+world bank	london school of economics and political science	2	['2008', '2007']	trans-continental
+world bank	office of population research	1	['2003']	domestic
+world bank	universidade federal de pelotas	1	['2006']	trans-continental
+world bank	inter american development bank	1	['2003']	domestic
+world bank	university of zambia	1	['2006']	trans-continental
+world bank	murray state university	1	['2004']	domestic
+world bank	international center for research on women	1	['2003']	domestic
+world bank	university of north carolina at chapel hill	1	['2007']	domestic
+world bank	university of california san francisco	1	['2007']	domestic
+world bank	university of cambridge	1	['2007']	trans-continental
+world bank	all india institute of medical sciences	1	['2005']	trans-continental
+world bank	european university institute	1	['2003']	trans-continental
+world bank	university of sussex	1	['2003']	trans-continental
+world bank	australian catholic university	1	['2008']	domestic
+world bank	imperial college london	1	['2008']	trans-continental
+world bank	lafayette college	1	['2006']	domestic
+world bank	the riverbank	1	['2005']	domestic
+world bank	technical university of berlin	1	['2005']	trans-continental
+university of edinburgh	university of california davis	2	['2008', '2007']	trans-continental
+university of edinburgh	university of auckland	2	['2008', '2007']	trans-continental
+university of edinburgh	south african medical research council	1	['2007']	trans-continental
+university of edinburgh	university of leeds	1	['2008']	domestic
+university of edinburgh	united nations population fund	1	['2006']	trans-continental
+university of edinburgh	aga khan university	1	['2007']	trans-continental
+university of edinburgh	university of california san francisco	1	['2008']	trans-continental
+university of edinburgh	wellcome trust	1	['2008']	trans-continental
+university of edinburgh	state university of campinas	1	['2006']	trans-continental
+university of edinburgh	jawaharlal nehru university	1	['2007']	trans-continental
+university of edinburgh	bocconi university	1	['2007']	international
+university of edinburgh	university of brescia	1	['2007']	trans-continental
+university of edinburgh	university of the philippines	2	['2008', '2007']	trans-continental
+university of edinburgh	aga khan university hospital	1	['2008']	trans-continental
+university of edinburgh	university of the west indies	1	['2007']	trans-continental
+state university of campinas	harvard university	1	['2005']	trans-continental
+state university of campinas	world health organization	1	['2005']	trans-continental
+state university of campinas	united nations population fund	1	['2006']	trans-continental
+state university of campinas	university of california san francisco	1	['2005']	trans-continental
+state university of campinas	international development research centre	1	['2005']	trans-continental
+universidade federal de pelotas	makerere university	1	['2006']	trans-continental
+universidade federal de pelotas	cornell university	1	['2006']	trans-continental
+universidade federal de pelotas	johns hopkins university	2	['2006', '2007']	trans-continental
+universidade federal de pelotas	aga khan university	1	['2006']	trans-continental
+universidade federal de pelotas	bill melinda gates foundation	1	['2006']	trans-continental
+universidade federal de pelotas	ithaca college	1	['2005']	trans-continental
+universidade federal de pelotas	universidade catolica de pelotas	1	['2005']	domestic
+bill melinda gates foundation	makerere university	1	['2006']	trans-continental
+bill melinda gates foundation	cornell university	1	['2006']	domestic
+bill melinda gates foundation	johns hopkins university	2	['2004', '2006']	domestic
+bill melinda gates foundation	world health organization	2	['2004', '2003']	domestic
+bill melinda gates foundation	aga khan university	1	['2006']	trans-continental
+cornell university	makerere university	2	['2006', '2003']	trans-continental
+cornell university	purdue university	1	['2007']	domestic
+cornell university	unicef	1	['2008']	domestic
+cornell university	mekelle university	1	['2006']	trans-continental
+cornell university	university of sao paulo	1	['2006']	trans-continental
+cornell university	united nations development programme	1	['2002']	domestic
+cornell university	hong kong university of science and technology	1	['2008']	trans-continental
+cornell university	syracuse university	1	['2006']	domestic
+cornell university	economic policy institute	1	['2008']	domestic
+cornell university	johns hopkins university	2	['2006', '2008']	domestic
+cornell university	aga khan university	1	['2006']	trans-continental
+cornell university	norwegian university of life sciences	1	['2006']	trans-continental
+cornell university	university of potsdam	1	['2006']	trans-continental
+cornell university	marine biological laboratory	1	['2006']	domestic
+cornell university	empresa brasileira de pesquisa agropecuaria	1	['2006']	trans-continental
+cornell university	university of georgia	2	['2006', '2000']	domestic
+cornell university	york university	1	['2007']	international
+cornell university	conservation international	1	['2006']	domestic
+cornell university	university of connecticut	1	['2006']	domestic
+cornell university	fred hutchinson cancer research center	1	['2007']	domestic
+cornell university	national institutes of health	1	['2007']	domestic
+cornell university	world health organization	1	['2004']	domestic
+cornell university	whittington hospital	1	['2004']	trans-continental
+cornell university	university of bristol	1	['2004']	trans-continental
+cornell university	international union for conservation of nature and natural resources	1	['2008']	trans-continental
+cornell university	university of oregon	1	['2000']	domestic
+cornell university	food and agriculture organization	1	['2000']	domestic
+makerere university	blekinge institute of technology	1	['2006']	trans-continental
+makerere university	aga khan university	1	['2006']	trans-continental
+makerere university	save the children	1	['2008']	trans-continental
+makerere university	uppsala university	1	['2008']	trans-continental
+makerere university	college of health sciences bahrain	1	['2006']	trans-continental
+university of aberdeen	university of ghana	2	['2007', '2007']	trans-continental
+university of aberdeen	university of manchester	1	['2004']	domestic
+university of aberdeen	university of benin	1	['2007']	trans-continental
+university of aberdeen	university of oxford	1	['2008']	domestic
+university of aberdeen	johns hopkins university	1	['2008']	trans-continental
+university of aberdeen	world health organization	1	['2008']	trans-continental
+university of aberdeen	university of glasgow	1	['2000']	domestic
+university of aberdeen	institute of tropical medicine antwerp	1	['2008']	international
+university of aberdeen	umea university	1	['2007']	international
+university of aberdeen	gazeta tema	1	['2007']	international
+cayetano heredia university	university of bristol	1	['2008']	trans-continental
+university of bristol	university of venda	1	['2006']	trans-continental
+university of bristol	university of zimbabwe	1	['2006']	trans-continental
+university of bristol	stellenbosch university	1	['2006']	trans-continental
+university of bristol	world health organization	1	['2004']	trans-continental
+university of bristol	council of scientific and industrial research	1	['2006']	trans-continental
+university of bristol	royal college of surgeons in ireland	1	['2006']	international
+university of bristol	whittington hospital	1	['2004']	domestic
+international institute for applied systems analysis	university of hamburg	1	['2007']	international
+international institute for applied systems analysis	poznan university of technology	2	['2002', '2000']	international
+international institute for applied systems analysis	carleton university	2	['2002', '2000']	trans-continental
+international institute for applied systems analysis	vienna institute of demography	1	['2005']	domestic
+international institute for applied systems analysis	stony brook university	1	['2005']	trans-continental
+university of east anglia	university college london	1	['2008']	domestic
+university of east anglia	university of salzburg	1	['2000']	international
+university of east anglia	simon fraser university	1	['2008']	trans-continental
+university of east anglia	worldfish	1	['2008']	trans-continental
+university of east anglia	university of cambridge	2	['2008', '2005']	domestic
+university of east anglia	middlesex university	1	['2007']	domestic
+university of east anglia	department for international development	1	['2006']	trans-continental
+university of east anglia	international livestock research institute	1	['2006']	trans-continental
+university of east anglia	delaware state university	1	['2007']	trans-continental
+university of east anglia	smithsonian tropical research institute	1	['2007']	trans-continental
+university of east anglia	zoological society of london	1	['2005']	trans-continental
+university of east anglia	royal botanic gardens	1	['2005']	trans-continental
+university of east anglia	royal society for the protection of birds	1	['2005']	domestic
+international development research centre	harvard university	1	['2005']	international
+international development research centre	world health organization	1	['2005']	international
+international development research centre	university of california san francisco	1	['2005']	international
+university of the philippines	university of california davis	2	['2008', '2007']	trans-continental
+university of the philippines	university of auckland	2	['2008', '2007']	trans-continental
+university of the philippines	south african medical research council	1	['2007']	trans-continental
+university of the philippines	university of melbourne	1	['2008']	trans-continental
+university of the philippines	seoul national university	1	['2007']	international
+university of the philippines	johns hopkins university	2	['2008', '2007']	trans-continental
+university of the philippines	aga khan university	1	['2007']	international
+university of the philippines	save the children	1	['2007']	trans-continental
+university of the philippines	university of california san francisco	1	['2008']	trans-continental
+university of the philippines	university of the west indies	1	['2007']	trans-continental
+overseas development institute	university of the witwatersrand	1	['2008']	trans-continental
+overseas development institute	rhodes university	1	['2005']	trans-continental
+overseas development institute	james cook university	1	['2005']	trans-continental
+overseas development institute	university of bern	1	['2006']	international
+overseas development institute	world agroforestry centre	2	['2005', '2006']	trans-continental
+overseas development institute	king s college london	1	['2008']	domestic
+brac university	columbia university	1	['2005']	trans-continental
+brac university	johns hopkins university	1	['2008']	trans-continental
+brac university	aga khan university	1	['2008']	international
+brac university	all india institute of medical sciences	1	['2008']	international
+brac university	save the children	2	['2008', '2008']	trans-continental
+brac university	london school of economics and political science	1	['2008']	trans-continental
+university of the west indies	university of california davis	1	['2007']	international
+university of the west indies	university of auckland	1	['2007']	trans-continental
+university of the west indies	south african medical research council	1	['2007']	international
+university of the west indies	united nations	1	['2007']	international
+university of the west indies	johns hopkins university	1	['2007']	international
+university of the west indies	aga khan university	1	['2007']	trans-continental
+university of the west indies	save the children	1	['2007']	international
+bandim health project	unicef	1	['2007']	trans-continental
+bandim health project	university of queensland	1	['2007']	trans-continental
+bandim health project	world health organization	1	['2007']	trans-continental
+bandim health project	national institutes of health	1	['2007']	trans-continental
+bandim health project	university of north carolina at chapel hill	1	['2007']	trans-continental
+bandim health project	university of washington	1	['2007']	trans-continental
+bandim health project	institute of tropical medicine antwerp	1	['2007']	trans-continental
+bandim health project	umea university	1	['2007']	trans-continental
+bandim health project	chinese center for disease control and prevention	1	['2007']	trans-continental
+bandim health project	university for development studies	1	['2007']	international
+chinese center for disease control and prevention	unicef	1	['2007']	trans-continental
+chinese center for disease control and prevention	national institutes of health	1	['2007']	trans-continental
+chinese center for disease control and prevention	university of north carolina at chapel hill	1	['2007']	trans-continental
+chinese center for disease control and prevention	university of washington	1	['2007']	trans-continental
+chinese center for disease control and prevention	institute of tropical medicine antwerp	1	['2007']	trans-continental
+chinese center for disease control and prevention	umea university	1	['2007']	trans-continental
+chinese center for disease control and prevention	university for development studies	1	['2007']	trans-continental
+university for development studies	unicef	1	['2007']	trans-continental
+university for development studies	university of queensland	1	['2007']	trans-continental
+university for development studies	world health organization	1	['2007']	trans-continental
+university for development studies	national institutes of health	1	['2007']	trans-continental
+university for development studies	university of north carolina at chapel hill	1	['2007']	trans-continental
+university for development studies	university of washington	1	['2007']	trans-continental
+university for development studies	institute of tropical medicine antwerp	1	['2007']	trans-continental
+university for development studies	umea university	1	['2007']	trans-continental
+university of manchester	university of birmingham	1	['2006']	domestic
+university of manchester	university of naples federico ii	1	['2007']	international
+university of manchester	university of nottingham	1	['2005']	domestic
+university of manchester	pennsylvania state university	3	['2006', '2005', '2005']	trans-continental
+university of manchester	world health organization	2	['2007', '2007']	trans-continental
+university of manchester	king s college london	1	['2007']	domestic
+university of manchester	temple university	1	['2007']	trans-continental
+university of manchester	university of sheffield	1	['2002']	domestic
+university of manchester	university of southampton	1	['2002']	domestic
+university of manchester	loughborough university	1	['2006']	domestic
+university of manchester	university college london	1	['2007']	domestic
+university of manchester	university of lagos	1	['2007']	trans-continental
+university of manchester	the riverbank	1	['2005']	trans-continental
+temple university	columbia university	1	['2007']	domestic
+temple university	university of naples federico ii	1	['2007']	trans-continental
+temple university	michigan state university	1	['2000']	domestic
+temple university	world health organization	1	['2007']	domestic
+temple university	king s college london	1	['2007']	trans-continental
+university of naples federico ii	columbia university	1	['2007']	trans-continental
+university of naples federico ii	world health organization	1	['2007']	trans-continental
+university of naples federico ii	king s college london	1	['2007']	international
+centers for disease control and prevention	unicef	2	['2005', '2003']	domestic
+centers for disease control and prevention	university of the witwatersrand	1	['2008']	trans-continental
+centers for disease control and prevention	columbia university	1	['2004']	domestic
+centers for disease control and prevention	university of south africa	1	['2008']	trans-continental
+centers for disease control and prevention	durham university	1	['2007']	trans-continental
+centers for disease control and prevention	university of amsterdam	1	['2006']	trans-continental
+centers for disease control and prevention	aga khan university	2	['2005', '2003']	trans-continental
+centers for disease control and prevention	university of glasgow	1	['2007']	trans-continental
+centers for disease control and prevention	orebro university	1	['2007']	trans-continental
+centers for disease control and prevention	karolinska university hospital	1	['2007']	trans-continental
+centers for disease control and prevention	southern general hospital	1	['2007']	domestic
+centers for disease control and prevention	save the children	1	['2005']	domestic
+centers for disease control and prevention	ithaca college	1	['2005']	domestic
+centers for disease control and prevention	united nations high commissioner for refugees	1	['2004']	trans-continental
+technical university of berlin	university of osnabruck	1	['2007']	domestic
+technical university of berlin	york university	1	['2007']	trans-continental
+technical university of berlin	oko institut	1	['2007']	domestic
+aga khan university	university of california davis	1	['2007']	trans-continental
+aga khan university	university of auckland	1	['2007']	trans-continental
+aga khan university	south african medical research council	1	['2007']	trans-continental
+aga khan university	ithaca college	1	['2005']	trans-continental
+aga khan university	all india institute of medical sciences	1	['2005']	international
+aga khan university	university of calgary	1	['2008']	trans-continental
+aga khan university	nsambya hospital	1	['2008']	trans-continental
+save the children	university of wisconsin madison	1	['2007']	domestic
+save the children	university of california davis	1	['2007']	domestic
+save the children	university of auckland	1	['2007']	trans-continental
+save the children	south african medical research council	1	['2007']	domestic
+save the children	university of leeds	1	['2008']	trans-continental
+save the children	johns hopkins university	1	['2008']	domestic
+save the children	uppsala university	1	['2008']	trans-continental
+save the children	ithaca college	1	['2005']	domestic
+save the children	aga khan university hospital	1	['2008']	trans-continental
+save the children	burnet institute	1	['2006']	domestic
+uppsala university	leiden university	1	['2008']	international
+uppsala university	college of health sciences bahrain	1	['2008']	trans-continental
+college of health sciences bahrain	leiden university	1	['2008']	trans-continental
+rti international	orebro university	1	['2007']	trans-continental
+rti international	karolinska university hospital	1	['2007']	trans-continental
+rti international	southern general hospital	1	['2007']	domestic
+rti international	johns hopkins university	1	['2007']	domestic
+rti international	national institutes of health	1	['2007']	domestic
+rti international	drexel university	1	['2007']	domestic
+orebro university	karolinska university hospital	1	['2007']	domestic
+orebro university	southern general hospital	1	['2007']	trans-continental
+karolinska university hospital	southern general hospital	1	['2007']	trans-continental
+johns hopkins university	university of california davis	2	['2008', '2007']	domestic
+johns hopkins university	university of auckland	2	['2008', '2007']	trans-continental
+johns hopkins university	university of illinois at urbana champaign	1	['2007']	domestic
+johns hopkins university	university of alberta	1	['2007']	international
+johns hopkins university	university of leeds	1	['2008']	trans-continental
+johns hopkins university	loyola university chicago	1	['2007']	domestic
+johns hopkins university	university of liverpool	1	['2007']	trans-continental
+johns hopkins university	john d and catherine t macarthur foundation	1	['2007']	domestic
+johns hopkins university	ithaca college	2	['2005', '2005']	domestic
+johns hopkins university	national cheng kung university	1	['2007']	trans-continental
+johns hopkins university	brigham and women s hospital	1	['2007']	domestic
+johns hopkins university	pennsylvania state university	1	['2007']	domestic
+johns hopkins university	drexel university	1	['2007']	domestic
+johns hopkins university	aga khan university hospital	1	['2008']	trans-continental
+johns hopkins university	nsambya hospital	1	['2008']	trans-continental
+national institutes of health	purdue university	1	['2007']	domestic
+national institutes of health	university of queensland	1	['2007']	domestic
+national institutes of health	drexel university	1	['2007']	domestic
+national institutes of health	fred hutchinson cancer research center	1	['2007']	domestic
+national institutes of health	university of washington	1	['2007']	domestic
+national institutes of health	institute of tropical medicine antwerp	1	['2007']	trans-continental
+national institutes of health	umea university	1	['2007']	trans-continental
+university of wisconsin madison	north carolina state university	1	['2008']	domestic
+university of wisconsin madison	memorial university of newfoundland	1	['2008']	international
+university of wisconsin madison	university of glasgow	1	['2006']	trans-continental
+university of wisconsin madison	utah state university	2	['2006', '2006']	domestic
+university of wisconsin madison	hampton university	2	['2006', '2006']	domestic
+university of wisconsin madison	langley research center	1	['2006']	domestic
+north carolina state university	university of maryland college park	1	['2008']	domestic
+north carolina state university	wesleyan university	1	['2002']	domestic
+north carolina state university	memorial university of newfoundland	1	['2008']	international
+memorial university of newfoundland	university of maryland college park	1	['2008']	international
+university of glasgow	columbia university	1	['2005']	trans-continental
+university of glasgow	durham university	1	['2007']	domestic
+university of glasgow	world health organization	1	['2006']	trans-continental
+university of glasgow	university of st andrews	2	['2007', '2007']	trans-continental
+university of glasgow	astrazeneca	1	['2002']	trans-continental
+university of glasgow	university of otago	1	['2007']	trans-continental
+utah state university	montana state university	1	['2007']	domestic
+utah state university	colorado state university	1	['2007']	domestic
+utah state university	south dakota state university	1	['2007']	domestic
+utah state university	university of wyoming	1	['2007']	domestic
+utah state university	hampton university	2	['2006', '2006']	domestic
+utah state university	langley research center	1	['2006']	domestic
+hampton university	langley research center	1	['2006']	domestic
+stanford university	sri international	1	['2000']	domestic
+stanford university	university of tokyo	1	['2006']	trans-continental
+stanford university	agricultural research service	1	['1999']	domestic
+stanford university	university of illinois at urbana champaign	1	['1999']	domestic
+stanford university	international food policy research institute	1	['2006']	domestic
+stanford university	donald danforth plant science center	1	['2006']	domestic
+stanford university	western michigan university	1	['2006']	domestic
+stanford university	university of navarra	2	['2005', '2005']	trans-continental
+university of tokyo	university of arizona	1	['2008']	trans-continental
+university of tokyo	california institute of technology	1	['2008']	trans-continental
+agricultural research service	university of california davis	1	['2005']	domestic
+agricultural research service	university of illinois at urbana champaign	1	['1999']	domestic
+agricultural research service	delta air lines	1	['2008']	domestic
+university of illinois at urbana champaign	university of nebraska lincoln	1	['2004']	domestic
+university of illinois at urbana champaign	loyola university chicago	1	['2007']	domestic
+university of illinois at urbana champaign	honeywell	1	['2006']	domestic
+university of illinois at urbana champaign	university of florida	1	['2006']	domestic
+university of illinois at urbana champaign	california institute of technology	1	['2006']	domestic
+international food policy research institute	university of cambridge	1	['2005']	trans-continental
+international food policy research institute	university of oxford	1	['2008']	trans-continental
+international food policy research institute	donald danforth plant science center	1	['2006']	domestic
+international food policy research institute	western michigan university	1	['2006']	domestic
+international food policy research institute	imperial college london	1	['2006']	trans-continental
+donald danforth plant science center	western michigan university	1	['2006']	domestic
+world health organization	university of the witwatersrand	1	['2008']	trans-continental
+world health organization	columbia university	1	['2007']	domestic
+world health organization	united nations development programme	1	['2007']	domestic
+world health organization	case western reserve university	1	['2008']	domestic
+world health organization	university of south africa	1	['2008']	trans-continental
+world health organization	university of new south wales	1	['2005']	trans-continental
+world health organization	university of amsterdam	2	['2007', '2008']	trans-continental
+world health organization	kenyatta university	1	['2005']	trans-continental
+world health organization	university of ottawa	1	['2005']	international
+world health organization	university of the philippines manila	1	['2005']	trans-continental
+world health organization	ministry of health and social services	1	['2006']	domestic
+world health organization	guttmacher institute	1	['2007']	domestic
+world health organization	university of wisconsin milwaukee	1	['2007']	domestic
+world health organization	university of geneva	2	['2007', '2007']	trans-continental
+world health organization	norwegian agency for development cooperation	1	['2007']	trans-continental
+world health organization	university of washington	2	['2007', '2007']	domestic
+world health organization	malmo university	1	['2006']	trans-continental
+world health organization	burnet institute	1	['2008']	domestic
+world health organization	radboud university nijmegen	1	['2007']	trans-continental
+world health organization	whittington hospital	1	['2004']	trans-continental
+world health organization	american medical association	1	['2007']	domestic
+world health organization	fiji school of medicine	1	['2000']	trans-continental
+world health organization	umea university	1	['2007']	trans-continental
+world health organization	fondazione irccs ca granda ospedale maggiore policlinico	1	['2007']	trans-continental
+world health organization	national tuberculosis institute	1	['2008']	trans-continental
+world health organization	european centre for disease prevention and control	1	['2008']	trans-continental
+oregon state university	university of california santa barbara	1	['2003']	domestic
+oregon state university	university of adelaide	1	['2003']	trans-continental
+oregon state university	university of york	1	['2003']	trans-continental
+oregon state university	pontifical catholic university of chile	1	['2003']	trans-continental
+oregon state university	national marine fisheries service	1	['2003']	domestic
+university of california santa barbara	pontifical catholic university of chile	1	['2003']	trans-continental
+university of california santa barbara	hewlett packard	1	['2000']	domestic
+university of california santa barbara	university of adelaide	1	['2003']	trans-continental
+university of california santa barbara	university of york	1	['2003']	trans-continental
+university of california santa barbara	national marine fisheries service	1	['2003']	domestic
+university of california santa barbara	scripps institution of oceanography	1	['2008']	domestic
+university of california santa barbara	center for earth resources observation and science	1	['2008']	domestic
+university of california santa barbara	university of massachusetts lowell	1	['2008']	domestic
+university of california santa barbara	goddard space flight center	1	['2008']	domestic
+university of adelaide	pontifical catholic university of chile	1	['2003']	trans-continental
+university of adelaide	national marine fisheries service	1	['2003']	trans-continental
+university of adelaide	university of south australia	1	['2003']	domestic
+university of adelaide	united states department of agriculture	1	['2000']	trans-continental
+university of adelaide	university of york	1	['2003']	trans-continental
+university of york	pontifical catholic university of chile	1	['2003']	trans-continental
+university of york	fraunhofer society	1	['2005']	international
+university of york	rwth aachen university	1	['2005']	international
+university of york	national marine fisheries service	1	['2003']	trans-continental
+university of york	stockholm environment institute	1	['2007']	trans-continental
+pontifical catholic university of chile	massachusetts institute of technology	1	['2004']	trans-continental
+pontifical catholic university of chile	eth zurich	2	['2004', '2004']	trans-continental
+pontifical catholic university of chile	national marine fisheries service	1	['2003']	trans-continental
+national marine fisheries service	silver spring networks	1	['2002']	domestic
+university of arkansas at little rock	university of sydney	1	['2006']	trans-continental
+university of sydney	university of melbourne	1	['2008']	domestic
+university of sydney	university of oxford	1	['2005']	trans-continental
+university of sydney	yale university	1	['2005']	trans-continental
+institute for european environmental policy	utrecht university	1	['2000']	trans-continental
+utrecht university	vu university amsterdam	1	['2004']	domestic
+utrecht university	radboud university nijmegen	1	['2007']	domestic
+vu university amsterdam	united states geological survey	1	['2006']	trans-continental
+vu university amsterdam	cheikh anta diop university	1	['2006']	trans-continental
+vu university amsterdam	university of twente	1	['2008']	domestic
+vu university amsterdam	university of oxford	1	['2006']	international
+vu university amsterdam	university of barcelona	1	['2002']	international
+vu university amsterdam	university of texas at austin	1	['2006']	trans-continental
+radboud university nijmegen	university of the western cape	1	['2007']	trans-continental
+radboud university nijmegen	university of rouen	1	['2004']	international
+radboud university nijmegen	metz	1	['2004']	international
+purdue university	fred hutchinson cancer research center	1	['2007']	domestic
+wageningen university and research centre	columbia university	1	['2005']	trans-continental
+wageningen university and research centre	international livestock research institute	1	['2007']	trans-continental
+wageningen university and research centre	chinese academy of social sciences	1	['2008']	trans-continental
+wageningen university and research centre	zhejiang university	1	['2007']	trans-continental
+wageningen university and research centre	chinese academy of sciences	3	['2007', '2004', '2004']	trans-continental
+wageningen university and research centre	united nations environment programme	2	['2003', '2007']	trans-continental
+wageningen university and research centre	international rice research institute	2	['2004', '2005']	trans-continental
+wageningen university and research centre	sana a university	1	['2005']	trans-continental
+columbia university	unicef	2	['2006', '2007']	domestic
+columbia university	university of oslo	1	['2004']	trans-continental
+columbia university	m s swaminathan research foundation	1	['2005']	trans-continental
+columbia university	united nations	1	['2004']	domestic
+columbia university	university of north carolina at chapel hill	1	['2008']	domestic
+columbia university	international union for conservation of nature and natural resources	1	['2005']	trans-continental
+columbia university	partners in health	1	['2005']	domestic
+columbia university	liverpool school of tropical medicine	1	['2004']	trans-continental
+columbia university	boston university	1	['2006']	domestic
+columbia university	new york botanical garden	1	['2004']	domestic
+columbia university	new york academy of sciences	1	['2004']	domestic
+columbia university	goddard institute for space studies	1	['2004']	domestic
+columbia university	city university of new york	1	['2004']	domestic
+columbia university	brooklyn botanic garden	1	['2004']	domestic
+columbia university	the new school	1	['2006']	domestic
+columbia university	university of california san diego	1	['2007']	domestic
+columbia university	research triangle park	2	['2006', '2005']	domestic
+columbia university	king s college london	1	['2007']	trans-continental
+columbia university	lamont doherty earth observatory	1	['2006']	domestic
+columbia university	united nations high commissioner for refugees	1	['2004']	trans-continental
+international livestock research institute	department for international development	1	['2006']	trans-continental
+international livestock research institute	duke university	1	['2006']	trans-continental
+zhejiang university	chinese academy of sciences	1	['2007']	domestic
+chinese academy of sciences	united states geological survey	1	['2006']	trans-continental
+chinese academy of sciences	inner mongolia university	1	['2008']	domestic
+chinese academy of sciences	free university of brussels	1	['2004']	trans-continental
+chinese academy of sciences	national sun yat sen university	1	['2004']	international
+chinese academy of sciences	guizhou university	1	['2007']	domestic
+chinese academy of sciences	liaoning university	1	['2007']	domestic
+united nations environment programme	maulana azad national institute of technology	1	['2007']	trans-continental
+university of california davis	university of geneva	1	['2003']	trans-continental
+university of california davis	international center for tropical agriculture	1	['2003']	domestic
+university of california davis	university of auckland	2	['2008', '2007']	trans-continental
+university of california davis	university of california san francisco	1	['2008']	domestic
+university of california davis	university of melbourne	1	['2008']	trans-continental
+university of california davis	massey university	1	['2008']	domestic
+university of california davis	south african medical research council	1	['2007']	domestic
+university of geneva	university of st gallen	1	['2001']	domestic
+university of geneva	international center for tropical agriculture	1	['2003']	trans-continental
+university of auckland	harvard university	1	['2007']	trans-continental
+university of auckland	university of queensland	1	['2007']	trans-continental
+university of auckland	university of washington	1	['2007']	trans-continental
+university of auckland	umea university	1	['2006']	trans-continental
+university of auckland	landcare research	1	['2008']	domestic
+university of auckland	wellington management company	1	['2005']	trans-continental
+university of auckland	university of otago	1	['2005']	domestic
+university of auckland	university of california san francisco	1	['2008']	trans-continental
+university of auckland	university of melbourne	1	['2008']	international
+university of auckland	kamuzu central hospital	1	['2008']	trans-continental
+university of california san francisco	university of melbourne	1	['2008']	trans-continental
+university of california san francisco	depaul university	1	['2008']	domestic
+university of california san francisco	university of north carolina at greensboro	1	['2008']	domestic
+university of melbourne	commonwealth scientific and industrial research organisation	1	['2008']	domestic
+university of melbourne	university of queensland	1	['2005']	trans-continental
+university of melbourne	k n toosi university of technology	1	['2004']	trans-continental
+university of melbourne	la trobe university	1	['2008']	domestic
+university of melbourne	university of new south wales	1	['2007']	domestic
+university of melbourne	monash university	2	['2008', '2008']	domestic
+university of melbourne	university of georgia	1	['2008']	trans-continental
+massey university	university of waikato	1	['2001']	trans-continental
+massey university	bocconi university	1	['2008']	trans-continental
+massey university	university of western australia	1	['2008']	trans-continental
+massey university	university college london	1	['2008']	trans-continental
+massey university	trinity college	1	['2008']	domestic
+massey university	york university	1	['2008']	international
+massey university	city university of new york	1	['2008']	domestic
+unicef	fhi 360	1	['2007']	domestic
+unicef	ahmadu bello university	1	['2007']	trans-continental
+unicef	loughborough university	1	['2006']	trans-continental
+unicef	ithaca college	1	['2005']	domestic
+unicef	all india institute of medical sciences	1	['2005']	trans-continental
+unicef	pennsylvania state university	1	['2007']	domestic
+unicef	institute of tropical medicine antwerp	1	['2007']	trans-continental
+unicef	umea university	1	['2007']	trans-continental
+unicef	european university institute	1	['2004']	trans-continental
+unicef	united nations high commissioner for refugees	1	['2004']	trans-continental
+fhi 360	ahmadu bello university	1	['2007']	trans-continental
+ahmadu bello university	university college hospital ibadan	1	['2007']	domestic
+loughborough university	university of birmingham	1	['2006']	domestic
+all india institute of medical sciences	london school of economics and political science	1	['2008']	trans-continental
+pennsylvania state university	harvard university	1	['2007']	domestic
+pennsylvania state university	university of gloucestershire	1	['2008']	trans-continental
+pennsylvania state university	george washington university	1	['2008']	domestic
+pennsylvania state university	the riverbank	1	['2005']	domestic
+institute of tropical medicine antwerp	university of north carolina at chapel hill	1	['2007']	trans-continental
+institute of tropical medicine antwerp	university of washington	1	['2007']	trans-continental
+institute of tropical medicine antwerp	universite catholique de louvain	1	['2006']	domestic
+institute of tropical medicine antwerp	umea university	1	['2007']	international
+umea university	university of queensland	1	['2007']	trans-continental
+umea university	university of north carolina at chapel hill	1	['2007']	trans-continental
+umea university	gazeta tema	1	['2007']	international
+umea university	university of dar es salaam	1	['2004']	trans-continental
+umea university	university of cuenca	1	['2005']	trans-continental
+european university institute	university of sussex	1	['2003']	international
+university of arizona	california institute of technology	1	['2008']	domestic
+california institute of technology	honeywell	1	['2006']	domestic
+california institute of technology	university of florida	1	['2006']	domestic
+sandia national laboratories	los alamos national laboratory	1	['1998']	domestic
+sandia national laboratories	kurchatov institute	1	['1998']	trans-continental
+sandia national laboratories	new mexico state university	1	['2000']	domestic
+los alamos national laboratory	kurchatov institute	1	['1998']	trans-continental
+los alamos national laboratory	united states department of education	1	['1997']	domestic
+tohoku university	kawasaki steel corporation	1	['2000']	domestic
+university of brasilia	university of amsterdam	1	['2007']	trans-continental
+university of brasilia	university of jena	1	['2007']	trans-continental
+university of amsterdam	tilburg university	1	['1998']	domestic
+university of amsterdam	kenya medical research institute	1	['2006']	trans-continental
+university of amsterdam	liverpool school of tropical medicine	1	['2008']	international
+university of amsterdam	malawi liverpool wellcome trust clinical research programme	1	['2008']	trans-continental
+university of amsterdam	university of jena	1	['2007']	international
+university of amsterdam	international union against tuberculosis and lung disease	1	['2008']	international
+university of amsterdam	national tuberculosis institute	1	['2008']	trans-continental
+university of amsterdam	european centre for disease prevention and control	1	['2008']	international
+mekelle university	norwegian university of life sciences	1	['2006']	trans-continental
+norwegian university of life sciences	agricultural applied economics association	1	['2006']	trans-continental
+griffith university	princess alexandra hospital	1	['2002']	trans-continental
+university of massachusetts amherst	university of massachusetts lowell	1	['2008']	domestic
+university of massachusetts amherst	suffolk university	1	['2008']	domestic
+university of massachusetts lowell	suffolk university	1	['2008']	domestic
+university of massachusetts lowell	scripps institution of oceanography	1	['2008']	domestic
+university of massachusetts lowell	center for earth resources observation and science	1	['2008']	domestic
+university of massachusetts lowell	goddard space flight center	1	['2008']	domestic
+suffolk university	university of tartu	1	['2007']	trans-continental
+suffolk university	tallinn university of technology	1	['2007']	trans-continental
+commonwealth scientific and industrial research organisation	la trobe university	1	['2008']	domestic
+commonwealth scientific and industrial research organisation	charles darwin university	1	['2006']	trans-continental
+oak ridge national laboratory	idaho national laboratory	2	['2008', '2008']	domestic
+oak ridge national laboratory	office of scientific and technical information	1	['2008']	domestic
+oak ridge national laboratory	hitachi	1	['2008']	domestic
+oak ridge national laboratory	ohio state university	1	['2008']	domestic
+oak ridge national laboratory	electric power research institute	1	['2008']	domestic
+oak ridge national laboratory	brookhaven national laboratory	1	['2008']	domestic
+oak ridge national laboratory	nuclear regulatory commission	1	['2008']	domestic
+idaho national laboratory	ohio state university	1	['2008']	domestic
+idaho national laboratory	office of scientific and technical information	1	['2008']	domestic
+idaho national laboratory	pacific northwest national laboratory	1	['2008']	domestic
+idaho national laboratory	hitachi	1	['2008']	domestic
+idaho national laboratory	electric power research institute	1	['2008']	domestic
+idaho national laboratory	brookhaven national laboratory	1	['2008']	domestic
+idaho national laboratory	nuclear regulatory commission	1	['2008']	domestic
+hitachi	ohio state university	1	['2008']	domestic
+hitachi	pacific northwest national laboratory	1	['2008']	domestic
+hitachi	brookhaven national laboratory	1	['2008']	domestic
+hitachi	electric power research institute	1	['2008']	domestic
+hitachi	nuclear regulatory commission	1	['2008']	domestic
+ohio state university	kenyon college	1	['2005']	domestic
+ohio state university	ohio environmental protection agency	1	['2005']	domestic
+ohio state university	pacific northwest national laboratory	1	['2008']	domestic
+ohio state university	electric power research institute	1	['2008']	domestic
+ohio state university	brookhaven national laboratory	1	['2008']	domestic
+ohio state university	nuclear regulatory commission	1	['2008']	domestic
+ohio state university	louisiana state university	1	['2006']	domestic
+electric power research institute	pacific northwest national laboratory	1	['2008']	domestic
+electric power research institute	brookhaven national laboratory	1	['2008']	domestic
+electric power research institute	nuclear regulatory commission	1	['2008']	domestic
+brookhaven national laboratory	pacific northwest national laboratory	1	['2008']	domestic
+brookhaven national laboratory	nuclear regulatory commission	1	['2008']	domestic
+nuclear regulatory commission	pacific northwest national laboratory	1	['2008']	domestic
+natural resources canada	ontario ministry of natural resources	1	['2008']	domestic
+university of the witwatersrand	king s college london	1	['2008']	trans-continental
+king s college london	international water management institute	1	['2006']	trans-continental
+king s college london	muhimbili university of health and allied sciences	1	['2007']	trans-continental
+international atomic energy agency	united nations	1	['2006']	trans-continental
+united nations	harvard university	1	['2004']	domestic
+united nations	university of leeds	1	['2008']	trans-continental
+united nations	levy economics institute	1	['2006']	domestic
+united nations	international institute of minnesota	1	['2008']	domestic
+university of missouri	national academy of sciences	1	['1999']	domestic
+university of miami	south florida water management district	2	['1999', '2001']	domestic
+university of miami	united states forest service	1	['1999']	domestic
+university of miami	syracuse university	1	['1997']	domestic
+university of miami	national university of distance education	1	['1997']	trans-continental
+university of miami	international centre of insect physiology and ecology	1	['2008']	trans-continental
+university of miami	tulane university	1	['2008']	domestic
+university of miami	university of liverpool	1	['2008']	trans-continental
+south florida water management district	united states forest service	1	['1999']	domestic
+united states forest service	mississippi state university	1	['2001']	domestic
+united states forest service	geological survey of slovenia	1	['2007']	trans-continental
+international centre of insect physiology and ecology	tulane university	1	['2008']	trans-continental
+international centre of insect physiology and ecology	university of liverpool	1	['2008']	trans-continental
+tulane university	illinois state university	1	['2006']	domestic
+tulane university	university of liverpool	1	['2008']	trans-continental
+university of liverpool	liverpool school of tropical medicine	1	['2008']	domestic
+eth zurich	university of zurich	1	['2006']	domestic
+eth zurich	kiel institute for the world economy	1	['2007']	international
+eth zurich	un habitat	1	['2007']	trans-continental
+academia sinica	national kaohsiung normal university	1	['2002']	domestic
+academia sinica	council of agriculture	1	['2004']	trans-continental
+academia sinica	national taiwan university	1	['2004']	domestic
+council of agriculture	national taiwan university	1	['2004']	trans-continental
+university of helsinki	finnish environment institute	2	['2006', '2007']	domestic
+united nations university	world institute for development economics research	2	['2005', '2005']	trans-continental
+united nations university	united nations economic commission for europe	1	['2004']	trans-continental
+university of lisbon	florida institute of technology	1	['2005']	trans-continental
+university of oslo	wilfrid laurier university	1	['2003']	trans-continental
+university of oslo	london school of economics and political science	1	['2007']	international
+university of north carolina at chapel hill	university of queensland	1	['2007']	domestic
+university of north carolina at chapel hill	university of cambridge	1	['2007']	trans-continental
+university of north carolina at chapel hill	university of washington	1	['2007']	domestic
+international union for conservation of nature and natural resources	arizona state university	1	['2005']	trans-continental
+international union for conservation of nature and natural resources	open university	1	['2005']	trans-continental
+international union for conservation of nature and natural resources	plymouth university	1	['2008']	international
+liverpool school of tropical medicine	malawi liverpool wellcome trust clinical research programme	1	['2008']	trans-continental
+boston university	tufts university	1	['2003']	domestic
+new york botanical garden	city university of new york	1	['2004']	domestic
+new york botanical garden	new york academy of sciences	1	['2004']	domestic
+new york botanical garden	goddard institute for space studies	1	['2004']	domestic
+new york botanical garden	brooklyn botanic garden	1	['2004']	domestic
+new york academy of sciences	city university of new york	1	['2004']	domestic
+new york academy of sciences	goddard institute for space studies	1	['2004']	domestic
+new york academy of sciences	brooklyn botanic garden	1	['2004']	domestic
+goddard institute for space studies	city university of new york	1	['2004']	domestic
+goddard institute for space studies	brooklyn botanic garden	1	['2004']	domestic
+city university of new york	university college london	1	['2008']	trans-continental
+city university of new york	university of western australia	1	['2008']	trans-continental
+city university of new york	trinity college	1	['2008']	domestic
+city university of new york	york university	1	['2008']	international
+city university of new york	bocconi university	1	['2008']	trans-continental
+city university of new york	brooklyn botanic garden	1	['2004']	domestic
+the new school	united nations development programme	1	['2005']	domestic
+research triangle park	washington university in st louis	1	['2007']	domestic
+research triangle park	university of new hampshire	1	['2007']	domestic
+research triangle park	robert wood johnson foundation	1	['2007']	domestic
+research triangle park	southern illinois university carbondale	1	['2007']	domestic
+research triangle park	western connecticut state university	1	['2007']	domestic
+universidade federal de santa catarina	universidade nova de lisboa	1	['2007']	trans-continental
+universidade nova de lisboa	university of liege	1	['2006']	international
+universidade nova de lisboa	nanjing university	1	['2006']	trans-continental
+universidade nova de lisboa	laboratorio nacional de engenharia civil	1	['2006']	domestic
+university of liege	gembloux agro bio tech	1	['2005']	domestic
+university of liege	nanjing university	1	['2006']	trans-continental
+university of liege	laboratorio nacional de engenharia civil	1	['2006']	international
+nanjing university	laboratorio nacional de engenharia civil	1	['2006']	trans-continental
+deutsche gesellschaft fur internationale zusammenarbeit	university of gottingen	1	['2004']	trans-continental
+depaul university	university of north carolina at greensboro	1	['2008']	domestic
+harvard university	university of sao paulo	1	['2001']	trans-continental
+harvard university	federal university of sao paulo	1	['2001']	trans-continental
+harvard university	clark university	1	['2007']	domestic
+harvard university	university of oxford	2	['2008', '2004']	trans-continental
+harvard university	university of zambia	1	['2006']	trans-continental
+harvard university	university of queensland	1	['2007']	domestic
+harvard university	chulalongkorn university	1	['2007']	trans-continental
+harvard university	mahidol university	1	['2007']	trans-continental
+harvard university	thailand ministry of public health	1	['2007']	trans-continental
+harvard university	national population and family planning commission	1	['2006']	trans-continental
+harvard university	stockholm environment institute	1	['2007']	domestic
+harvard university	john snow inc	1	['2005']	domestic
+harvard university	tokai university	1	['2008']	trans-continental
+university of sao paulo	federal university of sao paulo	1	['2001']	domestic
+university of sao paulo	university of potsdam	1	['2006']	trans-continental
+university of sao paulo	marine biological laboratory	1	['2006']	trans-continental
+university of sao paulo	empresa brasileira de pesquisa agropecuaria	1	['2006']	domestic
+university of sao paulo	university of georgia	1	['2006']	trans-continental
+university of sao paulo	centre de cooperation internationale en recherche agronomique pour le developpement	1	['2008']	trans-continental
+university of sao paulo	sciences po	1	['2008']	trans-continental
+university of oxford	united states geological survey	2	['2003', '2006']	trans-continental
+university of oxford	cheikh anta diop university	1	['2006']	trans-continental
+university of oxford	university of sussex	1	['2003']	domestic
+university of oxford	kenya medical research institute	2	['2007', '2006']	trans-continental
+university of oxford	yale university	1	['2005']	trans-continental
+university of oxford	john radcliffe hospital	2	['2005', '2006']	domestic
+university of oxford	mahidol university	1	['2005']	trans-continental
+university of oxford	university of texas at austin	1	['2006']	trans-continental
+university of queensland	university of washington	1	['2007']	domestic
+university of queensland	chulalongkorn university	1	['2007']	trans-continental
+university of queensland	mahidol university	1	['2007']	trans-continental
+university of queensland	thailand ministry of public health	1	['2007']	trans-continental
+university of queensland	james cook university	1	['2005']	trans-continental
+university of queensland	rmit university	1	['2004']	trans-continental
+chulalongkorn university	mahidol university	1	['2007']	domestic
+chulalongkorn university	thailand ministry of public health	1	['2007']	domestic
+mahidol university	wellcome trust	1	['2005']	trans-continental
+mahidol university	thailand ministry of public health	1	['2007']	domestic
+mahidol university	john radcliffe hospital	1	['2005']	trans-continental
+mahidol university	thailand national science and technology development agency	1	['2008']	domestic
+mahidol university	biotec	1	['2008']	trans-continental
+stockholm environment institute	university of leeds	1	['2006']	trans-continental
+stockholm environment institute	royal institute of technology	1	['2007']	trans-continental
+stockholm environment institute	international potato center	1	['2008']	trans-continental
+university of potsdam	university of tubingen	1	['2006']	domestic
+university of potsdam	university of hamburg	1	['2006']	domestic
+university of potsdam	university of duisburg essen	1	['2006']	domestic
+university of potsdam	marine biological laboratory	1	['2006']	trans-continental
+university of potsdam	empresa brasileira de pesquisa agropecuaria	1	['2006']	trans-continental
+university of potsdam	university of georgia	1	['2006']	trans-continental
+marine biological laboratory	university of georgia	1	['2006']	domestic
+marine biological laboratory	empresa brasileira de pesquisa agropecuaria	1	['2006']	trans-continental
+empresa brasileira de pesquisa agropecuaria	university of georgia	1	['2006']	trans-continental
+university of georgia	monash university	1	['2008']	trans-continental
+university of georgia	food and agriculture organization	1	['2000']	domestic
+university of georgia	zamorano	1	['2004']	international
+university of georgia	auburn university	1	['2004']	domestic
+centre de cooperation internationale en recherche agronomique pour le developpement	institut national de la recherche agronomique	1	['2004']	trans-continental
+centre de cooperation internationale en recherche agronomique pour le developpement	sciences po	1	['2008']	domestic
+university of washington	university of nairobi	1	['2007']	trans-continental
+university of washington	kenya medical research institute	1	['2007']	trans-continental
+university of washington	government of the united states of america	1	['2007']	domestic
+university of washington	lund university	1	['2004']	trans-continental
+wellington management company	university of otago	1	['2005']	trans-continental
+university of otago	university of canterbury	1	['2004']	domestic
+university of otago	fiji school of medicine	1	['2000']	international
+kamuzu central hospital	university college london	1	['2008']	trans-continental
+university of south carolina	university of north carolina at charlotte	1	['1997']	domestic
+bocconi university	university college london	1	['2008']	international
+bocconi university	university of western australia	1	['2008']	trans-continental
+bocconi university	trinity college	1	['2008']	trans-continental
+bocconi university	york university	1	['2008']	trans-continental
+bocconi university	university of brescia	1	['2007']	trans-continental
+university of western australia	university college london	1	['2008']	trans-continental
+university of western australia	national university of colombia	1	['2008']	trans-continental
+university of western australia	rafael advanced defense systems	1	['2008']	trans-continental
+university of western australia	trinity college	1	['2008']	trans-continental
+university of western australia	york university	1	['2008']	trans-continental
+university college london	university of copenhagen	1	['2006']	international
+university college london	university of lagos	2	['2006', '2007']	trans-continental
+university college london	university of brighton	1	['2008']	domestic
+university college london	university of burgundy	1	['2006']	international
+university college london	queen mary university of london	1	['2008']	domestic
+university college london	arcadis nv	1	['2008']	trans-continental
+university college london	unesco	1	['2008']	trans-continental
+university college london	worldfish	1	['2007']	trans-continental
+university college london	trinity college	1	['2008']	trans-continental
+university college london	york university	1	['2008']	trans-continental
+university college london	queen margaret university	1	['2008']	domestic
+university college london	binghamton university	1	['2007']	trans-continental
+trinity college	york university	1	['2008']	international
+york university	university of tennessee	1	['2003']	international
+york university	university of osnabruck	2	['2007', '2007']	trans-continental
+york university	oko institut	2	['2007', '2007']	trans-continental
+james cook university	rhodes university	1	['2005']	trans-continental
+james cook university	world agroforestry centre	1	['2005']	trans-continental
+rmit university	monash university malaysia campus	1	['2007']	trans-continental
+rmit university	brunel university london	1	['2007']	trans-continental
+university of new south wales	kenyatta university	1	['2005']	trans-continental
+london school of economics and political science	ministry of economy and finance	1	['2008']	trans-continental
+london school of economics and political science	ministry of social development	1	['2004']	trans-continental
+ecole polytechnique federale de lausanne	swiss federal laboratories for materials science and technology	1	['2002']	domestic
+ecole polytechnique federale de lausanne	supsi	1	['2008']	domestic
+ecole polytechnique federale de lausanne	indian institute of technology madras	1	['2008']	trans-continental
+ecole polytechnique federale de lausanne	max planck society	1	['2007']	trans-continental
+ecole polytechnique federale de lausanne	national technical university of athens	2	['2007', '2006']	international
+ecole polytechnique federale de lausanne	ludwig maximilian university of munich	2	['2007', '2006']	international
+ecole polytechnique federale de lausanne	norwegian institute for air research	2	['2007', '2006']	international
+ecole polytechnique federale de lausanne	aristotle university of thessaloniki	1	['2007']	international
+ecole polytechnique federale de lausanne	swedish defence research agency	1	['2007']	international
+supsi	indian institute of technology madras	1	['2008']	trans-continental
+max planck society	national technical university of athens	2	['2007', '2006']	trans-continental
+max planck society	ludwig maximilian university of munich	2	['2007', '2006']	trans-continental
+max planck society	norwegian institute for air research	2	['2007', '2006']	trans-continental
+max planck society	aristotle university of thessaloniki	1	['2007']	trans-continental
+max planck society	swedish defence research agency	1	['2007']	trans-continental
+national technical university of athens	fraunhofer society	1	['2008']	international
+national technical university of athens	ludwig maximilian university of munich	2	['2007', '2006']	international
+national technical university of athens	norwegian institute for air research	2	['2007', '2006']	international
+national technical university of athens	aristotle university of thessaloniki	1	['2007']	domestic
+national technical university of athens	swedish defence research agency	1	['2007']	international
+ludwig maximilian university of munich	norwegian institute for air research	2	['2007', '2006']	international
+ludwig maximilian university of munich	aristotle university of thessaloniki	1	['2007']	international
+ludwig maximilian university of munich	swedish defence research agency	1	['2007']	international
+norwegian institute for air research	aristotle university of thessaloniki	1	['2007']	international
+norwegian institute for air research	swedish defence research agency	1	['2007']	international
+aristotle university of thessaloniki	swedish defence research agency	1	['2007']	international
+fraunhofer society	vienna university of technology	1	['2008']	international
+fraunhofer society	rwth aachen university	1	['2005']	domestic
+vienna university of technology	university of vienna	1	['2008']	domestic
+rwth aachen university	university of bonn	1	['2000']	domestic
+rwth aachen university	darmstadt university of applied sciences	1	['2000']	domestic
+indian institute of management ahmedabad	technical university of denmark	1	['2008']	trans-continental
+indian institute of management ahmedabad	maulana azad national institute of technology	1	['2007']	domestic
+technical university of denmark	university of kassel	1	['2008']	international
+technical university of denmark	statistics denmark	1	['2004']	domestic
+university of tennessee	university of buenos aires	1	['2004']	trans-continental
+university of tennessee	university of kentucky	1	['2004']	domestic
+university of cambridge	imperial college london	2	['2006', '2007']	domestic
+university of cambridge	open university	1	['2007']	trans-continental
+university of cambridge	zoological society of london	1	['2005']	trans-continental
+university of cambridge	the global fund to fight aids tuberculosis and malaria	1	['2007']	trans-continental
+university of cambridge	simon fraser university	1	['2008']	trans-continental
+university of cambridge	worldfish	1	['2008']	trans-continental
+university of cambridge	royal botanic gardens	1	['2005']	trans-continental
+university of cambridge	royal society for the protection of birds	1	['2005']	domestic
+imperial college london	polytechnic university of milan	1	['2000']	international
+imperial college london	abertay university	1	['2003']	domestic
+imperial college london	heriot watt university	1	['2003']	domestic
+imperial college london	university of bradford	1	['2003']	domestic
+imperial college london	coventry university	1	['2003']	domestic
+imperial college london	university of calgary	1	['2003']	trans-continental
+imperial college london	lulea university of technology	1	['2004']	international
+honeywell	university of florida	1	['2006']	domestic
+university of florida	university of richmond	1	['2007']	domestic
+queensland university of technology	open university	1	['2006']	trans-continental
+queensland university of technology	flinders university	1	['2000']	domestic
+open university	arizona state university	1	['2005']	domestic
+open university	sheffield hallam university	1	['2007']	trans-continental
+university of ghana	university of southern maine	1	['2007']	trans-continental
+university of ghana	population council	1	['2007']	trans-continental
+university of ghana	university of benin	1	['2007']	international
+university of southern maine	population council	1	['2007']	domestic
+scripps institution of oceanography	goddard space flight center	1	['2008']	domestic
+scripps institution of oceanography	center for earth resources observation and science	1	['2008']	domestic
+center for earth resources observation and science	goddard space flight center	1	['2008']	domestic
+university of british columbia	national tropical botanical garden	1	['2002']	international
+university of british columbia	brunel university london	1	['2007']	trans-continental
+university of british columbia	university of leeds	1	['2006']	trans-continental
+university of british columbia	university of oregon	1	['2004']	international
+university of british columbia	university of medicine and dentistry of new jersey	1	['2004']	international
+university of british columbia	united nations population fund	1	['2007']	international
+university of british columbia	queen s university	1	['2005']	domestic
+brunel university london	monash university malaysia campus	1	['2007']	trans-continental
+university of leeds	linkoping university	1	['2007']	international
+university of leeds	hamburg university of technology	1	['2007']	international
+university of leeds	hanoi university	1	['2007']	trans-continental
+university of leeds	university of split	1	['2008']	international
+university of leeds	aga khan university hospital	1	['2008']	trans-continental
+university of oregon	university of medicine and dentistry of new jersey	1	['2004']	domestic
+united nations population fund	andalas university	1	['2008']	trans-continental
+queen s university	royal roads university	1	['2006']	domestic
+queen s university	university of manitoba	1	['2006']	domestic
+curtin university	university college dublin	1	['2007']	trans-continental
+curtin university	gadjah mada university	1	['2007']	trans-continental
+university college dublin	university of exeter	1	['2000']	international
+stellenbosch university	university of venda	1	['2006']	domestic
+stellenbosch university	university of zimbabwe	1	['2006']	international
+stellenbosch university	university of southampton	1	['2006']	trans-continental
+stellenbosch university	royal college of surgeons in ireland	1	['2006']	trans-continental
+stellenbosch university	council of scientific and industrial research	1	['2006']	trans-continental
+siemens	mvv energie	1	['2008']	trans-continental
+university of alberta	alberta research council	1	['2008']	international
+university of alberta	national cheng kung university	1	['2007']	trans-continental
+university of alberta	brigham and women s hospital	1	['2007']	international
+national cheng kung university	brigham and women s hospital	1	['2007']	trans-continental
+university of venda	university of zimbabwe	1	['2006']	international
+university of venda	university of southampton	1	['2006']	trans-continental
+university of venda	royal college of surgeons in ireland	1	['2006']	trans-continental
+university of venda	council of scientific and industrial research	1	['2006']	trans-continental
+university of zimbabwe	unesco ihe institute for water education	1	['2005']	trans-continental
+university of zimbabwe	university of southampton	1	['2006']	trans-continental
+university of zimbabwe	royal college of surgeons in ireland	1	['2006']	trans-continental
+university of zimbabwe	council of scientific and industrial research	1	['2006']	trans-continental
+university of southampton	kenya medical research institute	1	['2006']	trans-continental
+university of southampton	john radcliffe hospital	1	['2006']	domestic
+university of southampton	university of sheffield	1	['2002']	domestic
+university of southampton	royal college of surgeons in ireland	1	['2006']	international
+university of southampton	council of scientific and industrial research	1	['2006']	trans-continental
+royal college of surgeons in ireland	council of scientific and industrial research	1	['2006']	trans-continental
+council of scientific and industrial research	university of botswana	1	['2006']	trans-continental
+council of scientific and industrial research	university of sussex	1	['2006']	trans-continental
+council of scientific and industrial research	linkoping university	1	['2006']	trans-continental
+university of the free state	international crops research institute for the semi arid tropics	1	['2008']	international
+university of manitoba	royal roads university	1	['2006']	domestic
+university of manitoba	simon fraser university	1	['2007']	domestic
+university of manitoba	saint mary s university	1	['2007']	international
+university of manitoba	university of new brunswick	1	['2007']	domestic
+montana state university	colorado state university	1	['2007']	domestic
+montana state university	south dakota state university	1	['2007']	domestic
+montana state university	university of wyoming	1	['2007']	domestic
+montana state university	bangladesh university of engineering and technology	1	['2005']	trans-continental
+colorado state university	south dakota state university	1	['2007']	domestic
+colorado state university	university of wyoming	1	['2007']	domestic
+colorado state university	durham university	1	['2005']	trans-continental
+colorado state university	university of calgary	1	['2008']	international
+colorado state university	university of camerino	1	['2008']	trans-continental
+south dakota state university	university of wyoming	1	['2007']	domestic
+university of wyoming	university of stirling	1	['1997']	trans-continental
+university of wyoming	newcastle university	1	['1997']	trans-continental
+durham university	lancaster university	1	['2007']	domestic
+university of calgary	abertay university	1	['2003']	trans-continental
+university of calgary	heriot watt university	1	['2003']	trans-continental
+university of calgary	university of bradford	1	['2003']	trans-continental
+university of calgary	coventry university	1	['2003']	trans-continental
+university of calgary	university of camerino	1	['2008']	trans-continental
+university of calgary	dalhousie university	1	['2008']	domestic
+university of stirling	newcastle university	1	['1997']	domestic
+university of zurich	university of gothenburg	1	['2007']	international
+university of gothenburg	internet society	1	['2007']	trans-continental
+university of gothenburg	open university of catalonia	1	['2007']	international
+university of botswana	university of texas at san antonio	1	['2004']	trans-continental
+university of botswana	university of sussex	1	['2006']	trans-continental
+university of botswana	linkoping university	1	['2006']	trans-continental
+university of botswana	sapienza university of rome	1	['2008']	trans-continental
+university of sussex	linkoping university	1	['2006']	international
+linkoping university	hamburg university of technology	1	['2007']	international
+linkoping university	hanoi university	1	['2007']	trans-continental
+rhodes university	world agroforestry centre	1	['2005']	international
+rhodes university	university college west	1	['2008']	trans-continental
+world agroforestry centre	international water management institute	1	['2008']	trans-continental
+world agroforestry centre	katholieke universiteit leuven	1	['2008']	trans-continental
+hamburg university of technology	hanoi university	1	['2007']	trans-continental
+university of split	aga khan university hospital	1	['2008']	trans-continental
+kiel institute for the world economy	heidelberg university	1	['2006']	trans-continental
+united nations development programme	university of hertfordshire	1	['2008']	trans-continental
+united nations development programme	norwegian agency for development cooperation	1	['2007']	trans-continental
+united nations development programme	university of nottingham	1	['2008']	trans-continental
+united nations development programme	human sciences research council	1	['2007']	trans-continental
+united nations development programme	university of namibia	1	['2007']	trans-continental
+united nations development programme	central bureau of statistics	1	['2007']	domestic
+conservation international	university of connecticut	1	['2006']	domestic
+university of southern california	california state university fullerton	1	['2007']	domestic
+institut national de la recherche agronomique	dalle molle institute for artificial intelligence research	1	['2007']	trans-continental
+dalle molle institute for artificial intelligence research	lund university	1	['2007']	international
+mines paristech	lund university	1	['2008']	international
+tufts university	bangladesh centre for advanced studies	1	['2003']	trans-continental
+tufts university	sustainable development policy institute	1	['2003']	trans-continental
+tufts university	world food programme	1	['2008']	domestic
+bangladesh centre for advanced studies	sustainable development policy institute	1	['2003']	international
+united states geological survey	university of texas at austin	1	['2006']	domestic
+united states geological survey	cheikh anta diop university	1	['2006']	trans-continental
+university of texas at austin	cheikh anta diop university	1	['2006']	trans-continental
+area science park	university of trieste	1	['2007']	domestic
+tsinghua university	princeton university	4	['2003', '2003', '2003', '2001']	trans-continental
+tsinghua university	ritsumeikan asia pacific university	1	['2008']	international
+tsinghua university	beijing union university	1	['2004']	domestic
+tsinghua university	university of science and technology beijing	1	['2004']	domestic
+princeton university	indiana university purdue university indianapolis	1	['2008']	domestic
+beijing union university	university of science and technology beijing	1	['2004']	domestic
+monsanto	calvin college	1	['2008']	domestic
+university of nottingham	human sciences research council	1	['2007']	trans-continental
+university of nottingham	environment agency	1	['2006']	domestic
+human sciences research council	university of namibia	1	['2007']	international
+human sciences research council	central bureau of statistics	1	['2007']	trans-continental
+university of namibia	central bureau of statistics	1	['2007']	trans-continental
+university of bonn	darmstadt university of applied sciences	1	['2000']	domestic
+yale university	university of massachusetts medical school	1	['2004']	domestic
+american university	north south university	1	['2008']	trans-continental
+aarhus university	higher university of san andres	1	['2005']	trans-continental
+aarhus university	pontificia universidad catolica del ecuador	1	['2005']	trans-continental
+aarhus university	university of kassel	1	['2008']	international
+higher university of san andres	pontificia universidad catolica del ecuador	1	['2005']	international
+texas tech university	florida state university	1	['2002']	domestic
+texas tech university	university of central florida	1	['2002']	domestic
+florida state university	university of central florida	1	['2002']	domestic
+university of central florida	university of north texas	1	['2005']	domestic
+university of sheffield	university of wisconsin milwaukee	1	['2007']	trans-continental
+university of sheffield	li ka shing faculty of medicine university of hong kong	1	['2008']	trans-continental
+university of lagos	university of copenhagen	1	['2006']	trans-continental
+university of tubingen	university of hamburg	1	['2006']	domestic
+university of tubingen	university of duisburg essen	1	['2006']	domestic
+university of hamburg	university of duisburg essen	1	['2006']	domestic
+ovidius university	university of craiova	1	['2008']	domestic
+internet society	open university of catalonia	1	['2007']	trans-continental
+university of california riverside	los angeles community college district	1	['2008']	domestic
+university of maryland college park	university of virginia	1	['2001']	domestic
+kenyon college	ohio environmental protection agency	1	['2005']	domestic
+louisiana state university	university of vermont	1	['2006']	domestic
+arizona state university	bournemouth university	1	['2007']	trans-continental
+arizona state university	mustafa kemal university	1	['2007']	trans-continental
+bournemouth university	mustafa kemal university	1	['2007']	trans-continental
+university of buenos aires	university of kentucky	1	['2004']	trans-continental
+university of kentucky	university of western sydney	1	['2007']	international
+university of kentucky	university of newcastle	1	['2007']	domestic
+university of kentucky	science college	1	['2000']	domestic
+kenya medical research institute	university of nairobi	1	['2007']	domestic
+kenya medical research institute	john radcliffe hospital	1	['2006']	trans-continental
+john radcliffe hospital	wellcome trust	1	['2005']	trans-continental
+seoul national university	samsung	1	['2005']	trans-continental
+polytechnic university of milan	national institute for consumer research	1	['2008']	trans-continental
+polytechnic university of milan	flemish institute for technological research	1	['2008']	international
+polytechnic university of milan	electricite de france	1	['2008']	trans-continental
+national institute for consumer research	flemish institute for technological research	1	['2008']	trans-continental
+national institute for consumer research	electricite de france	1	['2008']	domestic
+flemish institute for technological research	electricite de france	1	['2008']	trans-continental
+guizhou university	liaoning university	1	['2007']	domestic
+state university of new york system	the catholic university of america	1	['2000']	domestic
+the catholic university of america	pan american health organization	1	['2008']	domestic
+pan american health organization	world bank institute	1	['2006']	domestic
+poznan university of technology	carleton university	2	['2002', '2000']	trans-continental
+carleton university	university of surrey	2	['2005', '2007']	trans-continental
+vienna institute of demography	stony brook university	1	['2005']	trans-continental
+university of surrey	rio tinto group	1	['1999']	trans-continental
+university of surrey	royal college of psychiatrists	1	['2006']	domestic
+university of ibadan	obafemi awolowo university	1	['2007']	domestic
+unesco ihe institute for water education	medecins sans frontieres	1	['2006']	trans-continental
+international water management institute	charles sturt university	1	['2008']	trans-continental
+international water management institute	katholieke universiteit leuven	1	['2008']	trans-continental
+oakland university	air force institute of technology	1	['2000']	domestic
+national scientific and technical research council	universidad del salvador	1	['2006']	domestic
+national scientific and technical research council	universidad argentina de la empresa	1	['2006']	domestic
+universidad del salvador	university of siena	1	['2001']	trans-continental
+universidad del salvador	universidad argentina de la empresa	1	['2006']	domestic
+polytechnic university of catalonia	polytechnic university of valencia	1	['2004']	domestic
+polytechnic university of catalonia	complutense university of madrid	1	['2005']	domestic
+university of tehran	sharif university of technology	1	['2008']	domestic
+university of tehran	iran university of science and technology	1	['2008']	domestic
+university of tehran	islamic azad university	1	['2008']	domestic
+sharif university of technology	iran university of science and technology	1	['2008']	domestic
+sharif university of technology	islamic azad university	1	['2008']	domestic
+iran university of science and technology	islamic azad university	1	['2008']	domestic
+university of osnabruck	oko institut	2	['2007', '2007']	domestic
+university of osnabruck	swiss federal institute of aquatic science and technology	1	['2002']	international
+mcgill university	zoological society of london	1	['2002']	international
+zoological society of london	royal botanic gardens	1	['2005']	international
+zoological society of london	royal society for the protection of birds	1	['2005']	trans-continental
+the nature conservancy	santa clara university	1	['2008']	domestic
+centre national de la recherche scientifique	french institute for research in computer science and automation	1	['2008']	domestic
+centre national de la recherche scientifique	asm clermont auvergne	1	['2006']	domestic
+french institute for research in computer science and automation	university of bordeaux	1	['2008']	domestic
+george washington university	annie e casey foundation	1	['1999']	domestic
+simon fraser university	worldfish	1	['2008']	international
+simon fraser university	saint mary s university	1	['2007']	international
+simon fraser university	university of new brunswick	1	['2007']	domestic
+delaware state university	smithsonian tropical research institute	1	['2007']	domestic
+royal botanic gardens	royal society for the protection of birds	1	['2005']	trans-continental
+royal society for the protection of birds	world conservation monitoring centre	1	['2003']	domestic
+university of maribor	university of ljubljana	1	['2004']	domestic
+university of ljubljana	china university of mining and technology	1	['2006']	trans-continental
+university of illinois at chicago	illinois institute of technology	1	['2002']	domestic
+university of illinois at chicago	ecole polytechnique	1	['2007']	trans-continental
+indian institute of chemical technology	instituto piaget	1	['2008']	trans-continental
+eni corporate university	university of milan	1	['2003']	domestic
+university of milan	eni	1	['2003']	trans-continental
+delft university of technology	international crops research institute for the semi arid tropics	1	['2006']	trans-continental
+delft university of technology	tellus institute	1	['2006']	trans-continental
+delft university of technology	new york university	1	['2008']	trans-continental
+new york university	rutgers university	1	['2006']	domestic
+international union against tuberculosis and lung disease	national tuberculosis institute	1	['2008']	trans-continental
+international union against tuberculosis and lung disease	european centre for disease prevention and control	1	['2008']	international
+national tuberculosis institute	european centre for disease prevention and control	1	['2008']	trans-continental
+university of ottawa	university of the philippines manila	1	['2005']	trans-continental
+japanese ministry of international trade and industry	new energy and industrial technology development organization	1	['1998']	trans-continental
+university of skovde	philips	1	['2008']	trans-continental
+university of skovde	university of california irvine	1	['2008']	trans-continental
+university of skovde	university college cork	1	['2008']	international
+university of skovde	nokia networks	1	['2008']	trans-continental
+philips	university of california irvine	1	['2008']	international
+philips	university college cork	1	['2008']	trans-continental
+philips	nokia networks	1	['2008']	international
+university of california irvine	university college cork	1	['2008']	trans-continental
+university of california irvine	nokia networks	1	['2008']	domestic
+university college cork	nokia networks	1	['2008']	trans-continental
+abertay university	heriot watt university	1	['2003']	domestic
+abertay university	university of bradford	1	['2003']	domestic
+abertay university	coventry university	1	['2003']	domestic
+heriot watt university	university of bradford	1	['2003']	domestic
+heriot watt university	coventry university	1	['2003']	domestic
+university of bradford	coventry university	2	['2003', '2007']	domestic
+wingate university	berea college	1	['2006']	domestic
+university of coimbra	strathclyde institute of pharmacy and biomedical sciences	1	['2006']	international
+university of vienna	swiss federal institute of aquatic science and technology	1	['1999']	international
+laval university	universite de montreal	1	['2004']	domestic
+laval university	african development bank	1	['2007']	trans-continental
+sheffield hallam university	university of eastern piedmont	1	['2008']	international
+university of siena	graz university of technology	1	['2007']	trans-continental
+university of siena	university of perugia	1	['2007']	trans-continental
+japan women s university	university of yamanashi	1	['2005']	domestic
+silver spring networks	edward hines jr va hospital	1	['2008']	domestic
+silver spring networks	ceres	1	['2008']	domestic
+edward hines jr va hospital	ceres	1	['2008']	domestic
+ziauddin university	population reference bureau	1	['2008']	trans-continental
+university of exeter	aberystwyth university	1	['2000']	domestic
+university of brighton	queen mary university of london	1	['2008']	domestic
+university of brighton	arcadis nv	1	['2008']	trans-continental
+queen mary university of london	arcadis nv	1	['2008']	trans-continental
+university of haifa	technion israel institute of technology	1	['2001']	domestic
+university of western sydney	university of newcastle	1	['2007']	international
+savonia university of applied sciences	ştefan cel mare university of suceava	1	['2008']	international
+national research council	european respiratory society	1	['2006']	trans-continental
+california state university long beach	colgate university	1	['2006']	domestic
+colgate university	florida international university	1	['2005']	domestic
+universidade federal rural de pernambuco	federal university of pernambuco	1	['2005']	domestic
+university of minho	instituto politecnico nacional	1	['2008']	trans-continental
+agricultural applied economics association	beijing forestry university	1	['2008']	trans-continental
+agricultural applied economics association	united states department of agriculture	1	['2005']	domestic
+university of rouen	metz	1	['2004']	domestic
+university health network	st francis medical center	1	['2002']	international
+institut de recherche pour le developpement	versailles saint quentin en yvelines university	1	['2007']	domestic
+edith cowan university	university of western ontario	1	['2003']	trans-continental
+university of western ontario	university of waterloo	1	['2007']	domestic
+beijing normal university	scottish environment protection agency	1	['2006']	trans-continental
+duke university	duquesne university	1	['2004']	domestic
+duke university	temple university ambler	1	['2004']	domestic
+duquesne university	temple university ambler	1	['2004']	domestic
+national university of science and technology	florida a m university	1	['2008']	trans-continental
+university of malaya	national university of malaysia	1	['2007']	domestic
+thailand national science and technology development agency	biotec	1	['2008']	trans-continental
+zamorano	auburn university	1	['2004']	international
+royal roads university	university of the fraser valley	1	['2006']	domestic
+university of oklahoma	urbana university	1	['2007']	domestic
+ruhr university bochum	faculdade de engenharia da universidade do porto	1	['2007']	international
+shinshu university	jahangirnagar university	1	['2006']	international
+peking university	ministry of water resources	1	['2006']	trans-continental
+areva	french alternative energies and atomic energy commission	1	['2007']	trans-continental
+university of alicante	university of antioquia	1	['2006']	trans-continental
+university of alicante	facultad de ciencias medicas	1	['2006']	trans-continental
+university of antioquia	universidad autonoma de yucatan	1	['2006']	trans-continental
+university of antioquia	facultad de ciencias medicas	1	['2006']	trans-continental
+facultad de ciencias medicas	universidad autonoma de yucatan	1	['2006']	international
+icahn school of medicine at mount sinai	world heart federation	1	['2007']	trans-continental
+the energy and resources institute	international institute for sustainable development	1	['2007']	international
+transport research institute	arup laboratories	1	['2001']	domestic
+dalhousie university	ecotrust	1	['2007']	international
+fudan university	peking union medical college	1	['2006']	domestic
+national university of colombia	rafael advanced defense systems	1	['2008']	trans-continental
+australian bureau of rural sciences	australian government	1	['2008']	trans-continental
+morgan state university	university of east london	1	['2004']	trans-continental
+university of east london	manchester metropolitan university	1	['2004']	domestic
+potsdam institute for climate impact research	polish academy of sciences	1	['2007']	international
+university of waterloo	dalian university of technology	1	['2008']	trans-continental
+mount sinai st luke s and mount sinai roosevelt	washington university in st louis	1	['2002']	domestic
+mount sinai st luke s and mount sinai roosevelt	swedish covenant hospital	1	['2002']	domestic
+washington university in st louis	swedish covenant hospital	1	['2002']	domestic
+washington university in st louis	robert wood johnson foundation	1	['2007']	domestic
+washington university in st louis	southern illinois university carbondale	1	['2007']	domestic
+washington university in st louis	western connecticut state university	1	['2007']	domestic
+robert wood johnson foundation	southern illinois university carbondale	1	['2007']	domestic
+robert wood johnson foundation	western connecticut state university	1	['2007']	domestic
+southern illinois university carbondale	western connecticut state university	1	['2007']	domestic
+tata institute of social sciences	st john s university	1	['2008']	trans-continental
+tata institute of social sciences	government of maharashtra	1	['2008']	domestic
+st john s university	government of maharashtra	1	['2008']	trans-continental
+heidelberg university	university of kiel	1	['2006']	trans-continental
+university of jyvaskyla	university of tampere	1	['2005']	domestic
+west virginia university	university of the pacific	1	['2008']	domestic
+shanghai jiao tong university	university of science and technology sana a	1	['2007']	international
+photronics inc	cypress semiconductor	1	['2005']	domestic
+golder associates	colorado school of mines	1	['2006']	domestic
+arizona state university at the polytechnic campus	the advisory board company	1	['2008']	domestic
+university of cordoba	cgiar	1	['2003']	trans-continental
+tbilisi state university	government college university	1	['2008']	international
+saint mary s university	university of new brunswick	1	['2007']	international
+centre for environment fisheries and aquaculture science	university of hull	1	['2008']	domestic
+the chinese university of hong kong	university of hong kong	1	['2008']	domestic
+university of new england	royal university of bhutan	1	['2008']	trans-continental
+japanese ministry of health labour and welfare	keio university	1	['2007']	domestic
+university of tartu	tallinn university of technology	1	['2007']	domestic
+technical university of madrid	ministry of public works	1	['2007']	trans-continental
+singapore management university	southern methodist university	1	['2006']	trans-continental
+university of asmara	ministry of energy	1	['2007']	trans-continental
+ministry of energy	qom university of medical sciences	1	['2008']	trans-continental
+ministry of energy	university of gilan	1	['2008']	trans-continental
+qom university of medical sciences	university of gilan	1	['2008']	domestic
+university of colorado colorado springs	valparaiso university	1	['2005']	domestic
+chia nan university of pharmacy and science	national pingtung university of science and technology	1	['2007']	domestic
+glenn research center	kennedy space center	1	['2004']	domestic
+booz allen hamilton	university of maryland university college	1	['2006']	domestic
+serco group	european space agency	1	['2007']	domestic
+university of n djamena	national institute of statistics	1	['2007']	trans-continental
